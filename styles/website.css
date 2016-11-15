@@ -1,4 +1,5 @@
 /* CSS for website */
-.p{
-text-align: left;
+
+.black-text {
+  color: #000000 !important;
 }
