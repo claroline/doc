@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Les bases](chapter1.md)
+* [First Chapter](chapter1.md)
+* Pour les gestionnaires
 
