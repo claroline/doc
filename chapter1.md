@@ -3,7 +3,10 @@
 
 ![](http://www.claroline.net/uploads/custom/images/1522.jpeg)
 
-Se repérer sur Claroline Connect: l'interface de Claroline Connect
+
+## Se repérer sur Claroline Connect: l'interface de Claroline Connect
+
+
 
 La plateforme Claroline Connect met à la disposition de l'utilisateur:
 
