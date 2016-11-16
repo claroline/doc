@@ -1,7 +1,7 @@
 {
     "plugins": [
         "add-header",
-        "header"
+        "-header"
     ],
     "pluginsConfig": {}
 }
