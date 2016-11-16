@@ -10,7 +10,7 @@
         "-github",
         "-back-to-top-button",
         "emphasize",
-        "language-picker"
+        "-language-picker"
     ],
     "pluginsConfig": {
         "-fontsettings": {
