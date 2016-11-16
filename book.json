@@ -3,7 +3,8 @@
         "foo"
     ],
     "plugins": [
-        "atoc"
+        "atoc",
+        "code-editor"
     ],
     "pluginsConfig": {}
 }
