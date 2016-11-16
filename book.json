@@ -1,3 +1,9 @@
 {
-  "plugin": ["foo"]
+    "plugin": [
+        "foo"
+    ],
+    "plugins": [
+        "atoc"
+    ],
+    "pluginsConfig": {}
 }
