@@ -2,7 +2,7 @@
     "plugins": [
         "add-header",
         "-header",
-        "-code-editor",
+        "code-editor",
         "collapsible-chapters",
         "-codesnippet",
         "-customtheme",
