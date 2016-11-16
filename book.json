@@ -1,10 +1,35 @@
 {
-    "plugin": [
-        "foo"
-    ],
     "plugins": [
-        "atoc",
-        "code-editor"
+        "add-header",
+        "-header",
+        "code-editor",
+        "collapsible-chapters",
+        "codesnippet",
+        "customtheme",
+        "-fontsettings",
+        "-github",
+        "-back-to-top-button",
+        "emphasize",
+        "-language-picker",
+        "packt-fontsettings",
+        "-responsive-iframes",
+        "sitemap",
+        "toggle-chapters",
+        "-youtube"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "-fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": "2"
+        },
+        "-language-picker": {
+            "grid-columns": "3"
+        },
+        "packt-fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": "2"
+        }
+    }
 }
