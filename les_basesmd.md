@@ -79,7 +79,7 @@ C'est la zone de dépôt ou de création des ressources (fichiers, forums, exerc
 
 ![](http://www.claroline.net/uploads/custom/images/1385.png)
 
-Figure 4: Exemple de gestionnaire des ressources d'un espace d'activités.
+<p style="text-aligne: center; color: blue">Figure 4: Exemple de gestionnaire des ressources d'un espace d'activités.</p>
 
 
 
