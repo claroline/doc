@@ -2,7 +2,8 @@
     "plugins": [
         "add-header",
         "-header",
-        "-code-editor"
+        "-code-editor",
+        "collapsible-chapters"
     ],
     "pluginsConfig": {}
 }
