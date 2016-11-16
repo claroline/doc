@@ -5,7 +5,7 @@
         "-code-editor",
         "collapsible-chapters",
         "-codesnippet",
-        "customtheme"
+        "-customtheme"
     ],
     "pluginsConfig": {}
 }
