@@ -6,7 +6,7 @@
         "collapsible-chapters",
         "-codesnippet",
         "-customtheme",
-        "fontsettings"
+        "-fontsettings"
     ],
     "pluginsConfig": {}
 }
