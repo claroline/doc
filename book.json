@@ -17,6 +17,9 @@
             "theme": "white",
             "family": "sans",
             "size": "2"
+        },
+        "-language-picker": {
+            "grid-columns": "3"
         }
     }
 }
