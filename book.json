@@ -7,7 +7,7 @@
         "-codesnippet",
         "-customtheme",
         "-fontsettings",
-        "github"
+        "-github"
     ],
     "pluginsConfig": {
         "-fontsettings": {
