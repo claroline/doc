@@ -12,7 +12,7 @@
         "emphasize",
         "-language-picker",
         "packt-fontsettings",
-        "responsive-iframes"
+        "-responsive-iframes"
     ],
     "pluginsConfig": {
         "-fontsettings": {
