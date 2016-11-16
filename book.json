@@ -11,7 +11,8 @@
         "-back-to-top-button",
         "emphasize",
         "-language-picker",
-        "packt-fontsettings"
+        "packt-fontsettings",
+        "responsive-iframes"
     ],
     "pluginsConfig": {
         "-fontsettings": {
