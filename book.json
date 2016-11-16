@@ -10,7 +10,8 @@
         "-github",
         "-back-to-top-button",
         "emphasize",
-        "-language-picker"
+        "-language-picker",
+        "packt-fontsettings"
     ],
     "pluginsConfig": {
         "-fontsettings": {
