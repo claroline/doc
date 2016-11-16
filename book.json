@@ -13,7 +13,8 @@
         "-language-picker",
         "packt-fontsettings",
         "-responsive-iframes",
-        "sitemap"
+        "sitemap",
+        "toggle-chapters"
     ],
     "pluginsConfig": {
         "-fontsettings": {
