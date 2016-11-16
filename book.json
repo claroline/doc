@@ -15,7 +15,7 @@
         "-responsive-iframes",
         "sitemap",
         "toggle-chapters",
-        "youtube"
+        "-youtube"
     ],
     "pluginsConfig": {
         "-fontsettings": {
