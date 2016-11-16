@@ -14,7 +14,8 @@
         "packt-fontsettings",
         "-responsive-iframes",
         "sitemap",
-        "toggle-chapters"
+        "toggle-chapters",
+        "youtube"
     ],
     "pluginsConfig": {
         "-fontsettings": {
