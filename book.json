@@ -3,7 +3,7 @@
         "add-header",
         "-header",
         "-code-editor",
-        "collapsible-chapters"
+        "-collapsible-chapters"
     ],
     "pluginsConfig": {}
 }
