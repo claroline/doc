@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Les bases](chapter1.md)
-* Pour les gestionnaires
+* Manuel des gestionnaires
 
