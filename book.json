@@ -8,7 +8,7 @@
         "-customtheme",
         "-fontsettings",
         "-github",
-        "back-to-top-button"
+        "-back-to-top-button"
     ],
     "pluginsConfig": {
         "-fontsettings": {
