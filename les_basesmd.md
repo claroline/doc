@@ -74,7 +74,9 @@ Elle donne des informations sur le contenu et la structure de l'espace d'activit
 
 <p style="text-align: center; color: blue">Figure 3: Exemple de page d'accueil d'un espace d'activités.</p>
 
-Le gestionnaire des ressources d'un espace d'activités.
+
+## Le gestionnaire des ressources d'un espace d'activités
+
 C'est la zone de dépôt ou de création des ressources (fichiers, forums, exercices, etc.) de l'espace d'activités, qui peut être renseignée sur la page d'accueil de cet espace.
 
 ![](http://www.claroline.net/uploads/custom/images/1385.png)
