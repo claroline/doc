@@ -1,17 +1,10 @@
 {
-    "plugins": [
-        "-header",
-        "code-editor",
-        "collapsible-chapters",
-        "codesnippet",
-        "customtheme",
-        "github",
-        "-back-to-top-button",
-        "emphasize",
-        "-language-picker",
-        "-responsive-iframes",
-        "sitemap",
-        "toggle-chapters",
-        "-youtube"
+    "plugin": [
+        "foo"
     ],
+    "plugins": [
+        "atoc",
+        "code-editor"
+    ],
+    "pluginsConfig": {}
 }
