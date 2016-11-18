@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "add-header",
         "-header",
         "code-editor",
         "collapsible-chapters",
