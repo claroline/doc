@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "language-picker"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
