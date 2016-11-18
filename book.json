@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "i18n"
+        "i18n",
+        "language-picker"
     ],
     "pluginsConfig": {}
 }
