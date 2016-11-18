@@ -1,4 +1,4 @@
-# Les bases
+# 1. L'interface de Claroline Connect
 
 
 ---
@@ -7,10 +7,6 @@
 
 
 ![](http://www.claroline.net/uploads/custom/images/1522.jpeg)
-
-
-# 1. L'interface de Claroline Connect
-
 
 
 
