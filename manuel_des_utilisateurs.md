@@ -17,7 +17,7 @@ Il est également possible de personnaliser la couleur du fond du bureau pour le
 Comparez ci-dessous la page d'accueil du bureau et la page d'accueil d'un espace d'activités.
 
 ![](http://www.claroline.net/uploads/custom/images/1779.png)
-Figure 12: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)
+<p style="text-align: center; color: blue">Figure 12: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
 
 Le bureau personnel est composé:
 
