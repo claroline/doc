@@ -14,19 +14,4 @@
         "toggle-chapters",
         "-youtube"
     ],
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": "2"
-        },
-        "-language-picker": {
-            "grid-columns": "3"
-        },
-        "packt-fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": "2"
-        }
-    }
 }
