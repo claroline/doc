@@ -6,7 +6,7 @@
         "collapsible-chapters",
         "codesnippet",
         "customtheme",
-        "-fontsettings",
+        "fontsettings",
         "-github",
         "-back-to-top-button",
         "emphasize",
@@ -18,7 +18,7 @@
         "-youtube"
     ],
     "pluginsConfig": {
-        "-fontsettings": {
+        "fontsettings": {
             "theme": "white",
             "family": "sans",
             "size": "2"
