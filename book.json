@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "i18n"
+    ],
+    "pluginsConfig": {}
+}
