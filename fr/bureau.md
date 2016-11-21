@@ -1,4 +1,4 @@
-#1. Le bureau
+Le bureau
 
 ---
 

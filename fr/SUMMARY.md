@@ -20,7 +20,7 @@
 
 -----
 * [1. L'interface de Claroline Connect](les_basesmd.md)
-    * [1.2. Les barres d'outils](les_barres_doutils.md)
+    * [1.2. Les barres d'outils](barres_outils.md)
     * [1.3. Les rôles et les profils](les_roles_et_les_profils.md)
 * [2. Votre compte](votre_compte.md)
     * [2.1. Inscription à une plateforme](21_inscription_a_une_plateforme.md)
