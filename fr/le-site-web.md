@@ -7,7 +7,8 @@ Vous accédez alors à la page d'**administration du contenu**.
 Votre page d'accueil de votre plateforme apparaît en **mode édition**.
 Vous pouvez la modifier et ajouter des articles.
 
-![![](/fr/images/admin_site_web.png)](/fr/images/admin_site_web.png)
+![](/fr/images/admin_site_web.png)
+
 La barre des outils à gauche permet :
 
 * de revenir à cette page d'accueil;
