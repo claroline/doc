@@ -1,6 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
+* La page d'accueil
+  * 
+
+* L'administration
+* Le bureau
+* Les espaces d'activités
+  * [1.1. Les espaces d'activités](/les_espaces_dactivites.md)
+
+* Les outils
+* Les ressources
+  * Le blog
+  * Le wiki
+
+
+
 * [1. L'interface de Claroline Connect](les_basesmd.md)
 
   * [1.1. Les espaces d'activités](les_espaces_dactivites.md)
@@ -26,13 +41,6 @@
 * [Manuel des gestionnaires](manuel_des_gestionnaires.md)
 
 * [Manuel des administrateurs](manuel_des_administrateurs.md)
-* La page d'accueil
-* L'administration
-* Le bureau
-* Les espaces d'activités
-* Les outils
-* Les ressources
-  * Le blog
-  * Le wiki
 
+* 
 
