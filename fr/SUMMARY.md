@@ -27,7 +27,7 @@
    * [3.1. Modification du profil utilisateur](31_modification_du_profil_utilisateur.md)
    * [3.2. Modification de l'URL de votre profil public](modification_de_lurl_de_votre_profil_public.md)
 * [4. L'éditeur de texte](lediteur_de_texte.md)
-* [Manuel des utilisateurs](manuel_des_utilisateurs.md)
+* [Le bureau](manuel_des_utilisateurs.md)
 * [Manuel des gestionnaires](manuel_des_gestionnaires.md)
 * [Manuel des administrateurs](manuel_des_administrateurs.md)
 
