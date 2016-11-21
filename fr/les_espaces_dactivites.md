@@ -3,7 +3,8 @@
 ---
 La plateforme Claroline Connect propose la notion d'**espace d'activités**, plus souple et adaptée aux contextes actuels.
 
-![](http://www.claroline.net/uploads/custom/images/1408.png)
+![](images/concept_ea.png)
+
 <p style="text-align: center; color: blue">Figure 2: Schéma d'un espace d'activités</p>
 
 Il faut comprendre l'**espace d'activités** comme une valise contenant :
