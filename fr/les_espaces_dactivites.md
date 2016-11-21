@@ -1,4 +1,4 @@
-# 1.1. Les espaces d'activités
+# Les espaces d'activités
 
 
 ---
