@@ -1,4 +1,17 @@
 {
-    "plugins": [],
-    "pluginsConfig": {}
+ "plugin": [
+ "foo"
+ ],
+ "plugins": [
+ "atoc",
+ "code-editor",
+ "-annotator",
+ "back-to-top-button",
+ "collapsible-chapters",
+ "collapsible-menu",
+ "autosize-iframe",
+ "-customheader",
+ "-download-pdf"
+ ],
+ "pluginsConfig": {}
 }
