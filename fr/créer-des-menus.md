@@ -20,11 +20,12 @@ Vous pouvez désormais lui ajouter du contenu, c'est-à-dire des liens vers d'au
 
 Il vous faut alors:
 
- - taper un **titre**;
+* taper un **titre**;
 
- - coller ou taper l'**URL** de la page concernée \(l'adresse du lien\);
+* coller ou taper l'**URL** de la page concernée \(l'adresse du lien\);
 
- - cliquer sur le bouton "**Créer**".
+* cliquer sur le bouton "**Créer**".
+
 
 ### **Positionnement du menu**
 
@@ -46,6 +47,4 @@ Il est possible placer le menu :
 Le menu apparaîtra en haut de la page:
 
 ![](/assets/vue_menu.png)
-
-
 
