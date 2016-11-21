@@ -4,7 +4,7 @@
 
 Pour **créer un menu**, cliquez sur l'icône "**Menus**" de la barre latérale d'outils située à gauche de la page.
 
-![](/assets/menu.png)
+![](https://claroline.gitbooks.io/claroline-connect-documentation/content/fr/images/menu.png)
 
 Entrez ensuite un titre à l'emplacement "**Titre du menu**", puis cliquez sur "Créer" dans la fenêtre centrale.
 
