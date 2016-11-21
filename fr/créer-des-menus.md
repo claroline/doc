@@ -38,13 +38,13 @@ Il est possible placer le menu :
 
 1\) Cliquez sur la flèche à côté du menu et ensuite sélectionnez "**zone**":
 
-![](/assets/zone_menu.png)
+![](images/zone_menu.png)
 
 2\) Choisissez la zone \(par exemple "**entête**"\) :
 
-![](/assets/zone_contenu.png)
+![](images/zone_contenu.png)
 
 Le menu apparaîtra en haut de la page:
 
-![](/assets/vue_menu.png)
+![](images/vue_menu.png)
 
