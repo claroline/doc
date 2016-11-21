@@ -7,11 +7,12 @@
     * [Profil d'utilisateur](fr/3_votre_profil_utilisateur.md)
 * [Le bureau](le-bureau.md)
 * [Les espaces d'activités](les-espaces-dactivités.md)
-    * [1.1. Les espaces d'activités](les_espaces_dactivites.md)
+    * [Le concept des espaces d'activités](les_espaces_dactivites.md)
 * Les outils
 * [Les ressources](les-ressources.md)
-    * Le blog
-    * Le wiki
+    * [Le blog](le-blog.md)
+    * [Le wiki](le-wiki.md)
+    * [Le site web](le-site-web.md)
 
 -----
 * [1. L'interface de Claroline Connect](les_basesmd.md)
