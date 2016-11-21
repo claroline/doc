@@ -11,5 +11,7 @@ La barre des outils à gauche permet :
 
 * de revenir à cette page d'accueil;
 * de gérer les menus;
-* de créer différentes pages qui peuvent contenir un ou plusieurs articles et\\/ou menus.
+* de créer différentes pages qui peuvent contenir un ou plusieurs articles et\/ou menus.
+
+
 

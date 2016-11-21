@@ -13,6 +13,9 @@
     * [Le blog](le-blog.md)
     * [Le wiki](le-wiki.md)
     * [Le site web](le-site-web.md)
+        * [Créer des menus](créer-des-menus.md)
+        * [Créer des articles](créer-des-articles.md)
+        * [Créer des pages](créer-des-pages.md)
 
 -----
 * [1. L'interface de Claroline Connect](les_basesmd.md)
