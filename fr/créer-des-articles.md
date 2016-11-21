@@ -1,4 +1,4 @@
-### Créer des articles
+## Créer et paramétrer des articles
 
 ---
 

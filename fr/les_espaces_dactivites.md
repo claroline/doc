@@ -1,10 +1,7 @@
-# Les espaces d'activités
-
+# Le concept des espaces d'activités
 
 ---
-
 La plateforme Claroline Connect propose la notion d'**espace d'activités**, plus souple et adaptée aux contextes actuels.
-
 
 ![](http://www.claroline.net/uploads/custom/images/1408.png)
 <p style="text-align: center; color: blue">Figure 2: Schéma d'un espace d'activités</p>
@@ -20,9 +17,7 @@ Claroline Connect vous propose deux types d'espaces d'activités:
   * Votre espace personnel dont vous êtes le gestionnaire
   * Des espaces d'activités (publics) auxquels vous pouvez vous inscrire 
 
-
 Un espace d'activités se compose de 2 éléments:
-
 
 ### La page d'accueil.
 
