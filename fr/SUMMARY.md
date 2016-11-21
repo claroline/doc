@@ -1,36 +1,51 @@
-\# Summary
+# Summary
 
-\* \[Introduction\]\(README.md\)
+* [Introduction](README.md)
+* La page d'accueil
 
-\* \[1. L'interface de Claroline Connect\]\(les\_basesmd.md\)
+  * 
 
-\* \[1.1. Les espaces d'activités\]\(les\_espaces\_dactivites.md\)
+* L'administration
 
-\* \[1.2. Les barres d'outils\]\(les\_barres\_doutils.md\)
+* Le bureau
+* Les espaces d'activités
 
-\* \[1.3. Les rôles et les profils\]\(les\_roles\_et\_les\_profils.md\)
+  * 
+  * [1.1. Les espaces d'activités](/les_espaces_dactivites.md)
+  * 
 
-\* \[2. Votre compte\]\(votre\_compte.md\)
+* Les outils
 
-\* \[2.1. Inscription à une plateforme\]\(21\_inscription\_a\_une\_plateforme.md\)
+* Les ressources
+  * Le blog
+  * Le wiki
 
-\* \[2.2. Connexion à une plateforme\]\(22\_connexion\_a\_une\_plateforme.md\)
 
-\* \[2.3. Mot de passe oublié\]\(23\_mot\_de\_passe\_oublie.md\)
+* [1. L'interface de Claroline Connect](les_basesmd.md)
 
-\* \[2.4. Modification du mot de passe\]\(24\_modification\_du\_mot\_de\_passe.md\)
+  * [1.1. Les espaces d'activités](les_espaces_dactivites.md)
+  * [1.2. Les barres d'outils](les_barres_doutils.md)
+  * [1.3. Les rôles et les profils](les_roles_et_les_profils.md)
 
-\* \[3. Votre profil utilisateur\]\(3\_votre\_profil\_utilisateur.md\)
+* [2. Votre compte](votre_compte.md)
 
-\* \[3.1. Modification du profil utilisateur\]\(31\_modification\_du\_profil\_utilisateur.md\)
+  * [2.1. Inscription à une plateforme](21_inscription_a_une_plateforme.md)
+  * [2.2. Connexion à une plateforme](22_connexion_a_une_plateforme.md)
+  * [2.3. Mot de passe oublié](23_mot_de_passe_oublie.md)
+  * [2.4. Modification du mot de passe](24_modification_du_mot_de_passe.md)
 
-\* \[3.2. Modification de l'URL de votre profil public\]\(modification\_de\_lurl\_de\_votre\_profil\_public.md\)
+* [3. Votre profil utilisateur](3_votre_profil_utilisateur.md)
 
-\* \[4. L'éditeur de texte\]\(lediteur\_de\_texte.md\)
+  * [3.1. Modification du profil utilisateur](31_modification_du_profil_utilisateur.md)
+  * [3.2. Modification de l'URL de votre profil public](modification_de_lurl_de_votre_profil_public.md)
 
-\* \[Manuel des utilisateurs\]\(manuel\_des\_utilisateurs.md\)
+* [4. L'éditeur de texte](lediteur_de_texte.md)
 
-\* \[Manuel des gestionnaires\]\(manuel\_des\_gestionnaires.md\)
+* [Manuel des utilisateurs](manuel_des_utilisateurs.md)
 
-\* \[Manuel des administrateurs\]\(manuel\_des\_administrateurs.md\)
+* [Manuel des gestionnaires](manuel_des_gestionnaires.md)
+
+* [Manuel des administrateurs](manuel_des_administrateurs.md)
+
+* 
 
