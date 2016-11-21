@@ -1,4 +1,4 @@
-# Summary
+## Summary
 
 * [Introduction](README.md)
 * La page d'accueil
@@ -8,6 +8,7 @@
 * L'administration
 
 * Le bureau
+
 * Les espaces d'activités
 
   * 
@@ -17,6 +18,7 @@
 * Les outils
 
 * Les ressources
+
   * Le blog
   * Le wiki
 
