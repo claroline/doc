@@ -1,6 +1,5 @@
-## Summary
+# Table des matières
 
-* [Introduction](README.md)
 * La page d'accueil
 
   * 
