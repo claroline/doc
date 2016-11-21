@@ -1,8 +1,8 @@
 \# Summary
 
-\* \[Introduction\]\(fr\/README.md\)
+\* \[Introduction\]\(README.md\)
 
-\* \[1. L'interface de Claroline Connect\]\(fr\/les\_basesmd.md\)
+\* \[1. L'interface de Claroline Connect\]\(les\_basesmd.md\)
 
 \* \[1.1. Les espaces d'activités\]\(les\_espaces\_dactivites.md\)
 
