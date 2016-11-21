@@ -18,16 +18,15 @@ Comparez ci-dessous la page d'accueil du bureau et la page d'accueil d'un espace
 
 Le bureau personnel est composé:
 
-    * d'une page d'accueil
-    * d'un gestionnaire de ressources
+* d'une page d'accueil
+* d'un gestionnaire de ressources
 
 ## Page d'accueil
 
 
 La page d'accueil du bureau peut être configurée par l'administrateur de la plateforme et par l'utilisateur à l'aide d'onglets et de widgets.
-
-    * L'administrateur de la plateforme peut prédéfinir des onglets et des widgets[1] pour le bureau.
-    * L'utilisateur peut ajouter des onglets et des widgets selon ses besoins. (Voir: Gestion des onglets et widgets)
+* L'administrateur de la plateforme peut prédéfinir des onglets et des widgets[1] pour le bureau.
+* L'utilisateur peut ajouter des onglets et des widgets selon ses besoins. (Voir: Gestion des onglets et widgets)
 
 
 [1] De façon générale, un widget est une petite application que l'on ajoute sur le bureau de son ordinateur et qui affiche certaines informations (météo, notifications de messages, etc.). Netvibes s'est par exemple rendu célèbre avec une page Internet de démarrage incluant des widgets à la carte.
