@@ -1,12 +1,10 @@
 # 1. Paramétrer la plateforme
 
-
-
 ---
+Lorsqu'on est connecté avec le **statut d'administrateur** à la plateforme, l'onglet "Administration" apparaît en haut de page dans la barre de menu supérieure. Il permet d'accéder aux réglages de la plateforme.
 
-
-Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'onglet "Administration" apparaît en haut de page dans la barre de menu supérieure. Il permet d'accéder aux réglages de la plateforme.
 ![2326.png](http://www.claroline.net/uploads/custom/images/2326.png)
+
 La barre d'outils d'administration
 
 Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la page est également disponible.

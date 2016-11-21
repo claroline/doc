@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [La page d'accueil](la-page-daccueil.md)
-* [Le bureau](le_bureau.md)
+* [Le bureau](fr/bureau.md)
 * [L'administration](fr/administration.md)
     * [Profil d'utilisateur](fr/3_votre_profil_utilisateur.md)
 * [Les espaces d'activités](les-espaces-dactivités.md)
