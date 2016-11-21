@@ -8,11 +8,11 @@ Pour **créer un menu**, cliquez sur l'icône "**Menus**" de la barre latérale 
 
 Entrez ensuite un titre à l'emplacement "**Titre du menu**", puis cliquez sur "Créer" dans la fenêtre centrale.
 
-![](/assets/titre_menu.png)
+![](images/titre_menu.png)
 
 Votre nouveau menu est ajouté à la suite des autres.
 
-![](/assets/liste_menus.png)
+![](imagesliste_menus.png)
 
 Vous pouvez désormais lui ajouter du contenu, c'est-à-dire des liens vers d'autres sites web ou vers les pages que vous allez créer sur votre plateforme ou qui y sont déjà présentes.
 
