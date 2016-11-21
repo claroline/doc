@@ -11,9 +11,7 @@
 
 * Les espaces d'activités
 
-  * 
   * [1.1. Les espaces d'activités](/les_espaces_dactivites.md)
-  * 
 
 * Les outils
 
@@ -49,5 +47,4 @@
 
 * [Manuel des administrateurs](manuel_des_administrateurs.md)
 
-* 
 
