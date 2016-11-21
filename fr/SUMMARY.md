@@ -7,7 +7,7 @@
    * [Profil d'utilisateur](fr/3_votre_profil_utilisateur.md)
 * [Les espaces d'activités](les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](les_espaces_dactivites.md)
-* Les outils
+* [Les outils](les_outils.md)
 * [Les ressources](les-ressources.md)
    * [Accéder au gestionnaire de ressources](accéder-au-gestionnaire-de-ressources.md)
    * [Le blog](le-blog.md)
