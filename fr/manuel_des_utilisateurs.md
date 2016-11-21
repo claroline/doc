@@ -35,7 +35,7 @@ Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des es
 
 ![](http://www.claroline.net/uploads/custom/images/1780.png)
 
-Figure 13: page d'accueil du bureau. Elle est composée par des onglets et des widgets.
+<p style="text-align: center; color: blue">Figure 13: page d'accueil du bureau. Elle est composée par des onglets et des widgets.</p>
 
 
 ## Gestionnaire de ressources
