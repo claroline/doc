@@ -6,7 +6,7 @@ Une page peut contenir plusieurs articles et être ajoutée comme entrée dans u
 
 **1\) Ajoutez une nouvelle page**
 
- Pour créer une page, cliquez sur l'icône suivante de la barre d'outils:
+Pour créer une page, cliquez sur l'icône suivante de la barre d'outils:
 
 ![](/assets/menu_pages.png)
 
@@ -27,9 +27,9 @@ En cliquant sur le titre de la page \(ici, Claroline Connect\), vous ouvrez cett
 
 **2\) Comment ajouter une page comme entrée d'un menu ?**
 
- Si vous ne créez pas de nouvelle page, vous n'aurez qu'une page d'accueil \(home\) qui affichera les différents articles et menus contenant des liens externes.
+Si vous ne créez pas de nouvelle page, vous n'aurez qu'une page d'accueil \(home\) qui affichera les différents articles et menus contenant des liens externes.
 
- Pour ajouter une page contenant un ou plusieurs articles à l'un des menus, vous devez connaître son adresse \(URL\). Vous avez en effet remarqué que l'ajout d'entrée aux menus se faisait par la commande "Ajouter un lien". Mais où trouver l'adresse d'une page ? Il vous suffit de cliquer sur le nom de la page depuis "Pages de contenu" \(cf. image précédente\). La page concernée s'affiche alors. Vous pouvez récupérer l'URL dans la barre d'adresse du navigateur. Mais il n'est pas utile de tout recopier lorsque vous ajoutez un lien au menu. Vous pouvez vous contenter de coller le texte à partir de _**"type"**_ \(voir texte en bleu ci-dessous\):
+Pour ajouter une page contenant un ou plusieurs articles à l'un des menus, vous devez connaître son adresse \(URL\). Vous avez en effet remarqué que l'ajout d'entrée aux menus se faisait par la commande "Ajouter un lien". Mais où trouver l'adresse d'une page ? Il vous suffit de cliquer sur le nom de la page depuis "Pages de contenu" \(cf. image précédente\). La page concernée s'affiche alors. Vous pouvez récupérer l'URL dans la barre d'adresse du navigateur. Mais il n'est pas utile de tout recopier lorsque vous ajoutez un lien au menu. Vous pouvez vous contenter de coller le texte après "type\/" comme indiqué en gras ci-après:
 
- _...\/claroline-connect\/web\/app.php\/type\/_&lt;span style="color: \#003366"&gt;Claroline%20Connect&lt;\/span&gt;
+...\/claroline-connect\/web\/app.php\/type\/Claroline%20Connect
 
