@@ -2,4 +2,4 @@
 
 * [Français](fr/)
 * Anglais
-*
+
