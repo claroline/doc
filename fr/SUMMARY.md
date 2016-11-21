@@ -5,6 +5,7 @@
 * [Le bureau](bureau.md)
 * [L'administration](administration.md)
     * [Profil d'utilisateur](fr/3_votre_profil_utilisateur.md)
+    * [Paramétrer la plateforme](paramétrer_plateforme.md)
 * [Les espaces d'activités](les-espaces-dactivités.md)
     * [Le concept des espaces d'activités](les_espaces_dactivites.md)
 * [Les outils](les_outils.md)
@@ -16,6 +17,8 @@
         * [Créer des menus](créer-des-menus.md)
         * [Créer des articles](créer-des-articles.md)
         * [Créer des pages](créer-des-pages.md)
+
+-----
 * [1. L'interface de Claroline Connect](les_basesmd.md)
     * [1.2. Les barres d'outils](les_barres_doutils.md)
     * [1.3. Les rôles et les profils](les_roles_et_les_profils.md)
@@ -27,6 +30,6 @@
 * [3. Votre profil utilisateur](3_votre_profil_utilisateur.md)
     * [3.1. Modification du profil utilisateur](31_modification_du_profil_utilisateur.md)
     * [3.2. Modification de l'URL de votre profil public](modification_de_lurl_de_votre_profil_public.md)
-* [4. L'éditeur de texte](fr/editeur_de_texte.md)
-* [Manuel des administrateurs](manuel_des_administrateurs.md)
+* [L'éditeur de texte](editeur_de_texte.md)
+* [Paramétrer la plateforme](manuel_des_administrateurs.md)
 
