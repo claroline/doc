@@ -1,5 +1,3 @@
-
-
 Claroline Connect est fondée sur **trois piliers**:<br/>
 * les **acteurs** et les différents **groupes** qu'ils constituent,
 * les **espaces d'activités** incluant des ressources au sens large comme des documents multimédias, forums, wikis, visioconférences, travaux, cartes conceptuelles, exercices, etc.
