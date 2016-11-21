@@ -24,6 +24,15 @@
 * [Manuel des utilisateurs](manuel_des_utilisateurs.md)
 
 * [Manuel des gestionnaires](manuel_des_gestionnaires.md)
+
 * [Manuel des administrateurs](manuel_des_administrateurs.md)
-* [test](/les_roles_et_les_profils.md)
+* La page d'accueil
+* L'administration
+* Le bureau
+* Les espaces d'activités
+* Les outils
+* Les ressources
+  * Le blog
+  * Le wiki
+
 
