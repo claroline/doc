@@ -12,7 +12,7 @@ Entrez ensuite un titre à l'emplacement "**Titre du menu**", puis cliquez sur "
 
 Votre nouveau menu est ajouté à la suite des autres.
 
-![](imagesliste_menus.png)
+![](images/liste_menus.png)
 
 Vous pouvez désormais lui ajouter du contenu, c'est-à-dire des liens vers d'autres sites web ou vers les pages que vous allez créer sur votre plateforme ou qui y sont déjà présentes.
 
