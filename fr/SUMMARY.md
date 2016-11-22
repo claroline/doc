@@ -11,7 +11,7 @@
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
 * [La barre d'outils](outils/les_outils.md)
-   * [Les barres d'outils](barre_outils/barres_outils.md)
+   * [Les barres d'outils](../barre_outils/les_barres_doutils_.md)
    * [Les rôles et les profils](barre_outils/les_roles_et_les_profils.md)
 * [Les ressources](ressources/les-ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-au-gestionnaire-de-ressources.md)
