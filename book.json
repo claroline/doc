@@ -11,7 +11,7 @@
         "-download-pdf",
         "toggle-chapters",
         "tocstyles",
-        "style",
+        "-style",
         "-editlink",
         "-githubcontributors",
         "hints",
