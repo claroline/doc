@@ -15,7 +15,7 @@
    * [Les rôles et les profils](outils/les_roles_et_les_profils.md)
    * [Votre compte](outils/votre_compte.md)
    * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
-   * [Connexion à une plateforme](outils/22_connexion_a_une_plateforme.md)
+   * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
    * [Mot de passe oublié](outils/23_mot_de_passe_oublie.md)
    * [Modification du mot de passe](outils/24_modification_du_mot_de_passe.md)
 * [Les ressources](ressources/les-ressources.md)
