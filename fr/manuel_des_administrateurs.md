@@ -12,7 +12,8 @@ Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'ongl
 ### La barre d'outils d'administration
 
 Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la page est également disponible.
-2327.png
+
+2328.2327.png
 
 La barre latérale d'outils s'enrichit de plusieurs commandes.
 
