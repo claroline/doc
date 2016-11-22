@@ -11,6 +11,8 @@
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
 * [La barre d'outils](outils/les_outils.md)
+   * [Les barres d'outils](barre_outils/barres_outils.md)
+   * [Les rôles et les profils](barre_outils/les_roles_et_les_profils.md)
 * [Les ressources](ressources/les-ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-au-gestionnaire-de-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
@@ -18,9 +20,7 @@
        * [Créer des menus](ressources/créer-des-menus.md)
        * [Créer des articles](ressources/créer-des-articles.md)
        * [Créer des pages](ressources/créer-des-pages.md)
-* 1. L'interface de Claroline Connect
-   * [1.2. Les barres d'outils](barre_outils/barres_outils.md)
-   * [1.3. Les rôles et les profils](barre_outils/les_roles_et_les_profils.md)
+
 * [2. Votre compte](barre_outils/votre_compte.md)
    * [2.1. Inscription à une plateforme](barre_outils/21_inscription_a_une_plateforme.md)
    * [2.2. Connexion à une plateforme](22_connexion_a_une_plateforme.md)
