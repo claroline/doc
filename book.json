@@ -16,7 +16,7 @@
         "-githubcontributors",
         "hints",
         "markdown-parse-add-br",
-        "sharing",
+        "sharing"
     ],
     "plugin": [
         "foo"
