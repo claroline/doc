@@ -1,7 +1,7 @@
 {
     "plugins": [
         "atoc",
-        "code-editor",
+        "-code-editor",
         "-annotator",
         "back-to-top-button",
         "collapsible-chapters",
@@ -15,5 +15,6 @@
     ],
     "plugin": [
         "foo"
-    ]
+    ],
+    "pluginsConfig": {}
 }
