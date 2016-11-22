@@ -11,25 +11,14 @@
         "-download-pdf",
         "toggle-chapters",
         "tocstyles",
-        "-style",
+        "style",
         "-editlink",
         "-githubcontributors",
         "hints",
-        "markdown-parse-add-br",
-        "sharing"
+        "markdown-parse-add-br"
     ],
     "plugin": [
         "foo"
     ],
-    "pluginsConfig": {
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": false,
-            "instapaper": false,
-            "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
-        }
-    }
+    "pluginsConfig": {}
 }
