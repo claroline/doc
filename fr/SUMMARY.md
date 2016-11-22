@@ -29,5 +29,5 @@
    * [3.1. Modification du profil utilisateur](31_modification_du_profil_utilisateur.md)
    * [3.2. Modification de l'URL de votre profil public](modification_de_lurl_de_votre_profil_public.md)
 * [L'éditeur de texte](editeur_de_texte.md)
-* [Paramétrer la plateforme](parametrer_plateforme.md)
+* [Paramétrer la plateforme](manuel_des_administrateurs.md)
 
