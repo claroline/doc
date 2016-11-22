@@ -4,7 +4,7 @@
         "-code-editor",
         "-annotator",
         "back-to-top-button",
-        "collapsible-chapters",
+        "-collapsible-chapters",
         "collapsible-menu",
         "autosize-iframe",
         "-customheader",
