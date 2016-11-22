@@ -1,18 +1,13 @@
+## L'interface de Claroline Connect
+
+---
 Claroline Connect est fondée sur **trois piliers**:<br/>
 * les **acteurs** et les différents **groupes** qu'ils constituent,
 * les **espaces d'activités** incluant des ressources au sens large comme des documents multimédias, forums, wikis, visioconférences, travaux, cartes conceptuelles, exercices, etc.
 * les activités se déclinant en **parcours** libres, séquentiels ou conditionnels, mais aussi à propos de situations-problèmes, de projets, etc.
-
-# 1. L'interface de Claroline Connect
-
-
-
----
 <img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1522.jpeg" style="text-align: center" alt="Se repérer" width="82" height="82">
 
-
-### Se repérer sur Claroline Connect: l'interface de Claroline Connect
-
+### Se repérer sur Claroline Connect
 
 La plateforme Claroline Connect met à la disposition de l'utilisateur:
 
