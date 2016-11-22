@@ -9,7 +9,7 @@
     * [Paramétrer la plateforme](admin/config_plateforme.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
     * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
-* [Les outils](outils/les_outils.md)
+* [Le barre d'outils](outils/les_outils.md)
 * [Les ressources](ressources/les-ressources.md)
     * [Accéder au gestionnaire de ressources](ressources/accéder-au-gestionnaire-de-ressources.md)
     * [Le wiki](ressources/le-wiki.md)
@@ -25,8 +25,5 @@
     * [2.2. Connexion à une plateforme](22_connexion_a_une_plateforme.md)
     * [2.3. Mot de passe oublié](23_mot_de_passe_oublie.md)
     * [2.4. Modification du mot de passe](24_modification_du_mot_de_passe.md)
-* [3. Votre profil utilisateur](3_votre_profil_utilisateur.md)
-    * [3.1. Modification du profil utilisateur](31_modification_du_profil_utilisateur.md)
-    * [3.2. Modification de l'URL de votre profil public](modification_de_lurl_de_votre_profil_public.md)
 * [L'éditeur de texte](editeur_de_texte.md)
 
