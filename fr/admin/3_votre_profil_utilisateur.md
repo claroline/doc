@@ -1,4 +1,4 @@
-# 3. Votre profil utilisateur
+Votre profil utilisateur
 ---
 
 
