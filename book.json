@@ -13,7 +13,7 @@
         "tocstyles",
         "style",
         "-editlink",
-        "githubcontributors"
+        "-githubcontributors"
     ],
     "plugin": [
         "foo"
