@@ -1,9 +1,6 @@
 
 ## Paramétrer la plateforme
 
-
-
-
 ---
 
 Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'onglet **Administration** apparaît en haut de page dans la barre de menu supérieure. Il permet d'accéder aux réglages de la plateforme.
