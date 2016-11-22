@@ -1,4 +1,4 @@
-# Summary
+# Table des matières
 
 * [Introduction](README.md)
 * [La page d'accueil](accueil/la-page-daccueil.md)
@@ -18,9 +18,9 @@
        * [Créer des menus](ressources/créer-des-menus.md)
        * [Créer des articles](ressources/créer-des-articles.md)
        * [Créer des pages](ressources/créer-des-pages.md)
-* [1. L'interface de Claroline Connect](les_basesmd.md)
-   * [1.2. Les barres d'outils](barres_outils.md)
-   * [1.3. Les rôles et les profils](les_roles_et_les_profils.md)
+* 1. L'interface de Claroline Connect
+   * [1.2. Les barres d'outils](barre_outils/barres_outils.md)
+   * [1.3. Les rôles et les profils](barre_outils/les_roles_et_les_profils.md)
 * [2. Votre compte](barre_outils/votre_compte.md)
    * [2.1. Inscription à une plateforme](barre_outils/21_inscription_a_une_plateforme.md)
    * [2.2. Connexion à une plateforme](22_connexion_a_une_plateforme.md)
