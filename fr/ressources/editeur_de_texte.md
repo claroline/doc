@@ -8,7 +8,7 @@ L'éditeur **WYSIWYG** [1] est un élément central de Claroline Connect qui per
 <p style:"text-align: center; color:blue">Figure 1: Exemples de l'éditeur wysiwyg dans les différentes ressources de la plateforme</p>
 
 La modification d'un texte dans les différentes ressources de la plateforme ouvre un éditeur de mise en forme intuitif.
-<img style="max-width: 100%;" src="http://www.claroline.net/uploads/custom/images/1758.png" title="Attention !" alt="asterisque.png" width="36" height="30"> Dans sa présentation initiale, toutes les fonctionnalités ne sont pas visibles : seule la première ligne d'icônes est proposée:         
+<img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1758.png" title="Attention !" alt="asterisque.png" width="36" height="30"> Dans sa présentation initiale, toutes les fonctionnalités ne sont pas visibles : seule la première ligne d'icônes est proposée:         
 
 ![2-barre d'outils reduit.PNG](http://www.claroline.net/uploads/custom/images/1824.png) 
 
