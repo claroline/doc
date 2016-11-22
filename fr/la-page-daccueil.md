@@ -1,6 +1,9 @@
 
+## La page d'accueil
 
-Les pages d'accueil des espaces d'activité de la plateforme Claroline Connect sont composées de deux barres d'outils:
+---
+
+La page d'accueil des espaces d'activité de la plateforme Claroline Connect est composée de deux barres d'outils:
 
 * la barre d'outils du bandeau supérieur
 * la barre d'outils du menu de gauche
