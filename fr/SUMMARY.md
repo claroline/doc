@@ -4,7 +4,7 @@
 * [La page d'accueil](la-page-daccueil.md)
 * [Le bureau](bureau/bureau.md)
    * Page d'accueil
-   * Personnaliser votre bureau
+   * [Personnaliser votre bureau](../bureau/personnaliser_votre_bureau.md)
 * [L'administration](administration.md)
    * [Profil d'utilisateur](fr/3_votre_profil_utilisateur.md)
    * [Paramétrer la plateforme](paramétrer_plateforme.md)
