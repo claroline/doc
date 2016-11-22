@@ -1,4 +1,4 @@
-# Table des matières
+# Summary
 
 * [Introduction](README.md)
 * [La page d'accueil](accueil/la-page-daccueil.md)
@@ -20,8 +20,7 @@
        * [Créer des menus](ressources/créer-des-menus.md)
        * [Créer des articles](ressources/créer-des-articles.md)
        * [Créer des pages](ressources/créer-des-pages.md)
-
-* [2. Votre compte](barre_outils/votre_compte.md)
+* [Votre compte](barre_outils/votre_compte.md)
    * [2.1. Inscription à une plateforme](barre_outils/21_inscription_a_une_plateforme.md)
    * [2.2. Connexion à une plateforme](22_connexion_a_une_plateforme.md)
    * [2.3. Mot de passe oublié](23_mot_de_passe_oublie.md)
