@@ -1,6 +1,7 @@
-Votre profil utilisateur
----
+## Votre profil utilisateur
 
+
+---
 
 L'accès à votre profil se fait via le menu situé en haut à droite de la barre de menu supérieure.
 Une fois que vous êtes connecté, le menu déroulant de connexion vous propose l'accès à différents outils ainsi que la possibilité de modifier votre profil (mot de passe, avatar, etc).
