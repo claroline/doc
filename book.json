@@ -12,7 +12,7 @@
         "toggle-chapters",
         "tocstyles",
         "style",
-        "-editlink"
+        "editlink"
     ],
     "plugin": [
         "foo"
