@@ -17,7 +17,6 @@
         "hints",
         "markdown-parse-add-br",
         "sharing",
-        "-mystyle"
     ],
     "plugin": [
         "foo"
