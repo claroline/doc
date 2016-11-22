@@ -1,6 +1,6 @@
 L'éditeur de texte
 ---
-L'éditeur WYSIWYG [1] est un élément central de Claroline Connect qui permet de rédiger et de mettre en page des contenus. Il est accessible dans presque tous les objets de la plateforme en mode édition: widget texte, annonce, page wiki, blog, forum, cours, parcours, exercices, etc.
+L'éditeur **WYSIWYG** [1] est un élément central de Claroline Connect qui permet de rédiger et de mettre en page des contenus. Il est accessible dans presque tous les objets de la plateforme en mode édition: widget texte, annonce, page wiki, blog, forum, cours, parcours, exercices, etc.
 
 [1] (What You See Is What You Get), c'est à dire, "Ce que vous voyez est ce que vous obtenez".
 
