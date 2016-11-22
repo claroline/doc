@@ -1,4 +1,5 @@
-Le bureau
+
+## Le bureau
 
 ---
 Lorsque vous vous connectez à la plateforme, vous ouvrez automatiquement votre bureau personnel (= l'accueil). Vous pouvez, comme chaque utilisateur, personnaliser votre bureau et y organiser votre travail. Vous pouvez revenir à tout moment à ce bureau en cliquant sur l'icône de la maison ![1401.png](http://www.claroline.net/uploads/custom/images/1401.png) dans la barre de menu supérieure.
