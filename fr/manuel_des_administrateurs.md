@@ -15,7 +15,7 @@ Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la
 
 ![](images/barre_outils_g.png)
 
-La barre latérale d'outils s'enrichit de plusieurs commandes.
+La barre d'outils latérale s'enrichit de plusieurs commandes.
 
 ![](images/barre_g_admin.png)
 
