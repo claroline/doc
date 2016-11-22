@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [La page d'accueil](accueil/la-page-daccueil.md)
+   * L'interface Claroline Connect
 * [Le bureau](bureau/bureau.md)
    * [Personnaliser votre bureau](bureau/personnaliser_votre_bureau.md)
 * [L'administration](admin/administration.md)
