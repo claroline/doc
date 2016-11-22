@@ -12,7 +12,8 @@
         "toggle-chapters",
         "tocstyles",
         "style",
-        "-editlink"
+        "-editlink",
+        "githubcontributors"
     ],
     "plugin": [
         "foo"
