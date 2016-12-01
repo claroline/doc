@@ -1,5 +1,5 @@
 # Languages
 
-* [Français](fr/)
+* [Français](fr/)<br />
 * [Anglais](en/)
 
