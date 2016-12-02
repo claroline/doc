@@ -18,7 +18,7 @@
    * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
    * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
    * [Modification du mot de passe](outils/modification_du_mot_de_passe.md)
-   * [Modifier votre profil](outils/modifier_profil.md)
+   * [Modifier votre profil](outils/modifier_profil2.md)
 * [Les ressources](ressources/les-ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-au-gestionnaire-de-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
