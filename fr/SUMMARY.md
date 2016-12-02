@@ -19,7 +19,7 @@
    * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
    * [Modification du mot de passe](outils/modification_du_mot_de_passe.md)
    * [Modifier votre profil](outils/modifier_profil.md)
-* [Gestionnaire de ressources](ressources/les-ressources.md)
+* [Le gestionnaire de ressources](ressources/les-ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-au-gestionnaire-de-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
    * [Le site web](ressources/le-site-web.md)
