@@ -1,4 +1,4 @@
-## 5.2. Les rôles et les profils
+## Les rôles et les profils
 
 
 ---
