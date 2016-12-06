@@ -31,10 +31,11 @@ Remarque : ici, on ne fait qu'ajouter le widget des annonces. Pour rédiger les 
 
 **Lecteur de flux RSS**
 
-Permet d'afficher les dernières publications d'un site en ajoutant son fil de syndication au widget. Il suffit pour cela de cliquer sur la célèbre icône orange présente sur la plupart des sites flux rss.png , de copier l'url à laquelle elle renvoie, et de l'ajouter au widget.
+![http://www.claroline.net/file/resource/media/1944](http://www.claroline.net/file/resource/media/1944)
+
+Permet d'afficher les dernières publications d'un site en ajoutant son fil de syndication au widget. Il suffit pour cela de cliquer sur la célèbre icône orange présente sur la plupart des sites, de copier l'url à laquelle elle renvoie, et de l'ajouter au widget.
 
 **Prochains événements**
-
 
 Ce widget affiche les évènements notés dans l'agenda.
 
