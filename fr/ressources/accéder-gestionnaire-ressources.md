@@ -1,4 +1,4 @@
-## La gestion des ressources
+## Accéder au gestionnaire des ressources
 
 ---
 
