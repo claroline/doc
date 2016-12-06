@@ -8,6 +8,6 @@ Il existe deux manières d'accéder au gestionnaire de ressources
 
 ![](images/ressources_menu_gauche.png)
 
-* en cliquant sur l'icone **"ressources"** de la barre de propriétés de votre bureau (bandeau supérieur) , vous accédez à l'espace** "Ressources" général de la plateforme** (qui contient par défaut les répertoires de tous les espace d'activités créés).
+* en cliquant sur l'icône **"ressources"** de la barre de propriétés de votre bureau (bandeau supérieur), vous accédez à l'espace général des** "Ressources" de la plateforme** (qui contient par défaut les répertoires de tous les espaces d'activités créés).
 
 ![](images/ressources_menu_superieur.png)
