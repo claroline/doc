@@ -2,7 +2,8 @@
 
 ---
 
-a. Créer un onglet
+
+### Créer un onglet
 
 A partir de l'icône plus 1931.png (onglet) et 1932.png (widgets), l'utilisateur peut créer des onglets et widgets dans son espace personnel et en ajouter d'autres sur son bureau.
 
