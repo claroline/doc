@@ -4,7 +4,7 @@
 
 Il existe deux manières d'accéder au gestionnaire de ressources
 
-* en cliquant sur l'icone **"ressources" **de la barre du menu à gauche d'un espace d'activités, vous accédez ainsi directement au **répertoire de ressources** de cet espace,
+* en cliquant sur l'icône **"ressources" **de la barre du menu à gauche d'un espace d'activités, vous accédez directement au **répertoire de ressources** de cet espace;
 
 ![](images/ressources_menu_gauche.png)
 
