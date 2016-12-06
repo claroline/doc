@@ -1,4 +1,4 @@
-# 1. Le gestionnaire des ressources
+# Le gestionnaire des ressources
 
 ---
 
