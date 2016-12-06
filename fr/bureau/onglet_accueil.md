@@ -8,15 +8,15 @@ A partir de l'icône plus 1931.png (onglet) et 1932.png (widgets), l'utilisateur
 
 Pour créer un onglet, il suffit de cliquer sur "+ Créer un nouvel onglet"
 
-1933.png
+![1933.png](http://www.claroline.net/uploads/custom/images/1933.png)
 
 Une fenêtre s'ouvre permettant de:
 
-    nommer l'onglet
-    le rendre visible ou pas
-    assigner les droits d'accès en fonctions des rôles
+* nommer l'onglet
+* le rendre visible ou pas
+* assigner les droits d'accès en fonctions des rôles
 
-1934.png
+![1934.png](http://www.claroline.net/uploads/custom/images/1934.png)
 
 Il faut faire attention aux instructions suivantes:
 
