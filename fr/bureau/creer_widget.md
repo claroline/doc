@@ -51,7 +51,6 @@ Comme son nom l'indique, il affiche les parcours publiés dans l'espace d'activi
 
 Comme son nom l'indique, il affiche les objectifs d'apprentissage de l'utilisateur dans un espace d'activités.
 
-
 ### Modifier un widget
 
 On ne peut modifier un widget que si l'on est propriétaire de l'espace d'activités concerné. A minima, tout le monde peut gérer comme il l'entend son espace personnel ou son bureau personnel.
