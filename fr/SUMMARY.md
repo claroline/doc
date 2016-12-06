@@ -7,7 +7,7 @@
    * [Personnaliser votre bureau](bureau/personnaliser_votre_bureau.md)
    * [Votre espace personnel](bureau/espace_perso.md)
        * [Paramétrer votre espace personnel](bureau/parametrer_espace_perso.md)
-       * [Créer un onglet sur la page d'accueil](onglet_accueil.md)
+       * [Créer un onglet sur la page d'accueil](bureau/onglet_accueil.md)
 * [L'administration](admin/administration.md)
    * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Paramétrer la plateforme](admin/config_plateforme.md)
