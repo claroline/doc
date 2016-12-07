@@ -1,4 +1,4 @@
-## Les barres d'outils
+# Les barres d'outils
 
 
 ---

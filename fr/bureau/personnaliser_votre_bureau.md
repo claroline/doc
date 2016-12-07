@@ -4,16 +4,17 @@
 
 Vous pouvez personnaliser votre bureau à l'aide de l'outil **Préférences**
 
-1783.1782.png
+![1783.1782.png](http://www.claroline.net/uploads/custom/images/1782.png)
 
-outil préférences.PNG
+![outil préférences.PNG](http://www.claroline.net/uploads/custom/images/outil_preferences.png)
 
 <p style="text-align: center; color: blue">Figure 14: L'outil "Préférences" permet de configurer la "barre de menu" supérieure, le "menu utilisateur" et les paramètres du bureau.</p>
 
 Configuration de la barre de menu du bandeau supérieur.
 Vous pouvez modifier votre menu supérieur en configurant la barre de menu. Ajoutez ou retirez des icônes du menu du bandeau supérieur en cochant ou en décochant les cases des outils.
 
-1784.png
+![](http://www.claroline.net/uploads/custom/images/1784.png)
+
 <p style="text-align: center; color: blue">Figure 15: Liste des outils de la barre de menu du bureau. Il est possible de les rendre visibles en fonction des besoins de l'utilisateur.</p>
 
 Comparez les deux menus.
