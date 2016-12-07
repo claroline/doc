@@ -18,8 +18,7 @@ En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre
 
     Voir en tant que ![](1864.png) permet d'avoir un aperçu de l'espace d'activités tel que le voit un collaborateur (étudiant) ou un gestionnaire (enseignant ou le propriétaire de l'espace). Dès lors que l'on explore son espace d'activités en tant que collaborateur ou gestionnaire, l'en-tête de la page passe en couleur orange et indique "Vous êtes connecté en tant que … du workspace …".
 
-
-1865.png
+![1865.png](http://www.claroline.net/uploads/custom/images/1865.png)
 Pour désactiver ce mode, il suffit de cliquer sur la croix en haut à droite du bandeau orange.
 
     Accueil 1866.png permet de revenir à la page d'accueil de son espace personnel (qui est distincte de celle du bureau d'accueil, rappelons-le).
