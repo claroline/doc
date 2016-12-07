@@ -1,4 +1,4 @@
-# 3.2. Modification de l'URL de votre profil public
+# Modification de l'URL de votre profil public
 ---
 
 Vous avez par défaut une URL (Uniform Resource Locator, c'est-à-dire votre adresse web) pour afficher votre profil public. En cliquant sur **Personnaliser l'URL de votre profil public**, vous accédez à votre adresse.
