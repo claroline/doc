@@ -4,7 +4,6 @@
 Vous avez par défaut une URL (Uniform Resource Locator, c'est-à-dire votre adresse web) pour afficher votre profil public. En cliquant sur **Personnaliser l'URL de votre profil public**, vous accédez à votre adresse.
 
 ![url_perso.png](http://www.claroline.net/uploads/custom/images/1774.png)
-
 Dans l'exemple ci dessus, l'URL est la suivante :
 
 ![exemple url.PNG](http://www.claroline.net/uploads/custom/images/1775.png)
