@@ -2,9 +2,9 @@
 # Les barres d'outils
 ---
 
-Les pages d'accueil des espaces d'activité de la plateforme Claroline Connect sont composées de deux barres d'outils:
-- la barre d'outils du bandeau supérieur
-- la barre d'outils du menu de gauche
+Les pages d'accueil des espaces d'activités de la plateforme Claroline Connect sont composées de deux barres d'outils:
+* la barre d'outils du bandeau supérieur
+* la barre d'outils du menu de gauche
 
 ![barre d'outils.png](http://www.claroline.net/uploads/custom/images/1388.png)
 
