@@ -1,4 +1,4 @@
-## Désigner un gestionnaire d'équipe
+### Désigner un gestionnaire d'équipe
 ---
 
 Pour chaque équipe, il faut sélectionner un gestionnaire/responsable de l'équipe.
