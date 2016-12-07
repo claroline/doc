@@ -13,7 +13,7 @@
    * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Paramétrer la plateforme](admin/config_plateforme.md)
    * [Créer des équipes](admin/creer_equipes.md)
-       * Gérer les équipes
+       * [Gérer les équipes](admin/gerer_equipes.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
 * [Les barres d'outils](outils/les_outils.md)
