@@ -24,7 +24,7 @@
    * [Votre compte](outils/votre_compte.md)
    * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
    * [Accéder à votre profil utilisateur](outils/acces_profil_utilisateur.md)
-   * [Modifier votre profil](outils/modifier_profil.md)
+   * [Modifier votre profil utilisateur](outils/modifier_profil.md)
    * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
    * [Modification du mot de passe](outils/modification_du_mot_de_passe.md)
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
