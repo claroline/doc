@@ -18,7 +18,7 @@
        * [Désigner un gestionnaire d'équipe](admin/gerer_equipes.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
-   * [Les rôles et les profils](outils/les_roles_et_les_profils.md)
+   * [Les rôles et les profils](workspaces/les_roles_et_les_profils.md)
 * [Les barres d'outils](outils/les_outils.md)
    * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
    * [Votre compte](outils/votre_compte.md)
