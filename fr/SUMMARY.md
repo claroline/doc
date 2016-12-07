@@ -23,6 +23,7 @@
    * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
    * [Modification du mot de passe](outils/modification_du_mot_de_passe.md)
    * [Modifier votre profil](outils/modifier_profil.md)
+   * Test
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
