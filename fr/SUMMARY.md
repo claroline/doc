@@ -9,6 +9,7 @@
        * [Créer un onglet sur la page d'accueil](bureau/onglet_accueil.md)
        * [Créer un widget sur la page d'accueil](bureau/creer_widget.md)
        * [Paramétrer votre espace personnel](bureau/parametrer_espace_perso.md)
+       * La page d'accueil de votre espace personnel
 * [L'administration](admin/administration.md)
    * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Inscrire des utilisateurs](admin/inscrire_utilisateurs.md)
