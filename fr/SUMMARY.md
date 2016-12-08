@@ -11,6 +11,7 @@
        * [Créer un onglet sur la page d'accueil](bureau/onglet_accueil.md)
        * [Créer un widget sur la page d'accueil](bureau/creer_widget.md)
        * [Paramétrer votre espace personnel](bureau/parametrer_espace_perso.md)
+       * Organiser vos ressources dans votre espace personnel
 * [L'administration](admin/administration.md)
    * [Accéder aux paramètres de la plateforme](admin/config_plateforme.md)
    * [Aperçu des paramètres modifiables sur la plateforme](admin/parametres_plateforme.md)
