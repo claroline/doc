@@ -1,4 +1,4 @@
-## Modifier les paramètres de la plateforme
+## Aperçu des paramètres modifiables sur la plateforme
 ---
 En tant qu'administrateur, vous avez accès aux paramètres de votre plateforme.
 
