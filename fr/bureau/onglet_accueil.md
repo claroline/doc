@@ -21,30 +21,30 @@ Une fenêtre s'ouvre permettant de:
 
 Il faut faire attention aux instructions suivantes:
 
-1935.png
+![1935.png](http://www.claroline.net/uploads/custom/images/1935.png)
 
 b) Modifier un onglet
 
-Pour modifier un onglet, il suffit de cliquer sur la petite roue crantée 1940.png.
+Pour modifier un onglet, il suffit de cliquer sur la petite roue crantée ![1940.png](http://www.claroline.net/uploads/custom/images/1940.png).
 
-1936.png
+![1936.png](http://www.claroline.net/uploads/custom/images/1936.png)
 
 Cela permet de modifier les informations (dont le nom de l'onglet).
 
-1939.png
+![1939.png](http://www.claroline.net/uploads/custom/images/1939.png)
 c) Épingler un onglet sur le bureau
 
-L'icône 1937.png permet d'épingler l'onglet d'un espace d'activités au bureau personnel.
+L'icône ![1937.png](http://www.claroline.net/uploads/custom/images/1937.png) permet d'épingler l'onglet d'un espace d'activités au bureau personnel.
 
 1- Cliquez sur l'épingle,
 
 2- Une fenêtre s'ouvrira  vous informant que l'onglet sera disponible dans votre bureau:
 
-1938.png
+![1938.png](http://www.claroline.net/uploads/custom/images/1938.png)
 d)Supprimer un onglet
 
-Pour supprimer un onglet, il suffit de cliquer sur la croix 1941.png
+Pour supprimer un onglet, il suffit de cliquer sur la croix ![1941.png](http://www.claroline.net/uploads/custom/images/1941.png)
 
-1942.png
+![1942.png](http://www.claroline.net/uploads/custom/images/1942.png)
 
 Pour déplacer les onglets vers la gauche ou la droite, il suffit de les glisser et déposer en utilisant la souris.
