@@ -21,6 +21,7 @@
    * [Accéder à un espace d'activités](workspaces/acces_workspace.md)
    * [S'inscrire à un espace d'activités](workspaces/inscription_workspace.md)
    * [Les rôles et les profils](workspaces/les_roles_et_les_profils.md)
+   * Se désinscrire d'un espace d'activités
 * [Les barres d'outils](outils/les_outils.md)
    * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
    * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
