@@ -1,0 +1,2 @@
+# La barre de propriétés
+
