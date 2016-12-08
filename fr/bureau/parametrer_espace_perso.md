@@ -2,7 +2,6 @@
 
 ---
 
-
 Cliquez sur l'icône "paramètres" du menu du gauche de votre espace personnel. Il se décompose en 4 éléments :
 
 * Général
