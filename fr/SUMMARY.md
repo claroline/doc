@@ -24,6 +24,7 @@
    * [Ajouter un espace d'acitivités à ses favoris](workspaces/ajouter_favori.md)
    * [Gérer ses espaces d'activités](workspaces/gerer_workspaces.md)
    * [Les rôles et les profils](workspaces/les_roles_et_les_profils.md)
+   * Paramétrer l'accès à un espace d'activités
 * [Les barres d'outils](outils/les_outils.md)
    * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
    * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
