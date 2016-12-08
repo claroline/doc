@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [La page d'accueil](accueil/la-page-daccueil.md)
    * [L'interface Claroline Connect](accueil/interface_cc.md)
+   * Paramétrer les droits de la page d'accueil
 * [Le bureau](bureau/bureau.md)
    * [Personnaliser votre bureau](bureau/personnaliser_votre_bureau.md)
    * [Votre espace personnel](bureau/espace_perso.md)
