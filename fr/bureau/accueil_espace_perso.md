@@ -4,19 +4,20 @@
 Vous pouvez personnaliser votre page d'accueil à l'aide des onglets et des widgets.
 Vous savez que vous êtes sur votre espace personnel grâce à:
 
-    l'indication du fil d'Ariane[1] (qui indique: Mes espaces d'activités / Espace personnel / Accueil).
-    La barre de menu située à gauche.
+* l'indication du fil d'Ariane[1] (qui indique: Mes espaces d'activités / Espace personnel / Accueil)
+* la barre de menu située à gauche.
 
 [1] Il s'agit d'une succession de liens qui vous permet de vous situer dans le niveau de profondeur d'une arborescence, et de naviguer pour revenir à l'un des niveaux affichés.
 
 ![1862.png](http://www.claroline.net/uploads/custom/images/1862.png)
+
 **a) La barre du menu de gauche.**
 
 En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre avec les références des outils.
 
 ![1863.png](http://www.claroline.net/uploads/custom/images/1863.png)
 
-    Voir en tant que ![](1864.png) permet d'avoir un aperçu de l'espace d'activités tel que le voit un collaborateur (étudiant) ou un gestionnaire (enseignant ou le propriétaire de l'espace). Dès lors que l'on explore son espace d'activités en tant que collaborateur ou gestionnaire, l'en-tête de la page passe en couleur orange et indique "Vous êtes connecté en tant que … du workspace …".
+    Voir en tant que ![](images/1864.png) permet d'avoir un aperçu de l'espace d'activités tel que le voit un collaborateur (étudiant) ou un gestionnaire (enseignant ou le propriétaire de l'espace). Dès lors que l'on explore son espace d'activités en tant que collaborateur ou gestionnaire, l'en-tête de la page passe en couleur orange et indique "Vous êtes connecté en tant que … du workspace …".
 
 ![1865.png](http://www.claroline.net/uploads/custom/images/1865.png)
 Pour désactiver ce mode, il suffit de cliquer sur la croix en haut à droite du bandeau orange.
