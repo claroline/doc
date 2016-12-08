@@ -12,7 +12,6 @@
        * [Créer un widget sur la page d'accueil](bureau/creer_widget.md)
        * [Paramétrer votre espace personnel](bureau/parametrer_espace_perso.md)
 * [L'administration](admin/administration.md)
-   * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Inscrire des utilisateurs](admin/inscrire_utilisateurs.md)
    * [Accéder aux paramètres de la plateforme](admin/config_plateforme.md)
    * [Aperçu des paramètres modifiables sur la plateforme](admin/parametres_plateforme.md)
