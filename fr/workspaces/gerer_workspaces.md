@@ -6,8 +6,7 @@
 La commande "Mes espaces d'activités" du menu supérieur permet de gérer ses espaces.
 
 ![1797.png](http://www.claroline.net/uploads/custom/images/1797.png)
-
-    1. Pour classer les espaces, vous devez créer une catégorie une fois que vous avez cliqué sur "Classer mes espaces",
+1. Pour classer les espaces, vous devez créer une catégorie une fois que vous avez cliqué sur "Classer mes espaces",
 
 ![1801.png](http://www.claroline.net/uploads/custom/images/1801.png)
 
