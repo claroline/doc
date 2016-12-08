@@ -35,6 +35,7 @@
    * [Modifier l'URL de votre profil public](outils/modif_url_profil.md)
    * [Gérer les utilisateurs](outils/gerer_utilisateurs.md)
        * [Importer des utilisateurs](outils/importer_utilisateurs.md)
+       * Ajouter des groupes d'utilisateurs
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
