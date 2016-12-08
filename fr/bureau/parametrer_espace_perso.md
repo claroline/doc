@@ -17,7 +17,7 @@ Il permet de modifier les informations recueillies au moment de la création de 
 
 ![1878.png](http://www.claroline.net/uploads/custom/images/1878.png)
 
-    Rendre votre espace personnel public - Inscription publique
+  ** Rendre votre espace personnel public - Inscription publique**
 
 Il est par exemple possible de transformer un espace privé en espace public ou de générer un lien permettant l'inscription publique à l'espace d'activités. Pour ce faire, il faut cocher la case "inscription publique".
 Lorsque vous cochez la case "Inscription publique", un lien d'inscription est généré.
@@ -49,7 +49,7 @@ Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibl
 
 ![1883.png](http://www.claroline.net/uploads/custom/images/1883.png)
 
-    Renommez les outils du menu de votre espace personnel.
+   **Renommez les outils du menu de votre espace personnel.**
 
 Il est possible renommer chaque outil en cliquant sur le crayon bleu: ![1884.png](http://www.claroline.net/uploads/custom/images/1884.png)
 
