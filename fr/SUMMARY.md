@@ -44,11 +44,11 @@
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Modifier les options d'une ressource](ressources/options_ressource.md)
+   * [La barre de propriétés](ressources/barre_proprietes.md)
    * [Le wiki](ressources/le-wiki.md)
    * [Le site web](ressources/le-site-web.md)
        * [Créer des menus](ressources/créer-des-menus.md)
        * [Créer des articles](ressources/créer-des-articles.md)
        * [Créer des pages](ressources/créer-des-pages.md)
    * [L'éditeur de texte](ressources/editeur_de_texte.md)
-   * [La barre de propriétés](ressources/barre_proprietes.md)
 
