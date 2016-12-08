@@ -1,7 +1,5 @@
 ### La gestion et le dépôt de documents
 
-
-
 ---
 
 Sur la plateforme Claroline Connect, vous pouvez déposer ou télécharger différents types de documents ou de fichiers.
