@@ -19,18 +19,20 @@ Le menu options permet également:
 
     de Partager la ressource sur les réseaux sociaux
 
-2311.png
+![2311.png](http://www.claroline.net/uploads/custom/images/2311.png)
+
 2. Affichage
 
 Il y a deux types d'affichage:
 
-a) Sur le Mur de l'utilisateur :
+a. Sur le Mur de l'utilisateur :
+
 
 2313.png
 
 2314.png
 
-b) Sur les ressources
+b. Sur les ressources
 
 2315.png
 
