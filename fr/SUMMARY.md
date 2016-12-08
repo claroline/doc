@@ -46,7 +46,7 @@
    * [Modifier les options d'une ressource](ressources/options_ressource.md)
    * [La barre de propriétés](ressources/barre_proprietes.md)
    * [Gérer les options d'une ressource](ressources/gerer_options_ressource.md)
-       * Aimer, commenter et partager des ressources
+       * [Aimer, commenter et partager des ressources](ressources/aimer_ressources.md)
    * [Le wiki](ressources/le-wiki.md)
    * [Le site web](ressources/le-site-web.md)
        * [Créer des menus](ressources/créer-des-menus.md)
