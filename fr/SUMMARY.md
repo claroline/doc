@@ -17,7 +17,7 @@
    * [Accéder aux paramètres de la plateforme](admin/config_plateforme.md)
    * [Créer des équipes](admin/creer_equipes.md)
        * [Désigner un gestionnaire d'équipe](admin/gerer_equipes.md)
-   * Modifier les paramètres de la plateforme
+   * [Modifier les paramètres de la plateforme](admin/parametres_plateforme.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
    * [Accéder à un espace d'activités](workspaces/acces_workspace.md)
