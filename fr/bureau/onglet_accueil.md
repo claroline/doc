@@ -5,7 +5,7 @@
 
 ### Créer un onglet
 
-A partir de l'icône plus 1931.png (onglet) et 1932.png (widgets), l'utilisateur peut créer des onglets et widgets dans son espace personnel et en ajouter d'autres sur son bureau.
+A partir de l'icône plus ![1931.png](http://www.claroline.net/uploads/custom/images/1931.png) (onglet) et ![1932.png](http://www.claroline.net/uploads/custom/images/1932.png) (widgets), l'utilisateur peut créer des onglets et widgets dans son espace personnel et en ajouter d'autres sur son bureau.
 
 Pour créer un onglet, il suffit de cliquer sur "+ Créer un nouvel onglet"
 
