@@ -15,7 +15,7 @@
    * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Inscrire des utilisateurs](admin/inscrire_utilisateurs.md)
    * [Accéder aux paramètres de la plateforme](admin/config_plateforme.md)
-   * [Modifier les paramètres de la plateforme](admin/parametres_plateforme.md)
+   * [Aperçu des paramètres modifiables sur la plateforme](admin/parametres_plateforme.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
    * [Le concept des espaces d'activités](workspaces/les_espaces_dactivites.md)
    * [Accéder à un espace d'activités](workspaces/acces_workspace.md)
