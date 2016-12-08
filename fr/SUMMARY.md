@@ -39,7 +39,7 @@
        * [Créer ou modifier un rôle](outils/creer_role.md)
        * [Importer des utilisateurs](outils/importer_utilisateurs.md)
        * [Créer des équipes](outils/creer_equipes.md)
-           * [Désigner un gestionnaire d'équipe](admin/gerer_equipes.md)
+           * [Désigner un gestionnaire d'équipe](outils/gerer_equipes.md)
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
