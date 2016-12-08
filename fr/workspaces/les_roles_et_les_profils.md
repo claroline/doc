@@ -2,7 +2,7 @@
 
 ---
 
-Claroline Connect propose des **rôles prédéfinis** pour la plateforme et pour les espaces d'activités. Cependant , il est possible de les personnaliser en modifiant leur nom ou en en créant d'autres.
+Claroline Connect propose des **rôles prédéfinis** pour la plateforme et pour les espaces d'activités. Cependant, il est possible de les personnaliser en modifiant leur nom ou en en créant d'autres.
 
 ### Les rôles prédéfinis
 
