@@ -19,7 +19,7 @@ Vous pouvez modifier votre menu supérieur en configurant la barre de menu. Ajou
 
 Comparez les deux menus.
 
-1785.png
+![1785.png](http://www.claroline.net/uploads/custom/images/1785.png)
 
 Configuration du menu utilisateur (menu du profil)
 Vous pouvez modifier votre menu utilisateur (profil utilisateur). Il vous est loisible d'ajouter ou de retirer des outils en les cochant ou en les décochant de la liste proposée.
@@ -28,7 +28,7 @@ Vous pouvez modifier votre menu utilisateur (profil utilisateur). Il vous est lo
 
 Comparez les trois exemples ci dessous.
 
-1787.png
+![1787.png](http://www.claroline.net/uploads/custom/images/1787.png)
 <p style="text-align: center; color: blue">Figure 17: Trois exemples du menu utilisateur.</p>
 
 Paramètres du bureau: modifiez la couleur de fond de votre bureau.
@@ -36,9 +36,9 @@ Il est possible de modifier la couleur de votre bureau . Cela vous permettra de 
 
 Pour faire cela, cliquez sur le champ "couleur de fond du bureau" et choisissez la couleur en positionnant la souris sur la couleur souhaitée comme dans l'exemple ci-dessous.
 
-1788.png
+![1788.png](http://www.claroline.net/uploads/custom/images/1788.png)
 <p style="text-align: center; color: blue">Figure 18: Couleur de fond du bureau originale.</p>
-1789.png
+![1789.png](http://www.claroline.net/uploads/custom/images/1789.png)
 <p style="text-align: center; color: blue">Figure 19: Modification de la couleur de fond du bureau.</p>
 
 
