@@ -4,8 +4,8 @@
 
 Pour organiser les utilisateurs de votre espace d'activité personnel de manière général ou autour d'un projet ou cours, vous pouvez utiliser l'outil équipe. Il vous permet de:
 
-    créer une équipe à la fois
-    créer plusieurs équipes en même temps
+* créer une équipe à la fois
+* créer plusieurs équipes en même temps
 
 1913.png
 
