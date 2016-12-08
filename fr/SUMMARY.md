@@ -14,7 +14,7 @@
 * [L'administration](admin/administration.md)
    * [Profil d'utilisateur](admin/3_votre_profil_utilisateur.md)
    * [Inscrire des utilisateurs](admin/inscrire_utilisateurs.md)
-   * [Paramétrer la plateforme](admin/config_plateforme.md)
+   * [Accéder aux paramètres de la plateforme](admin/config_plateforme.md)
    * [Créer des équipes](admin/creer_equipes.md)
        * [Désigner un gestionnaire d'équipe](admin/gerer_equipes.md)
 * [Les espaces d'activités](workspaces/les-espaces-dactivités.md)
