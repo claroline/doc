@@ -15,11 +15,13 @@ En revanche, dans l'exemple suivant, les icônes rouges indiquent que l'inscript
 
 Pour inscrire les utilisateurs dans une équipe, il y a 2 options:
 
-1. Les inscrire en cliquant sur l'icône suivante:1919.png dans la page d'affichage des groupes.
+1. Les inscrire en cliquant sur l'icône  1919.png dans la page d'affichage des groupes.
 2. Les inscrire en cliquant sur le nom de l'équipe. 1922.png
 
 En cliquant sur le nom de l'équipe, vous accédez aux informations de l'équipe. Cliquez sur le petit bonhomme de droite pour inscrire les utilisateurs.
+
 1923.png
 
 Il s'afficheront tous les utilisateurs (avec le rôle collaborateur) de l'espace d'activité. Cliquez ensuite sur le bouton inscrire.
+
 1924.png
