@@ -33,6 +33,7 @@
    * [Accéder à votre profil utilisateur](outils/acces_profil_utilisateur.md)
    * [Modifier votre profil utilisateur](outils/modifier_profil.md)
    * [Modifier l'URL de votre profil public](outils/modif_url_profil.md)
+   * Gérer les utilisateurs
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
