@@ -24,6 +24,6 @@ Le gestionnaire gère un espace d'activités. Vous êtes d'office le gestionnair
 
 ### Les rôles personnalisés
 
-<img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1758.png" width="36" height="30"> Il est possible de modifier les intitulés des rôles prédéfinis pour les adapter aux différents contextes et institutions. (voir gestion des droits)
+<img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1758.png" width="24" height="24"> Il est possible de modifier les intitulés des rôles prédéfinis pour les adapter aux différents contextes et institutions. (voir gestion des droits)
 
 
