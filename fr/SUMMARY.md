@@ -45,4 +45,5 @@
        * [Créer des articles](ressources/créer-des-articles.md)
        * [Créer des pages](ressources/créer-des-pages.md)
    * [L'éditeur de texte](ressources/editeur_de_texte.md)
+   * La barre de propriétés
 
