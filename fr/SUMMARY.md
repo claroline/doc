@@ -19,7 +19,7 @@
    * [Accéder à un espace d'activités](workspaces/acces_workspace.md)
    * [S'inscrire à un espace d'activités](workspaces/inscription_workspace.md)
    * [Se désinscrire d'un espace d'activités](workspaces/desinscription_workspace.md)
-   * [Inscrire des utilisateurs](admin/inscrire_utilisateurs.md)
+   * [Inscrire des utilisateurs](workspaces/inscrire_utilisateurs.md)
    * [Ajouter un espace d'activités à ses favoris](workspaces/ajouter_favori.md)
    * [Gérer ses espaces d'activités](workspaces/gerer_workspaces.md)
    * [Les rôles et les profils](workspaces/les_roles_et_les_profils.md)
