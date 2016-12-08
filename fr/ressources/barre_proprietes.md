@@ -1,7 +1,6 @@
 ## La barre de propriétés
 ---
 
-
 La barre de propriétés du gestionnaire de ressources permet:
 
 * de gérer les ressources d'un espace d'activités. En sélectionnant la ou les ressources affichée(s), on peut la/les couper - coller - supprimer - télécharger - zoomer - administrer
