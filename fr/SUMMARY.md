@@ -36,7 +36,7 @@
    * [Gérer les utilisateurs](outils/gerer_utilisateurs.md)
        * [Importer des utilisateurs](outils/importer_utilisateurs.md)
        * [Ajouter des groupes d'utilisateurs](outils/ajouter_groupes.md)
-       * Créer ou modifier un rôle
+       * [Créer ou modifier un rôle](outils/creer_role.md)
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
    * [Accéder au gestionnaire de ressources](ressources/accéder-gestionnaire-ressources.md)
    * [Le wiki](ressources/le-wiki.md)
