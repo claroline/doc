@@ -44,7 +44,6 @@ Comme expliqué dans les références:
 
 ![1882.png](http://www.claroline.net/uploads/custom/images/1882.png)
 
-Pour plus d'informations, consultez: gestion des droits.
 
 Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibles par le profil "**Collaborateur** " et il ne peut rien éditer/modifier. En revanche, les profils "Anonyme" et "Utilisateur" n'ont aucune permission.
 
@@ -62,4 +61,4 @@ Pour ceux qui ont le droit de créer des espaces d'activités, cet outil permet 
 
 **d. Gérez l'accès aux ressources**
 
-Il permet de gérer les droits d'accès aux ressources en fonction des profils, des espaces ou des utilisateurs. Il est possible de régler finement ces droits par type d'action (ouvrir, copier, exporter, éditer, supprimer) et par type de ressource (en cliquant sur “Options”). Rappelons que l'on peut éditer les droits d'un fichier particulier depuis le répertoire de ressources (cf. menu déroulant du fichier concerné). (Pour plus d'informations, consultez "Gérer les droits".)
+Il permet de gérer les droits d'accès aux ressources en fonction des profils, des espaces ou des utilisateurs. Il est possible de régler finement ces droits par type d'action (ouvrir, copier, exporter, éditer, supprimer) et par type de ressource (en cliquant sur “Options”). Rappelons que l'on peut éditer les droits d'un fichier particulier depuis le répertoire de ressources (cf. menu déroulant du fichier concerné). 
