@@ -5,7 +5,7 @@
 
 **Créer un rôle**
 
-Comme expliqué dans la section Les profils de Claroline Connect, la plateforme propose des rôles prédéfinis qui peuvent être personnalisés.
+Comme expliqué dans la section [Les profils de Claroline Connect](../workspaces/les_roles_et_les_profils.md), la plateforme propose des rôles prédéfinis qui peuvent être personnalisés.
 L'onglet "Rôle" permet créer un nouveau rôle auquel on attribue des droits spécifiques dans les paramètres de l'espace d'activité, ou dans les droits des ressources.
 Pour ce faire, cliquez sur le bouton "Ajouter un rôle".
 
