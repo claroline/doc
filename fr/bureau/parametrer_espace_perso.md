@@ -57,7 +57,7 @@ Il est possible renommer chaque outil en cliquant sur le crayon bleu: ![1884.png
 
 **c. Créez un modèle d'espace d'activités (Créateur d'espaces d'activités)**
 
-Pour ceux qui ont le droit de créer des espaces d'activités, cet outil permet de créer un modèle d'espace d'activités comportant des ressources, onglets et widgets par défaut. (Voir créer des modèles )
+Pour ceux qui ont le droit de créer des espaces d'activités, cet outil permet de créer un modèle d'espace d'activités comportant des ressources, onglets et widgets par défaut. 
 
 **d. Gérez l'accès aux ressources**
 
