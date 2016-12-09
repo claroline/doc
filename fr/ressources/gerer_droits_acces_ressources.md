@@ -14,11 +14,11 @@ Il permet de gérer les droits des ressources de manière générale.
 
 Trois options vous sont proposées:
 
-   ** à tout le monde **: permet l'accès public à la ressource
+   * **à tout le monde** : permet l'accès public à la ressource
    
-   ** aux membres de cet espace**: permet l'accès à ceux qui sont inscrits à l'espace d'activités concerné.
+   * **aux membres de cet espace**: permet l'accès à ceux qui sont inscrits à l'espace d'activités concerné.
    
-   **aux utilisateurs de la plateforme**: permet l'accès à ceux qui sont inscrit à la plateforme.
+   * **aux utilisateurs de la plateforme**: permet l'accès à ceux qui sont inscrit à la plateforme.
 
 Dans l'exemple ci-dessous, l'espace d'activités est accessible "aux membres de cet espace d'activités", c'est-à dire à ceux qui sont inscrits à l'espace d'activités concerné.
 
