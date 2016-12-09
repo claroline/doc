@@ -48,22 +48,22 @@ Cliquez sur l'espace d'activités A auquel sont inscrits vos utilisateurs (A-Esp
 
 ![2723.png](http://www.claroline.net/uploads/custom/images/2723.png)
 
-    A la fin de la page vous trouverez le tableau avec le type d'action (ouvrir, copier, exporter, éditer, supprimer) et le type de ressource (en cliquant sur "Options").
+A la fin de la page vous trouverez le tableau avec le type d'action (ouvrir, copier, exporter, éditer, supprimer) et le type de ressource (en cliquant sur "Options").
 
-2724.png
+![2724.png](http://www.claroline.net/uploads/custom/images/2724.png)
 
-Par utilisateur
+**Par utilisateur**
 
-Cet onglet sert également pour des cas particuliers. Il permet de donner les droits d'accès par utilisateur (un o plusieurs).
+Cet onglet sert également pour des cas particuliers. Il permet de donner les droits d'accès par utilisateur (un ou plusieurs).
 
-Pour ajouter des utilisateurs il faut cliquer sur "ajouter un utilisateur ".
+Pour ajouter des utilisateurs il faut cliquer sur "**ajouter un utilisateur** ".
 
-2727.png
+![2727.png](http://www.claroline.net/uploads/custom/images/2727.png)
 
-Cochez l'utilisateur souhaité et cliquez sur OK.
+Cochez l'utilisateur souhaité et cliquez sur **OK**.
 
-2726.png
+![2726.png](http://www.claroline.net/uploads/custom/images/2726.png)
 
 L'utilisateur a été ajouté à l'onglet afin de lui donner des droits particuliers.
 
-2728.png
+![2728.png](http://www.claroline.net/uploads/custom/images/2728.png)
