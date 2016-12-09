@@ -1,9 +1,5 @@
 ## Gérer les droits d'accès aux ressources
-
-
-
 ---
-
 Vous pouvez gérer les droits d'accès aux ressources en fonction des profils, des espaces ou des utilisateurs. Il est possible de régler finement ces droits par type d'action (ouvrir, copier, exporter, éditer, supprimer) et par type de ressource (en cliquant sur “Options”). Rappelons que l'on peut éditer les droits d'un fichier particulier depuis le répertoire des ressources (cf. menu déroulant du fichier concerné).
 
 Le tableau est composé de 4 onglets : Simple, Avancé, Par espace, Par utilisateur
@@ -67,3 +63,26 @@ Cochez l'utilisateur souhaité et cliquez sur **OK**.
 L'utilisateur a été ajouté à l'onglet afin de lui donner des droits particuliers.
 
 ![2728.png](http://www.claroline.net/uploads/custom/images/2728.png)
+
+### Gérer les droits d'accès depuis le répertoire des ressources
+---
+Vous pouvez donner les droits d'accès depuis le répertoire de ressources.
+
+Cliquez sur la petite flèche à droite du nom de la ressource et choisissez « **éditer les droits** "
+
+![2729.png](http://www.claroline.net/uploads/custom/images/2729.png)
+
+ Sélectionnez les droits en fonction **des profils**,
+
+![2730.png](http://www.claroline.net/uploads/custom/images/2730.png)
+
+![2731.png](http://www.claroline.net/uploads/custom/images/2731.png)
+
+**des espaces,**
+
+![2732.png](http://www.claroline.net/uploads/custom/images/2732.png)
+
+ou **des utilisateurs**.
+
+![2733.png](http://www.claroline.net/uploads/custom/images/2733.png)
+
