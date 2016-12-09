@@ -9,7 +9,7 @@ Cliquez sur l'icône de la roue crantée pour éditer l'onglet.
 
 ![2735.png](http://www.claroline.net/uploads/custom/images/2735.png)
 
-Cliquez ensuite sur "paramètres avancés" et choisissez le rôle.
+Cliquez ensuite sur "**paramètres avancés**" et **choisissez le rôle**.
 
 ![2736.png](http://www.claroline.net/uploads/custom/images/2736.png)
 
