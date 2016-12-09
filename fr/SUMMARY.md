@@ -48,6 +48,7 @@
    * [Gérer les options d'une ressource](ressources/gerer_options_ressource.md)
        * [Aimer, commenter et partager des ressources](ressources/aimer_ressources.md)
    * [Gérer les droits d'accès aux ressources](ressources/gerer_droits_acces_ressources.md)
+   * Gérer les droits d'accès depuis le répertoire des ressources
    * [Le wiki](ressources/le-wiki.md)
    * [Le site web](ressources/le-site-web.md)
        * [Créer des menus](ressources/créer-des-menus.md)
@@ -57,5 +58,4 @@
    * [Créer les rôles et les répertoires de ressources](ressources/creer_roles_et_repertoires_ressources.md)
    * [Les différents types de ressources](ressources/differents_types_ressources.md)
        * [La gestion et le dépôt de documents](ressources/gestion_depot_documents.md)
-   * Gérer les droits d'accès depuis le répertoire des ressources
 
