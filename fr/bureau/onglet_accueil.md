@@ -11,6 +11,8 @@ Pour créer un onglet, il suffit de cliquer sur "**+ Créer un nouvel onglet**"
 
 ![1933.png](http://www.claroline.net/uploads/custom/images/1933.png)
 
+<p style ="text-align: center; color: blue">Figure 18: Créer un nouvel onglet</p>
+
 Une fenêtre s'ouvre permettant de:
 
 * nommer l'onglet
