@@ -14,7 +14,7 @@ Il est également possible de personnaliser la couleur du fond du bureau pour le
 **Comparez** ci-dessous la page d'accueil du **bureau** et la page d'accueil d'un **espace d'activités**.
 
 ![](http://www.claroline.net/uploads/custom/images/1779.png)
-<p style="text-align: center; color: blue">Figure 12: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
+<p style="text-align: center; color: blue">Figure 7: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
 
 Le bureau personnel est composé:
 
@@ -34,7 +34,7 @@ Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des es
 
 ![](http://www.claroline.net/uploads/custom/images/1780.png)
 
-<p style="text-align: center; color: blue">Figure 13: page d'accueil du bureau. Elle est composée par des onglets et des widgets.</p>
+<p style="text-align: center; color: blue">Figure 8: page d'accueil du bureau. Elle est composée par des onglets et des widgets.</p>
 
 
 ## Gestionnaire de ressources
