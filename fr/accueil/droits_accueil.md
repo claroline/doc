@@ -9,10 +9,12 @@ Cliquez sur l'icône de la roue crantée pour éditer l'onglet.
 
 ![2735.png](http://www.claroline.net/uploads/custom/images/2735.png)
 
+<p style="text-align: center; color: blue">Figure 5: Éditer un onglet sur la page d'accueil.</p>
+
 Cliquez ensuite sur "**paramètres avancés**" et **choisissez le rôle**.
 
 ![2736.png](http://www.claroline.net/uploads/custom/images/2736.png)
 
+<p style="text-align: center; color: blue">Figure 6: Paramétrer les rôles d'un onglet sur la page d'accueil.</p>
+
 **Attention:** Si aucun rôle n'est coché, l'onglet sera disponible pour tous les utilisateurs. Sinon, il sera uniquement disponible pour les utilisateurs ayant un des rôles sélectionnés.
-
-
