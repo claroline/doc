@@ -20,9 +20,9 @@ Elle est identique, quelle que soit la page sur laquelle vous naviguez.
 
 Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir "Outils du bureau".)
 
-La barre d'outils du menu de gauche permet l'accès aux outils et ressources de l'espace d'activités concerné. Elle varie selon l'espace d'activités et selon que l'utilisateur soit gestionnaire ou pas de l'espace d'activités.
-Le menu de gauche montre les outils dont vous disposez si vous êtes le gestionnaire d'un espace d'activités.
-Le menu de droite montre un exemple de menu si vous êtes un simple utilisateur d'un espace d'activités.
+La barre d'outils du menu de gauche permet l'**accès aux outils et ressources** de l'espace d'activités concerné. Elle varie selon l'espace d'activités et selon que l'utilisateur soit gestionnaire ou pas de l'espace d'activités.
+Le menu de gauche montre les outils dont dispose le **gestionnaire** d'un espace d'activités.
+Le menu de droite montre un exemple de menu dont dispose un simple **utilisateur** d'un espace d'activités.
 
 ![9-menu de gauche.png](http://www.claroline.net/uploads/custom/images/1392.png)
 
