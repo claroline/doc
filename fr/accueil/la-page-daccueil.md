@@ -7,7 +7,7 @@ La page d'accueil des espaces d'activités de la plateforme Claroline Connect es
 * la barre d'outils du bandeau supérieur
 * la barre d'outils du menu de gauche
 
-![](images/barres_outils.png)
+![](images/fig1.png)
 
 <p style="text-align: center; color: blue">Figure 1 : Les barres d'outils de Claroline Connect.</p>
 
