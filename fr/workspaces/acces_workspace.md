@@ -7,7 +7,7 @@ Il est possible d'accéder aux espaces d'activités publics, ou à ceux auxquels
 
 ![1790.png](http://www.claroline.net/uploads/custom/images/1790.png)
 
-Il est possible d'accéder également aux espaces d'activités à partir **de la page d'accueil du bureau**. Pour faire cela, il est nécessaire que l'utilisateur ou l'administrateur de la plateforme ajoutent le widget "**Mes espaces d'activités**". (** 4- Voir gestion de la page d'accueil de son espace et/ou de son bureau personnel** )
+Il est possible d'accéder également aux espaces d'activités à partir **de la page d'accueil du bureau**. Pour faire cela, il est nécessaire que l'utilisateur ou l'administrateur de la plateforme ajoutent le widget "**Mes espaces d'activités**". (** 4. Voir [gestion de la page d'accueil](/../bureau/accueil_espace_perso.md) de son espace et/ou de son bureau personnel** )
 
 ![1791.png](http://www.claroline.net/uploads/custom/images/1791.png)
 <p style="text-align: center; color: blue">Figure 20: Liste des espaces d'activités dans la page d'accueil du bureau. Il est possible de les afficher à partir du widget "Mes espaces d'activités".</p>

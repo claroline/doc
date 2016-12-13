@@ -54,7 +54,7 @@ La barre d'outils latérale s'enrichit de plusieurs commandes.
     </tr>
     <tr>
       <td><b>Suivi de la plateforme</b></td>
-      <td></td>
+      <td>Indique le nombre d'actions par jour et la liste des actions (horodatées) effectuées par les utilisateurs.</td>
     </tr>
     <tr>
       <td><b>Statistiques de la plateforme</b></td>
@@ -91,8 +91,6 @@ La barre d'outils latérale s'enrichit de plusieurs commandes.
 | Outils du menu | Ce que les outils permettent |
 | -- | -- |
 | **Onglets de la page d'accueil** |  |
-| **** |  |
-| **** | Indique le nombre d'actions par jour et la liste des actions (horodatées) effectuées par les utilisateurs. |
 | **** | Il s'agit d'un outil statistique plus complet qui présente des vues d'ensemble:<ul><li>Un diagramme mesurant les activités des 30 derniers jours</li><li>Un diagramme circulaire présentant la répartition des membres par profil</li><li>Les contenus les plus consultés.</li></ul><br/>L'onglet "Audience" propose un diagramme des visites des utilisateurs.<br/>L'onglet "Contenu de la plateforme" présente un diagramme circulaire indiquant la répartition des ressources par type.<br/>Un onglet "Top des activités" permet de connaître les activités et ressources les plus consultées, mais aussi les membres les plus actifs sur la plateforme.|
 | **** | Permet de configurer: la liste des rôles : permet de créer un nouveau rôle et de définir un nombre limite d'utilisateurs par rôle. La gestion des outils : Un tableau propose pour le profil "Utilisateur" et "Créateur d'espace" une liste d'outils à cocher. |
 | **** | Permet de paramétrer les notifications par page et l'historique. |
