@@ -4,13 +4,13 @@
 Lorsque vous vous connectez à la plateforme, vous ouvrez automatiquement votre bureau personnel, soit l'accueil. Vous pouvez, comme chaque utilisateur, personnaliser votre bureau et y organiser votre travail. Vous pouvez revenir à tout moment à ce bureau en cliquant sur l'icône de la  maison <img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1401.png" width="24" height="24"> dans la **barre de menu supérieure**.
 
 Le bureau vous permet **d'agréger les informations de la plateforme** à l'aide des onglets et widgets[1] **d'épingler les onglets** des pages d'accueil et **d'afficher les annonces** des différents espaces d'activités auxquels vous êtes inscrit. Il vous donne aussi la possibilité **d'afficher l'agenda**, les discussions des **forums** auxquels vous êtes inscrits, le fil de **twitter**, les **rss** des blogs, etc.
-Il donne **accès aux outils, espaces d'activités** et à toutes **les ressources** personnelles ou issues des espaces d'activités auxquels l'utilisateur est inscrit.
+Il donne **accès aux outils, aux espaces d'activités** et à toutes **les ressources** personnelles ou issues des espaces d'activités auxquels l'utilisateur est inscrit.
 
 *[1] De façon générale, un widget est une petite application que l'on ajoute sur le bureau de son ordinateur et qui affiche certaines informations (météo, notifications de messages, etc.). Netvibes s'est par exemple rendu célèbre avec une page Internet de démarrage incluant des widgets à la carte.
-Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des espaces d'activités, et proposent des informations en relation avec les ressources et activités de la plateforme.*
+Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des espaces d'activités, et proposent des informations en relation avec les ressources et les activités de la plateforme.*
 
 On sait que l'on est sur le bureau personnel grâce à **l'absence du menu de gauche**, qui caractérise les espaces d'activités.
-Il est également possible de personnaliser la couleur du fond du bureau pour le différencier des espace d'activités (Consultez le point suivant "Personnalisez votre bureau)
+Il est également possible de personnaliser la couleur du fond du bureau pour le différencier des espace d'activités (Consultez le point suivant "[Personnalisez votre bureau](/bureau/personnaliser_votre_bureau.md)")
 **Comparez** ci-dessous la page d'accueil du **bureau** et la page d'accueil d'un **espace d'activités**.
 
 ![](http://www.claroline.net/uploads/custom/images/1779.png)
