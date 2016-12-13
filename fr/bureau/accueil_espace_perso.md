@@ -7,13 +7,13 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 * l'indication du **fil d'Ariane**[1] (qui indique: Mes espaces d'activités / Espace personnel / Accueil)
 * la **barre de menu située à gauche**.
 
-[1] Il s'agit d'une succession de liens qui vous permet de vous situer dans le niveau de profondeur d'une arborescence, et de naviguer pour revenir à l'un des niveaux affichés.
+[1] Il s'agit d'une succession de liens qui vous permettent de vous situer dans le niveau de profondeur d'une arborescence et de naviguer pour revenir à l'un des niveaux affichés.
 
 ![1862.png](http://www.claroline.net/uploads/custom/images/1862.png)
 
 <p style ="text-align: center; color: blue">Figure 15: La page d'accueil de l'espace personnel</p>
 
-**a) La barre de menu de gauche.**
+** La barre de menu de gauche.**
 
 En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre avec les références des outils.
 
