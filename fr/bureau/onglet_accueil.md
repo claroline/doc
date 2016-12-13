@@ -21,6 +21,8 @@ Une fenêtre s'ouvre permettant de:
 
 ![1934.png](http://www.claroline.net/uploads/custom/images/1934.png)
 
+<p style ="text-align: center; color: blue">Figure 19: Options à la création d'un nouvel onglet</p>
+
 Il faut faire attention aux instructions suivantes:
 
 ![1935.png](http://www.claroline.net/uploads/custom/images/1935.png)

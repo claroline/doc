@@ -20,11 +20,11 @@ Vous pouvez **modifier votre menu supérieur** en configurant la barre de menu. 
 
 ![1785.png](http://www.claroline.net/uploads/custom/images/1785.png)
 
+<p style="text-align: center; color: blue">Figure 11: Outils visibles dans la barre de menu supérieure.</p>
+
 **Configuration du menu utilisateur (menu du profil)**
 
 Vous pouvez modifier votre menu utilisateur (profil utilisateur). Il vous est loisible d'ajouter ou de retirer des outils en les cochant ou en les décochant de la liste proposée.
-
-<p style="text-align: center; color: blue">Figure 11: Liste des outils du "menu utilisateur"</p>
 
 Comparez les trois exemples ci dessous.
 
