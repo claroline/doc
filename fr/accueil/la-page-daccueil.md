@@ -18,7 +18,7 @@ Elle est identique, quelle que soit la page sur laquelle vous naviguez.
 
 <p style="text-align: center; color: blue">Figure 2: Barre d'outils - bandeau supérieur</p>
 
-Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir "Outils du bureau".)
+Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir "[Outils du bureau](/../personnaliser_bureau.md)".)
 
 La barre d'outils du menu de gauche permet l'**accès aux outils et ressources** de l'espace d'activités concerné. Elle varie selon l'espace d'activités et selon que l'utilisateur soit gestionnaire ou pas de l'espace d'activités.
 Le menu de gauche montre les outils dont dispose le **gestionnaire** d'un espace d'activités.
