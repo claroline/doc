@@ -2,7 +2,7 @@
 
 ---
 
-Cliquez sur l'icône "**paramètres**" du menu du gauche de votre espace personnel. Il se décompose en** 4 éléments** :
+Cliquez sur l'icône "**paramètres**" du menu du gauche de votre espace personnel. Il est composé de **4 éléments** :
 
 * **Général**
 * **Outils**
