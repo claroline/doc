@@ -6,15 +6,22 @@
 Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'onglet **Administration** apparaît en haut de page dans la barre de menu supérieure. Il permet d'accéder aux réglages de la plateforme.
 
 ![](images/menu_admin.png)
+
+<p style ="text-align: center; color: blue">Figure 32: L'onglet Administration</p>
+
 ### La barre d'outils d'administration
 
 Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la page est également disponible.
 
 ![](images/barre_outils_g.png)
 
+<p style ="text-align: center; color: blue">Figure 33: La barre d'outils à gauche de la page</p>
+
 La barre d'outils latérale s'enrichit de plusieurs commandes.
 
 ![](images/barre_g_admin.png)
+
+<p style ="text-align: center; color: blue">Figure 34: La barre d'outils d'administration</p>
 
 ### Aperçu de ce que vous pouvez réaliser en tant qu'administrateur
 
@@ -39,7 +46,7 @@ Les utilisateurs peuvent être ajoutés par lots avec un fichier <em>csv</em>, o
 </tr>
 <tr>
 <td><b>Inscription à des espaces d'activités</b></td>
-<td>Inscrire des utilisateurs ou des groupes à des espaces d'activités. Il convient au préalable cocher l'espace d'activités concerné pour rendre actifs les boutons "Inscrire des utilisateurs" ou "Inscrire des groupes".</td>
+<td>Inscrire des utilisateurs ou des groupes à des espaces d'activités. Il convient au préalable de cocher l'espace d'activités concerné pour rendre actifs les boutons "Inscrire des utilisateurs" ou "Inscrire des groupes".</td>
 </tr>
 <tr>
 <td><b>Paquets de la plateforme</b></td>
