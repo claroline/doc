@@ -8,14 +8,14 @@ Les pages d'accueil des espaces d'activités de la plateforme Claroline Connect 
 
 ![barre d'outils.png](http://www.claroline.net/uploads/custom/images/1388.png)
 
-<p style="text-align: center; color: blue">Figure 5 : Les barre d'outils de Claroline Connect.</p>
+<p style="text-align: center; color: blue">Figure 61 : Les barre d'outils de Claroline Connect.</p>
 
 La barre d'outils du bandeau supérieur permet l'accès aux principaux outils, ressources et espaces d'activités de la plateforme.
 Elle est identique , quelle que soit la page sur laquelle vous naviguez.
 
 ![8-bandeau supérieur.png](http://www.claroline.net/uploads/custom/images/1762.png)
 
-<p style="text-align: center; color: blue">Figure 6: Barre d'outils - bandeau supérieur</p>
+<p style="text-align: center; color: blue">Figure 62: Barre d'outils - bandeau supérieur</p>
 
 Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir : outils du bureau.)
 
@@ -24,4 +24,4 @@ Le menu de gauche montre les outils dont vous disposez si vous êtes le gestionn
 
 ![9-menu de gauche.png](http://www.claroline.net/uploads/custom/images/1392.png)
 
-<p style="text-align: center; color: blue">Figure 7: Comparaison des menus de gauche des pages d'accueil des espaces d'activités.</p>
+<p style="text-align: center; color: blue">Figure 63: Comparaison des menus de gauche des pages d'accueil des espaces d'activités.</p>
