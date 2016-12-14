@@ -7,10 +7,13 @@ Toujours à partir de l'icône "**Espaces d'activités**" du bandeau supérieur,
 
 ![1797.png](http://www.claroline.net/uploads/custom/images/1797.png)
 
-Quanq vous cliquez sur "**Me désinscrire d'un espace d'activités**", les espaces qui autorisent la désinscription apparaissent.
+<p style ="text-align: center; color: blue">Figure 42: Cliquer sur "Mes espaces d'activités" pour vous désinscrire d'un espace</p>
+
 
 ![1798.png](http://www.claroline.net/uploads/custom/images/1798.png)
 
-**Choisissez** ensuite l'espace duquel vous souhaitez vous désinscrire.
+<p style ="text-align: center; color: blue">Figure 43: Quand vous cliquez sur "Me désinscrire d'un espace d'activités", les espaces qui autorisent la désinscription apparaissent.</p>
 
 ![1800.png](http://www.claroline.net/uploads/custom/images/1800.png)
+
+<p style ="text-align: center; color: blue">Figure 43: Choisissez ensuite l'espace duquel vous souhaitez vous désinscrire..</p>
