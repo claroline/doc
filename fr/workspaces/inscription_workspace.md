@@ -9,6 +9,8 @@ Pour vous inscrire à un espace d'activités, il y a deux possibilités:
 
 ![1793.png](http://www.claroline.net/uploads/custom/images/1793.png)
 
+<p style ="text-align: center; color: blue">Figure 40: S'inscrire librement à un espace d'activités</p>
+
 La **liste des espaces publics** est alors **affichée**. Mais cela ne signifie pas pour autant qu'il soit possible de s'inscrire à chacun de ces espaces.
 Les espaces auxquels le membre est déjà inscrit apparaissent en **noir**, alors que ceux auxquels il n'est **pas encore inscrit** sont **grisés** .
 
@@ -17,6 +19,9 @@ Cliquez sur l'onglet "**M'inscrire à un espace**" pour obtenir tous les espaces
 Ensuite cliquez sur le bouton **+Inscription**
 
 ![1794.png](http://www.claroline.net/uploads/custom/images/1794.png)
+
+<p style ="text-align: center; color: blue">Figure 41: Cliquer sur le bouton "+Inscription" pour s'inscrire à un espace d'activité public</p>
+
 La mention "**inscrit**" est affichée sur l'espace concerné.
 
 ![1795.png](http://www.claroline.net/uploads/custom/images/1795.png)
