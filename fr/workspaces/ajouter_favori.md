@@ -4,7 +4,10 @@ Il est possible d'ajouter un espace d'activités à ses **favoris** en cliquant 
 
 ![1815.png](http://www.claroline.net/uploads/custom/images/1815.png)
 
+<p style ="text-align: center; color: blue">Figure 45: Cliquer sur l'étoile jaune pour ajouter un espace d'activités à ses favoris</p>
+
 Si vous avez ajouté un widget "**Mes espaces d'activités**" sur votre bureau personnel, désormais, un bouton "**Mes espaces d'activités favoris**" vous permet d'accéder directement à vos favoris:
 
 ![1817.png](http://www.claroline.net/uploads/custom/images/1817.png)
 
+<p style ="text-align: center; color: blue">Figure 46: Accéder directement à vos favoris à partir  du widget "Mes espaces d'activités favoris"</p>
