@@ -7,13 +7,15 @@
 
 En bas de chaque onglet, un lien permet d'ajouter un **widget**.
 
-Lors de la **création d'un widget**, Connect propose différentes possibilités:
+Lors de la **création d'un widget**, Claroline Connect propose différentes possibilités:
 
 ![1943.png](http://www.claroline.net/uploads/custom/images/1943.png)
 
+<p style ="text-align: center; color: blue">Figure 24: Créer un nouveau widget</p>
+
 **Aperçu des activités récentes**
 
-Il affiche les **activités** (graphique du nombre d'actions par jours) ainsi que les **dernières actions** effectuées sur les espaces d'activités.
+Il affiche les **activités** (graphique du nombre d'actions par jour) ainsi que les **dernières actions** effectuées sur les espaces d'activités.
 
 **Texte**
 	
