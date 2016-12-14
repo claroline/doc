@@ -2,7 +2,8 @@
 
 ---
 
-L'espace personnel est attaché au **gestionnaire de ressources** permettant de créer et gérer les ressources de cet espace.  
+L'espace personnel est attaché au **gestionnaire des ressources** permettant de créer et gérer les ressources de cet espace.
+ 
 Il existe deux manières d'y accéder:
 
 * en cliquant sur l'icône ![6- ressources.png](http://www.claroline.net/file/resource/media/1867) de la barre d'outils d'un espace d'activités, vous accédez directement au répertoire de ressources de cet espace
