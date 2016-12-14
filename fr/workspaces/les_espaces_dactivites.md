@@ -20,7 +20,7 @@ Claroline Connect vous propose deux types d'espaces d'activités :
 
 Un espace d'activités se compose de 2 éléments:
 
-### La page d'accueil.
+### La page d'accueil
 
 
 Elle donne des informations sur le contenu et la structure de l'espace d'activités.
