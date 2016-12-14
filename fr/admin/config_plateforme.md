@@ -1,4 +1,3 @@
-
 ## Paramétrer la plateforme
 
 ---
