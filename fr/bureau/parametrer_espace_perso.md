@@ -9,7 +9,7 @@ Cliquez sur l'icône "**paramètres**" du menu de gauche de votre espace personn
 * **Modèles**
 * **Ressources**
 
-![1877.png](http://www.claroline.net/uploads/custom/images/1877.png)
+![](images/fig25.png)
 
 <p style ="text-align: center; color: blue">Figure 25: Paramètres de votre espace personnel</p>
 
@@ -17,7 +17,7 @@ Cliquez sur l'icône "**paramètres**" du menu de gauche de votre espace personn
 
 Il permet de modifier les informations recueillies au moment de la création de l'espace d'activités \(nom, description, modalités d'inscription, etc.\) Il est par exemple possible de transformer un espace privé **en espace public**, ou de générer un lien permettant l'inscription publique à l'espace d'activités.
 
-![1878.png](http://www.claroline.net/uploads/custom/images/1878.png)
+![](images/fig26.png)
 
 <p style ="text-align: center; color: blue">Figure 26: Paramétrage général de l'espace personnel</p>
 
@@ -37,13 +37,13 @@ Vous donnerez le lien généré aux internautes pour s'inscrire à votre espace 
 
 Lors de l'inscription publique, l'anonyme accédera directement au formulaire d'inscription à la plateforme.
 
-![1880.png](http://www.claroline.net/uploads/custom/images/1880.png)
+![](images/fig27.png)
 
 <p style ="text-align: center; color: blue">Figure 27: Inscription à un espace d'activités par un anonyme</p>
 
 Une fois que le formulaire est rempli le nouveau utilisateur accédera directement à votre espace personnel.
 
-![1881.png](http://www.claroline.net/uploads/custom/images/1881.png)
+![](images/fig28.png)
 
 <p style ="text-align: center; color: blue">Figure 28: Le nouvel utilisateur accède à votre espace personnel</p>
 
@@ -59,7 +59,7 @@ Comme expliqué dans les références:
 
 Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibles par le profil "**Collaborateur** " qui ne peut rien éditer/modifier. En revanche, les profils "Anonyme" et "Utilisateur" n'ont aucune permission.
 
-![1883.png](http://www.claroline.net/uploads/custom/images/1883.png)
+![](images/fig29.png)
 
 <p style ="text-align: center; color: blue">Figure 29: L'Accueil et les Ressources sont visibles par le profil "Collaborateur"</p>
 
@@ -67,7 +67,7 @@ Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibl
 
 Il est possible de renommer chaque outil en cliquant sur le crayon bleu: ![1884.png](http://www.claroline.net/uploads/custom/images/1884.png)
 
-![1886.png](http://www.claroline.net/uploads/custom/images/1886.png)
+![](images/fig30.png)
 
 <p style ="text-align: center; color: blue">Figure 30: Ajouter le nom souhaité pour l'outil sélectionné</p>
 

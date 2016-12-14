@@ -13,7 +13,8 @@ On sait que l'on est sur le bureau personnel grâce à **l'absence du menu de ga
 Il est également possible de personnaliser la couleur du fond du bureau pour le différencier des espace d'activités (Consultez le point suivant "[Personnalisez votre bureau](/bureau/personnaliser_votre_bureau.md)")
 **Comparez** ci-dessous la page d'accueil du **bureau** et la page d'accueil d'un **espace d'activités**.
 
-![](http://www.claroline.net/uploads/custom/images/1779.png)
+![](images/fig7.png)
+
 <p style="text-align: center; color: blue">Figure 7: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
 
 Le bureau personnel est composé:
@@ -31,7 +32,7 @@ La page d'accueil du bureau peut être configurée par l'administrateur de la pl
 [1] De façon générale, un *widget* est une petite application que l'on ajoute sur le bureau de son ordinateur et qui affiche certaines informations (météo, notifications de messages, etc.). *Netvibes* s'est par exemple rendu célèbre avec une page Internet de démarrage incluant des widgets à la carte.
 Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des espaces d'activités, et proposent des informations en relation avec les ressources et activités de la plateforme.
 
-![](http://www.claroline.net/uploads/custom/images/1780.png)
+![](images/fig8.png)
 
 <p style="text-align: center; color: blue">Figure 8: La page d'accueil du bureau est composée d'onglets et de widgets.</p>
 
@@ -39,7 +40,7 @@ Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des es
 
 Le **bureau**, comme chaque espace d'activités, est attaché à un répertoire de ressources. A partir du bureau, l'utilisateur peut accéder à tous les répertoires de tous les espaces d'activités auxquels il est inscrit.
 
-![](http://www.claroline.net/uploads/custom/images/1781.png)
+![](images/fig9.png)
 
 <p style="text-align: center; color: blue">Figure 9: Le bureau est attaché à un répertoire de ressources des différents espaces.</p>
 
