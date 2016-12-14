@@ -10,3 +10,4 @@ Il existe deux manières d'y accéder:
 
 ![1945.png](http://www.claroline.net/uploads/custom/images/1945.png)
 
+<p style ="text-align: center; color: blue">Figure 31: Deux manières d'accéder au gestionnaire des ressources</p>
