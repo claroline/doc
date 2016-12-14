@@ -16,4 +16,4 @@ Toujours à partir de l'icône "**Espaces d'activités**" du bandeau supérieur,
 
 ![1800.png](http://www.claroline.net/uploads/custom/images/1800.png)
 
-<p style ="text-align: center; color: blue">Figure 43: Choisissez ensuite l'espace duquel vous souhaitez vous désinscrire.</p>
+<p style ="text-align: center; color: blue">Figure 44: Choisissez ensuite l'espace duquel vous souhaitez vous désinscrire.</p>
