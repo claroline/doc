@@ -6,7 +6,7 @@ Claroline Connect est fondée sur **trois piliers**:<br/>
 * les **espaces d'activités** incluant des ressources au sens large comme des documents multimédias, forums, wikis, visioconférences, travaux, cartes conceptuelles, exercices, etc.
 * les activités se déclinant en **parcours** libres, séquentiels ou conditionnels, mais aussi à propos de situations-problèmes, de projets, etc.
 
-<img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1522.jpeg" style="text-align: center" alt="Se repérer" width="82" height="82">
+<img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1522.jpeg" style="text-align: center" alt="Se repérer" width="40" height="40">
 
 ### Se repérer sur Claroline Connect
 
@@ -28,6 +28,6 @@ Le bureau vous donne accès à différents espaces d'activités (depuis le menu 
 On peut schématiser simplement l'interface de la façon suivante:
 
 
-![](http://www.claroline.net/uploads/custom/images/1755.png)
+![](images/fig4.png)
 
 <p style="text-align: center; color: blue"> Figure 4: Structure de Claroline Connect.</p>

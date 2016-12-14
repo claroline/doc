@@ -7,13 +7,13 @@ Vous proposerez donc des pages d'accueil différentes en fonction du profil.
 
 Cliquez sur l'icône de la roue crantée pour éditer l'onglet.
 
-![2735.png](http://www.claroline.net/uploads/custom/images/2735.png)
+![](images/fig5.png)
 
 <p style="text-align: center; color: blue">Figure 5: Éditer un onglet sur la page d'accueil.</p>
 
 Cliquez ensuite sur "**paramètres avancés**" et **choisissez le rôle**.
 
-![2736.png](http://www.claroline.net/uploads/custom/images/2736.png)
+![](images/fig6.png)
 
 <p style="text-align: center; color: blue">Figure 6: Paramétrer les rôles d'un onglet sur la page d'accueil.</p>
 
