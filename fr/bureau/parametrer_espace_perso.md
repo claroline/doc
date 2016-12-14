@@ -69,7 +69,7 @@ Il est possible de renommer chaque outil en cliquant sur le crayon bleu: ![1884.
 
 ![1886.png](http://www.claroline.net/uploads/custom/images/1886.png)
 
-<p style ="text-align: center; color: blue">Figure 30: Rajouter le nom souhaité pour l'outil sélectionné</p>
+<p style ="text-align: center; color: blue">Figure 30: Ajouter le nom souhaité pour l'outil sélectionné</p>
 
 ### c. Créer un modèle d'espace d'activités \(Créateur d'espaces d'activités\)
 
