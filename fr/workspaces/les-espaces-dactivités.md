@@ -1,10 +1,9 @@
 # Les espaces d'activités
 ---
 
-
 Un espace d'activités est systématiquement constitué :
 
-* **de ressources** pédagogiques (exercices, cours, sondages, dépôt de fichiers, parcours d'activités, évaluations par les pairs,...) et d'outils de communication (blogs, forums, notifications, annonces, agenda,...)
+* de **ressources** pédagogiques (exercices, cours, sondages, dépôt de fichiers, parcours d'activités, évaluations par les pairs,...) et d'outils de communication (blogs, forums, notifications, annonces, agenda,...)
 * d'**outils de gestion** pour paramétrer l'espace, inscrire des utilisateurs, créer des ressources et des activités, obtenir des suivis et des statistiques, créer des badges, mettre en place des parcours et des référentiels de compétences, etc.
 * de **widgets**
 
