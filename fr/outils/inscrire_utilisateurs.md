@@ -1,9 +1,6 @@
 #### Inscrire des utilisateurs
 
-
-
 ---
-
 
 **a. Auto-inscription**
 

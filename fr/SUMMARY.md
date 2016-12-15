@@ -38,7 +38,7 @@
         * [Importer des utilisateurs](outils/importer_utilisateurs.md)
         * [Créer des équipes](outils/creer_equipes.md)
             * [Désigner un gestionnaire d'équipe](outils/gerer_equipes.md)
-            * [Inscrire des utilisateurs](outils/inscrire_utilisateurs.md)
+        * [Inscrire des utilisateurs](outils/inscrire_utilisateurs.md)
         * [Valider une inscription](outils/valider_inscription.md)
     * [Accéder à votre profil utilisateur](outils/acces_profil_utilisateur.md)
 * [Le gestionnaire de ressources](ressources/gestion_ressources.md)
