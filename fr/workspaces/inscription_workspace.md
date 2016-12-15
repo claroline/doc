@@ -7,7 +7,7 @@ Pour vous inscrire à un espace d'activités, il y a deux possibilités:
 * **être inscrit** par le gestionnaire de l'espace d'activités à son initiative ou à votre demande. En tant qu'utilisateur, vous recevez une notification d'inscription.
 * si le gestionnaire de l'espace d'activités le permet, vous pouvez vous **inscrire librement** en cliquant sur l'icône "**Espaces d'activités**" de la barre de propriétés, puis sur l'option "**Tous les espaces d'activités publics**".
 
-![1793.png](http://www.claroline.net/uploads/custom/images/1793.png)
+![](images/fig42.png)
 
 <p style ="text-align: center; color: blue">Figure 42: S'inscrire librement à un espace d'activités</p>
 
@@ -17,7 +17,7 @@ Les espaces auxquels le membre est déjà inscrit apparaissent en **noir**, alor
 Il faut alors cliquer sur le bouton "**M'inscrire à un espace**" pour qu'apparaisse le **bouton d'inscription** de tous les espaces qui autorisent cette opération.
 Cliquez sur l'onglet "**M'inscrire à un espace**" pour obtenir tous les espaces d'activités disponibles et vous inscrire à un ou plusieurs en particulier. Ensuite, cliquez sur le bouton **+Inscription**
 
-![1794.png](http://www.claroline.net/uploads/custom/images/1794.png)
+![](images/fig43.png)
 
 <p style ="text-align: center; color: blue">Figure 43: Cliquer sur le bouton "+Inscription" pour s'inscrire à un espace d'activité public</p>
 
