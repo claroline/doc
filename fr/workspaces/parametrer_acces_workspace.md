@@ -6,7 +6,8 @@ Vous pouvez paramétrer l'espace d'activités pour le rendre accessible à certa
 
 Pour faire cela, cliquez sur l'icône "**paramètres**" du menu à gauche.
 
-![2711.png](http://www.claroline.net/uploads/custom/images/2711.png)
+![](images/fig62.png)
+
 <p style ="text-align: center; color: blue">Figure 62: Cliquer sur l'icône "paramètres" pour paramétrer l'accès à un espace d'activité</p>
 
 
@@ -14,7 +15,8 @@ Quatre options vous sont proposées: Général, Outils, Modèles et Ressources.
 
 Les options qui nous intéressent dans cette section sont: **Outils** et **Ressources**.
 
-![2715.png](http://www.claroline.net/uploads/custom/images/2715.png)
+![](images/fig63.png)
+
 <p style ="text-align: center; color: blue">Figure 63: Cliquer sur "outils"</p>
 
 
@@ -30,5 +32,6 @@ Comme expliqué dans les références:
 
 Dans l'exemple ci-dessous, seuls l'**Accueil** et les **Ressources** sont visibles par le profil "**Collaborateur**" et il ne peut rien éditer/modifier. En revanche, les profils "Anonyme" et "Utilisateur" n'ont aucun droit.
 
-![2716.png](http://www.claroline.net/uploads/custom/images/2716.png)
+![](images/fig64.png)
+
 <p style ="text-align: center; color: blue">Figure 64: Configurer des droits sur les outils</p>
