@@ -9,7 +9,7 @@ Pour organiser les utilisateurs de votre espace d'activités personnel de maniè
 
 ![1913.png](http://www.claroline.net/uploads/custom/images/1913.png)
 
-<p style="text-align: center; color: blue">Figure 100 - </p>
+<p style="text-align: center; color: blue">Figure 100 - Créer une ou plusieurs équipes.</p>
 
 Il est possible de fixer le nombre maximum d'utilisateurs par équipe et de leur assigner des ressources. Dans l'exemple, l'équipe "**Équipe pédagogique**" sera créé.
 
