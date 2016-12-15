@@ -5,7 +5,7 @@ La plateforme Claroline Connect propose la notion d'**espace d'activités**, plu
 
 ![](images/concept_ea.png)
 
-<p style="text-align: center; color: blue">Figure 35: Schéma d'un espace d'activités</p>
+<p style="text-align: center; color: blue">Figure 36: Schéma d'un espace d'activités</p>
 
 Il faut comprendre l'**espace d'activités** comme une valise contenant:
 
@@ -27,7 +27,7 @@ Elle donne des informations sur le contenu et la structure de l'espace d'activit
 
 ![](http://www.claroline.net/uploads/custom/images/1384.png)
 
-<p style="text-align: center; color: blue">Figure 36: Exemple de page d'accueil d'un espace d'activités.</p>
+<p style="text-align: center; color: blue">Figure 37: Exemple de page d'accueil d'un espace d'activités.</p>
 
 
 ### Le gestionnaire des ressources d'un espace d'activités
@@ -36,5 +36,5 @@ C'est la zone de dépôt ou de création des ressources (fichiers, forums, exerc
 
 ![](http://www.claroline.net/uploads/custom/images/1385.png)
 
-<p style="text-align: center; color: blue">Figure 37: Exemple de gestionnaire des ressources d'un espace d'activités.</p>
+<p style="text-align: center; color: blue">Figure 38: Exemple de gestionnaire des ressources d'un espace d'activités.</p>
 

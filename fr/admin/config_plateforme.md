@@ -4,7 +4,7 @@
 
 Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'onglet **Administration** apparaît en haut de page dans la barre de menu supérieure. Il permet d'accéder aux réglages de la plateforme.
 
-![](images/menu_admin.png)
+![](images/fig32.png)
 
 <p style ="text-align: center; color: blue">Figure 32: L'onglet Administration</p>
 
@@ -12,13 +12,13 @@ Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'ongl
 
 Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la page est également disponible.
 
-![](images/barre_outils_g.png)
+![](images/fig33.png)
 
 <p style ="text-align: center; color: blue">Figure 33: La barre d'outils à gauche de la page</p>
 
 La barre d'outils latérale s'enrichit de plusieurs commandes.
 
-![](images/barre_g_admin.png)
+![](images/fig34.png)
 
 <p style ="text-align: center; color: blue">Figure 34: La barre d'outils d'administration</p>
 
