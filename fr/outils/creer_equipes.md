@@ -15,7 +15,7 @@ Il est possible de fixer le nombre maximum d'utilisateurs par équipe et de leur
 
 ![1915.png](http://www.claroline.net/uploads/custom/images/1915.png)
 
-<p style="text-align: center; color: blue">Figure 101 - </p>
+<p style="text-align: center; color: blue">Figure 101 - Fixer un nombre d'utilisateurs par équipe.</p>
 
 Affichez les paramètres avancés pour paramétrer l'équipe:
 
