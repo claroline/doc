@@ -12,13 +12,19 @@ Pour ce faire, cliquez sur le bouton "**Ajouter un rôle**".
 
 ![1905.png](http://www.claroline.net/uploads/custom/images/1905.png)
 
+<p style="text-align: center; color: blue">Figure 89 - </p>
+
 Vous avez également l'option de **créer un répertoire** dédié aux utilisateurs de ce groupe.
 
 ![1906.png](http://www.claroline.net/uploads/custom/images/1906.png)
 
+<p style="text-align: center; color: blue">Figure 90 - </p>
+
 Ainsi, il a été créé le rôle: **Collègues du Master**.
 
 ![1908.png](http://www.claroline.net/uploads/custom/images/1908.png)
+
+<p style="text-align: center; color: blue">Figure 91 - </p>
 
 **Modifier un rôle**
 
@@ -26,9 +32,13 @@ Pour modifier un rôle prédéfini, cliquez sur "Modifier":
 
 ![1909.png](http://www.claroline.net/uploads/custom/images/1909.png)
 
+<p style="text-align: center; color: blue">Figure 92 - </p>
+
 Les rôles ont été modifiés.
 
 **Comparez**:
 
 ![1910.png](http://www.claroline.net/uploads/custom/images/1910.png)
+
+<p style="text-align: center; color: blue">Figure 93 - </p>
 
