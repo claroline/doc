@@ -18,3 +18,5 @@ Il est possible d'accéder également aux espaces d'activités à partir **de la
 ![](images/fig41.png)
 
 Quand vous êtes dans un espace d'activités, l'icône "Espace d'activités" prend le nom de l'espace en question.
+
+<p style="text-align: center; color: blue">Figure 41 - Nom de l'espace d'activités dans le menu.</p>
