@@ -4,6 +4,8 @@ En tant qu'administrateur, vous avez accès aux paramètres de votre plateforme.
 
 ![parametres.png](http://www.claroline.net/uploads/custom/images/parametres.png)
 
+<p style="text-align: center; color: blue">Figure 35 - Accéder aux paramètres de la plateforme</p>
+
 Voici un aperçu de ce que vous pouvez gérer.
 
 | Outils du menu | Ce que les outils permettent |
