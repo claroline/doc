@@ -13,6 +13,6 @@ Vous recevez un courriel de confirmation d'inscription contenant votre identifia
 
 Si l'administrateur le permet, vous pouvez vous inscrire en utilisant le menu Connexion, puis Inscription en haut à droite de la page, et en suivant les instructions du formulaire.
 
-![](images/fig69.png)
+![](images/fig69.jpg)
 
 <p style="text-align: center; color: blue">Figure 69: S'inscrire à une plateforme</p>
