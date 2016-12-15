@@ -21,19 +21,19 @@ Affichez les paramètres avancés pour paramétrer l'équipe:
 
 ![46 description 2.PNG](http://www.claroline.net/file/resource/media/1914)
 
-<p style="text-align: center; color: blue">Figure 102 - </p>
+<p style="text-align: center; color: blue">Figure 102 - Paramètres avancés des équipes.</p>
 
 Dans l'exemple ci-après, l'équipe "**Équipe pédagogique**" a été créée.
 
 ![1920.png](http://www.claroline.net/uploads/custom/images/1920.png)
 
-<p style="text-align: center; color: blue">Figure 103 - </p>
+<p style="text-align: center; color: blue">Figure 103 - Exemple de création d'équipe.</p>
 
 Il est également possible de créer plusieurs équipes en une fois en cliquant sur le bouton "**Créer des équipes**". Dans l'exemple ci-dessous, les équipes "**Équipe développeurs 1,2 et 3**" ont été créées.
 
 ![1921.png](http://www.claroline.net/uploads/custom/images/1921.png)
 
-<p style="text-align: center; color: blue">Figure 104 - </p>
+<p style="text-align: center; color: blue">Figure 104 - Création de plusieurs équipes d'une traite.</p>
 
 #### Création d'un répertoire de ressources
 
@@ -41,7 +41,7 @@ En suivant les exemples précédents, lors de la création d'une équipe, un ré
 
 ![1928.png](http://www.claroline.net/uploads/custom/images/1928.png)
 
-<p style="text-align: center; color: blue">Figure 105 - </p>
+<p style="text-align: center; color: blue">Figure 105 - Répertoire de ressources créé par défaut.</p>
 
 #### Création des rôles
 
@@ -49,4 +49,4 @@ Lors de la création des équipes, les rôles **Equipe pédagogique** et **Equip
 
 ![1929.png](http://www.claroline.net/uploads/custom/images/1929.png)
 
-<p style="text-align: center; color: blue">Figure 106 - </p>
+<p style="text-align: center; color: blue">Figure 106 - Création des rôles pour les équipes.</p>
