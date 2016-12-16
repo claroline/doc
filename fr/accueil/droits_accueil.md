@@ -9,12 +9,12 @@ Cliquez sur l'icône de la roue crantée pour éditer l'onglet.
 
 ![](images/fig5.png)
 
-<p style="text-align: center; color: blue">Figure 5: Éditer un onglet sur la page d'accueil.</p>
+<p style="text-align: center; color: blue">Figure 5 - Éditer un onglet sur la page d'accueil.</p>
 
 Cliquez ensuite sur "**Paramètres avancés**" et **choisissez le rôle**.
 
 ![](images/fig6.png)
 
-<p style="text-align: center; color: blue">Figure 6: Paramétrer les rôles d'un onglet sur la page d'accueil.</p>
+<p style="text-align: center; color: blue">Figure 6 - Paramétrer les rôles d'un onglet sur la page d'accueil.</p>
 
 **Attention:** Si aucun rôle n'est coché, l'onglet sera disponible pour tous les utilisateurs. Sinon, il sera uniquement disponible pour les utilisateurs ayant un des rôles sélectionnés.
