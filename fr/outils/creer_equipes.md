@@ -13,25 +13,25 @@ Pour organiser les utilisateurs de votre espace d'activités personnel de maniè
 
 Il est possible de fixer le nombre maximum d'utilisateurs par équipe et de leur assigner des ressources. Dans l'exemple, l'équipe "**Équipe pédagogique**" sera créé.
 
-![1915.png](http://www.claroline.net/uploads/custom/images/1915.png)
+![](images/fig101.png)
 
 <p style="text-align: center; color: blue">Figure 101 - Fixer un nombre d'utilisateurs par équipe.</p>
 
 Affichez les paramètres avancés pour paramétrer l'équipe:
 
-![46 description 2.PNG](http://www.claroline.net/file/resource/media/1914)
+![](images/fig102.png)
 
 <p style="text-align: center; color: blue">Figure 102 - Paramètres avancés des équipes.</p>
 
 Dans l'exemple ci-après, l'équipe "**Équipe pédagogique**" a été créée.
 
-![1920.png](http://www.claroline.net/uploads/custom/images/1920.png)
+![](images/fig103.png)
 
 <p style="text-align: center; color: blue">Figure 103 - Exemple de création d'équipe.</p>
 
 Il est également possible de créer plusieurs équipes en une fois en cliquant sur le bouton "**Créer des équipes**". Dans l'exemple ci-dessous, les équipes "**Équipe développeurs 1,2 et 3**" ont été créées.
 
-![1921.png](http://www.claroline.net/uploads/custom/images/1921.png)
+![](images/fig104.png)
 
 <p style="text-align: center; color: blue">Figure 104 - Création de plusieurs équipes d'une traite.</p>
 
@@ -39,7 +39,7 @@ Il est également possible de créer plusieurs équipes en une fois en cliquant 
 
 En suivant les exemples précédents, lors de la création d'une équipe, un répertoire de ressources est créé par défaut dans le gestionnaire de ressources de l'espace d'activités.
 
-![1928.png](http://www.claroline.net/uploads/custom/images/1928.png)
+![](images/fig105.png)
 
 <p style="text-align: center; color: blue">Figure 105 - Répertoire de ressources créé par défaut.</p>
 
@@ -47,6 +47,6 @@ En suivant les exemples précédents, lors de la création d'une équipe, un ré
 
 Lors de la création des équipes, les rôles **Equipe pédagogique** et **Equipe pédagogique manager** ont été créés pour faciliter la gestion des ressources des équipes. (Consultez gestion des ressources)
 
-![1929.png](http://www.claroline.net/uploads/custom/images/1929.png)
+![](images/fig106.png)
 
 <p style="text-align: center; color: blue">Figure 106 - Création des rôles pour les équipes.</p>
