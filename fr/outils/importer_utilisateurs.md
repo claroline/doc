@@ -5,9 +5,9 @@
 
 Il permet d'**ajouter des utilisateurs** (déjà inscrits à la plateforme) dans l'espace d'activités.
 
-![1893.png](http://www.claroline.net/uploads/custom/images/1893.png)
+![](images/fig94.png)
 
-<p style="text-align: center; color: blue">Figure 94 - </p>
+<p style="text-align: center; color: blue">Figure 94 - Ajout d'utilisateurs.</p>
 
 Il est possible d'inscrire dans un espace d'activités (dont l'espace personnel) des utilisateurs qui sont déjà inscrits à la plateforme.
 
@@ -16,9 +16,9 @@ Il y a deux options:
 1. **Inscrire des utilisateurs** dans un espace d'activités en cliquant sur le bouton "**+ Ajouter des utilisateurs**"
 2. **Importer des utilisateurs** dans les espaces d'activités à partir d'un **fichier CSV** contenant le **nom d'utilisateur** et le **rôle** qu'on souhaite lui assigner.
 
-![1894.png](http://www.claroline.net/uploads/custom/images/1894.png)
+![](images/fig95.png)
 
-<p style="text-align: center; color: blue">Figure 95 - </p>
+<p style="text-align: center; color: blue">Figure 95 - Options pour l'ajout d'utilisateurs.</p>
 
 **"+ Ajouter des utilisateurs"**
 
@@ -26,33 +26,33 @@ Cliquez sur "**+ Ajouter des utilisateurs**". Vous serez renvoyé vers la **list
 
 Comme le montre l'image ci-après, sélectionnez les utilisateurs en **cochant les cases** de gauche.
 
-![1897.png](http://www.claroline.net/uploads/custom/images/1897.png)
+![](images/fig96.png)
 
-<p style="text-align: center; color: blue">Figure 96 - </p>
+<p style="text-align: center; color: blue">Figure 96 - Liste des utilisateurs à inscrire.</p>
 
 **Importer des utilisateurs: Fichier CSV**
 
 Cliquez sur le bouton "importer des utilisateurs". Sélectionnez ensuite votre fichier csv en respectant les **instructions suivantes**:
 
-![1899.png](http://www.claroline.net/uploads/custom/images/1899.png)
+![](images/fig97.png)
 
-<p style="text-align: center; color: blue">Figure 97 - </p>
+<p style="text-align: center; color: blue">Figure 97 - Importer au moyen d'un fichier .csv.</p>
 
-*Les rôles prédéfinis dans la plateforme doivent être écrits en minuscule et en anglais. (manager = gestionnaire; collaborator = collaborateur)*
+Les rôles prédéfinis dans la plateforme doivent être écrits en minuscule et en anglais. (manager = gestionnaire; collaborator = collaborateur)
 
-*En revanche, si vous avez modifié le nom du rôle, vous devez écrire la nouvelle valeur.*
+En revanche, si vous avez modifié le nom du rôle, vous devez écrire la nouvelle valeur.
 
-![1901.png](http://www.claroline.net/uploads/custom/images/1901.png)
+![](images/fig98.png)
 
-<p style="text-align: center; color: blue">Figure 98 - </p>
+<p style="text-align: center; color: blue">Figure 98 - Exemple de fichier .csv.</p>
 
 
 **ATTENTION:**
 
 Une fois vous avez uploadé le fichier des utilisateurs et leur rôle, l'information s'affichera dans la liste des utilisateurs:
 
-![1895.png](http://www.claroline.net/uploads/custom/images/1895.png)
+![](images/fig99.png)
 
-<p style="text-align: center; color: blue">Figure 99 - </p>
+<p style="text-align: center; color: blue">Figure 99 - Résultat du fichier .csv importé.</p>
 
 
