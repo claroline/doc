@@ -7,12 +7,12 @@ Toujours à partir de l'icône "**Espaces d'activités**" du bandeau supérieur,
 
 ![](images/fig44.png)
 
-<p style ="text-align: center; color: blue">Figure 44: Cliquer sur "Mes espaces d'activités" pour vous désinscrire d'un espace</p>
+<p style ="text-align: center; color: blue">Figure 44 - Cliquer sur "Mes espaces d'activités" pour vous désinscrire d'un espace</p>
 
 ![](images/fig45.png)
 
-<p style ="text-align: center; color: blue">Figure 45: Quand vous cliquez sur "Me désinscrire d'un espace d'activités", les espaces qui autorisent la désinscription apparaissent.</p>
+<p style ="text-align: center; color: blue">Figure 45 - Quand vous cliquez sur "Me désinscrire d'un espace d'activités", les espaces qui autorisent la désinscription apparaissent.</p>
 
 ![](images/fig46.png)
 
-<p style ="text-align: center; color: blue">Figure 46: Choisissez ensuite l'espace duquel vous souhaitez vous désinscrire.</p>
+<p style ="text-align: center; color: blue">Figure 46 - Choisissez ensuite l'espace duquel vous souhaitez vous désinscrire.</p>

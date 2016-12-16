@@ -9,7 +9,7 @@ Pour vous inscrire à un espace d'activités, il y a deux possibilités:
 
 ![](images/fig42.png)
 
-<p style ="text-align: center; color: blue">Figure 42: S'inscrire librement à un espace d'activités</p>
+<p style ="text-align: center; color: blue">Figure 42 - S'inscrire librement à un espace d'activités</p>
 
 La **liste des espaces publics** est alors **affichée**. Mais cela ne signifie pas pour autant qu'il soit possible de s'inscrire à chacun de ces espaces.
 Les espaces auxquels le membre est déjà inscrit apparaissent en **noir**, alors que ceux auxquels il n'est **pas encore inscrit** sont **grisés** .
@@ -19,7 +19,7 @@ Cliquez sur l'onglet "**M'inscrire à un espace**" pour obtenir tous les espaces
 
 ![](images/fig43.png)
 
-<p style ="text-align: center; color: blue">Figure 43: Cliquer sur le bouton "+Inscription" pour s'inscrire à un espace d'activité public</p>
+<p style ="text-align: center; color: blue">Figure 43 - Cliquer sur le bouton "+Inscription" pour s'inscrire à un espace d'activité public</p>
 
 La mention "**inscrit**" est affichée sur l'espace concerné.
 
