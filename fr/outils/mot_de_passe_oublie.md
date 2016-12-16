@@ -8,23 +8,23 @@ Cliquez sur "Connexion", puis sur "Mot de passe oublié" sous le champ de saisie
 
 ![captcha 2.PNG](http://www.claroline.net/uploads/custom/images/1759.png)
 
-<p style="text-align: center; color: blue">Figure 72 - Captcha.</p>
+<p style="text-align: center; color: blue">Figure 72 : Captcha.</p>
 
 Vous êtes informés qu'un courriel vous a été envoyé :
 
 ![](http://www.claroline.net/uploads/custom/images/2700.jpg)
 
-<p style="text-align: center; color: blue">Figure 73 - Notification d'envoi de courriel.</p>
+<p style="text-align: center; color: blue">Figure 73 : Notification d'envoi de courriel.</p>
 
 Remplissez le formulaire avec votre nouveau mot de passe, répétez-le et cliquez sur "Valider".
 
 ![nouveau mdp.PNG](http://www.claroline.net/uploads/custom/images/1520.png)
 
-<p style="text-align: center; color: blue">Figure 74 - Remplir un nouveau mot de passe.</p>
+<p style="text-align: center; color: blue">Figure 74 : Remplir un nouveau mot de passe.</p>
 
 Vous recevez une notification de réussite de l'opération.
 
 ![mdp modifié.PNG](http://www.claroline.net/uploads/custom/images/1521.png)
 
-<p style="text-align: center; color: blue">Figure 75 - Notification du mot de passe modifié.</p>
+<p style="text-align: center; color: blue">Figure 75 : Notification du mot de passe modifié.</p>
 
