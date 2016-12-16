@@ -2,7 +2,7 @@
 ---
 Vous pouvez accéder aux options d'une ressource en la sélectionnant et en cliquant sur son nom :
 
-![1949.png](http://www.claroline.net/uploads/custom/images/1949.png)
+![](images/fig121.png)
 
 <p style="text-align: center; color: blue">Figure 121 - Accès aux options d'une ressource.</p>
 
@@ -18,7 +18,7 @@ Le menu déroulant permet:
 * d'**éditer ses propriétés**, c'est-à-dire de nommer ou renommer le fichier, choisir une icône de façon à personnaliser son apparence,définir une plage de publication. <br />Attention : les dates devront être formatées de la façon suivante : **AAAA-MM-JJ**.
 * de la **mettre à jour**
 
-Les « **J'aime** » et « **Partages** » apparaissent en **Notification** ![notifications.png](http://www.claroline.net/file/resource/media/1950) et permettent:
+Les « **J'aime** » et « **Partages** » apparaissent dans les **Notifications** ![notifications.png](http://www.claroline.net/file/resource/media/1950) de la barre supérieure et permettent:
 
 * de **laisser un commentaire** public sur les ressources (désactivable par ressource, et globalement par espace/formation)
 * de **laisser une note personnelle** sur les ressources (post-it, pense-bête, remarques)
