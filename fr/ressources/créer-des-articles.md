@@ -6,15 +6,21 @@ Pour créer un article, il suffit de mentionner un titre \(facultatif\), et de c
 
 ![](images/admin_site_web.png)
 
+<p style="text-align: center; color: blue">Figure 157 - </p>
+
 **Paramétrer l'article**
 
 Pour paramétrer l'affichage de l'article une fois qu'il a été créé, il suffit de cliquer sur la flèche vers le bas en haut à droite de l'encadré de l'article. Un menu déroulant offre alors plusieurs options.
 
 ![](images/paramétrer_article.png)
 
+<p style="text-align: center; color: blue">Figure 158 - </p>
+
 L'outil **Taille** permet de définir la largeur occupée par l'article sur une page. Le fait de cliquer sur l'encadré avec les deux "6" permettrait par exemple de mettre deux articles de même largeur côte à côte.
 
 ![](images/taille_contenu.png)
+
+<p style="text-align: center; color: blue">Figure 159 - </p>
 
 L'outil **éditer** permet de modifier ou de mettre en forme l'article.
 
