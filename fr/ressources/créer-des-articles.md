@@ -4,23 +4,23 @@
 
 Pour créer un article, il suffit de mentionner un titre \(facultatif\), et de créer un contenu, c'est-à-dire de taper ou coller un texte dans l'emplacement prévu à cet effet, ou bien d'ajouter un lien s'il s'agit d'un contenu existant \(contenus hébergés par _YouTube_, _Vimeo_, _Flickr_, _SlideShare_, etc\).
 
-![](images/admin_site_web.png)
+![](images/fig157.png)
 
-<p style="text-align: center; color: blue">Figure 157 - </p>
+<p style="text-align: center; color: blue">Figure 157 - Créer un article.</p>
 
 **Paramétrer l'article**
 
 Pour paramétrer l'affichage de l'article une fois qu'il a été créé, il suffit de cliquer sur la flèche vers le bas en haut à droite de l'encadré de l'article. Un menu déroulant offre alors plusieurs options.
 
-![](images/paramétrer_article.png)
+![](images/fig158.png)
 
-<p style="text-align: center; color: blue">Figure 158 - </p>
+<p style="text-align: center; color: blue">Figure 158 - Paramétrage d'un article.</p>
 
 L'outil **Taille** permet de définir la largeur occupée par l'article sur une page. Le fait de cliquer sur l'encadré avec les deux "6" permettrait par exemple de mettre deux articles de même largeur côte à côte.
 
-![](images/taille_contenu.png)
+![](images/fig159.png)
 
-<p style="text-align: center; color: blue">Figure 159 - </p>
+<p style="text-align: center; color: blue">Figure 159 - Paramétrage de la taille d'un article.</p>
 
 L'outil **éditer** permet de modifier ou de mettre en forme l'article.
 
