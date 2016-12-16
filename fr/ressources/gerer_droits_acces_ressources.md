@@ -14,7 +14,7 @@ Trois options vous sont proposées:
    
    * **aux membres de cet espace**: permet l'accès à ceux qui sont inscrits à l'espace d'activités concerné.
    
-   * **aux utilisateurs de la plateforme**: permet l'accès à ceux qui sont inscrit à la plateforme.
+   * **aux utilisateurs de la plateforme**: permet l'accès à ceux qui sont inscrits à la plateforme.
 
 Dans l'exemple ci-dessous, l'espace d'activités est accessible "aux membres de cet espace d'activités", c'est-à dire à ceux qui sont inscrits à l'espace d'activités concerné.
 

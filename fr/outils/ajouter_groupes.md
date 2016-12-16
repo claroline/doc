@@ -4,13 +4,13 @@
 
 Il permet d'**Ajouter un groupe** déjà existant dans la plateforme. (Seul l'administrateur de la plateforme peut créer des groupes.)
 
-![1903.png](http://www.claroline.net/uploads/custom/images/1903.png)
+![](images/fig87.png)
 
-<p style="text-align: center; color: blue">Figure 87 - </p>
+<p style="text-align: center; color: blue">Figure 87 - Onglet "Groupes".</p>
 
-Pour ce faire il faut cocher la case du groupe que l'on souhaite inscrire à votre espace d'activité personnel et cliquer sur le bouton "**Ajouter**"
+Pour ce faire, il faut cocher la case du groupe que l'on souhaite inscrire à son espace d'activités personnel et cliquer sur le bouton "**Ajouter**".
 
-![1904.png](http://www.claroline.net/uploads/custom/images/1904.png)
+![](images/fig88.png)
 
 <p style="text-align: center; color: blue">Figure 88 - </p>
 

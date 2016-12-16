@@ -1,29 +1,29 @@
 ## Gérer les options d'une ressource
 ---
 
-Vous pouvez accéder aux **options d'une** ressource en cliquant sur la petite flèche à droite de votre nom.
+Vous pouvez accéder aux **options d'une ressource** en cliquant sur la petite flèche à droite de votre nom.
 
-Le choix d'options varie en fonction du type de ressource:
+
 
 ![2306.png](http://www.claroline.net/uploads/custom/images/2306.png)
 
-<p style="text-align: center; color: blue">Figure 125 - </p>
+<p style="text-align: center; color: blue">Figure 125 - Le choix d'options varie en fonction du type de ressource</p>
 
 Le menu "**Options**" permet:
 
 * de **télécharger** la ressource,
 * de la **renommer**,
-* d'**éditer ses propriétés**, c'est-à-dire de nommer ou renommer le fichier, choisir une icône de façon à personnaliser son apparence, définir une plage de publication.<br />Attention : les dates devront être formatées de la façon suivante : **AAAA-MM-JJ**.
+* d'**éditer ses propriétés**, c'est-à-dire de nommer ou renommer le fichier, choisir une icône de façon à personnaliser son apparence, définir une plage de publication.<br  />Attention : les dates devront être formatées de la façon suivante : **AAAA-MM-JJ**.
 
 ![2067.jpeg](http://www.claroline.net/uploads/custom/images/2067.jpeg)
 
-<p style="text-align: center; color: blue">Figure 126 - </p>
+<p style="text-align: center; color: blue">Figure 126 - Editer les propriétés d'une ressource</p>
 
 * d'**éditer ses droits** pour en **personnaliser les accès utilisateurs**
 
 ![2068.jpeg](http://www.claroline.net/uploads/custom/images/2068.jpeg)
 
-<p style="text-align: center; color: blue">Figure 127 - </p>
+<p style="text-align: center; color: blue">Figure 127 - Gérer les droits d'une ressource</p>
 
 * de la **mettre à jour**.<br />Pour mettre à jour un fichier sur Claroline Connect, nul besoin de supprimer l'ancienne version et de télécharger la nouvelle. Sélectionnez le fichier à mettre à jour, affichez les options et cliquez sur l'onglet "**Mettre à jour**". La démarche est ensuite la même que pour uploader un fichier sur la plateforme.
 
@@ -32,10 +32,10 @@ Le menu "**Options**" permet:
 
 ![2318.png](http://www.claroline.net/uploads/custom/images/2318.png)
 
-<p style="text-align: center; color: blue">Figure 128 - </p>
+<p style="text-align: center; color: blue">Figure 128 - Editer un parcours</p>
 
 * de la **configurer**. C'est le cas du Blog. Vous pouvez accéder directement à la fonctionnalité de configuration du blog.
 
 ![2317.png](http://www.claroline.net/uploads/custom/images/2317.png)
 
-<p style="text-align: center; color: blue">Figure 129 - </p>
+<p style="text-align: center; color: blue">Figure 129 - Configurer un blog</p>
