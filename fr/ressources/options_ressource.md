@@ -4,6 +4,8 @@ Vous pouvez accéder aux options d'une ressource en la sélectionnant et en cliq
 
 ![1949.png](http://www.claroline.net/uploads/custom/images/1949.png)
 
+<p style="text-align: center; color: blue">Figure 121 - </p>
+
 Le menu déroulant permet:
 
 * de **télécharger** la ressource;
