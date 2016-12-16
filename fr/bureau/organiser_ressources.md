@@ -11,4 +11,4 @@ Il existe deux manières d'y accéder:
 
 ![](images/fig31.png)
 
-<p style ="text-align: center; color: blue">Figure 31: Deux manières d'accéder au gestionnaire des ressources</p>
+<p style ="text-align: center; color: blue">Figure 31 - Deux manières d'accéder au gestionnaire des ressources</p>
