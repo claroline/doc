@@ -18,13 +18,13 @@ Vous êtes informés qu'un courriel vous a été envoyé :
 
 Remplissez le formulaire avec votre nouveau mot de passe, répétez-le et cliquez sur "Valider".
 
-![nouveau mdp.PNG](http://www.claroline.net/uploads/custom/images/1520.png)
+![](images/fig74.png)
 
 <p style="text-align: center; color: blue">Figure 74 : Remplir un nouveau mot de passe.</p>
 
 Vous recevez une notification de réussite de l'opération.
 
-![mdp modifié.PNG](http://www.claroline.net/uploads/custom/images/1521.png)
+![](images/fig75.png)
 
 <p style="text-align: center; color: blue">Figure 75 : Notification du mot de passe modifié.</p>
 
