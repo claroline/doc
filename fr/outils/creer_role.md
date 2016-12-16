@@ -10,35 +10,35 @@ Comme expliqué dans la section [Les profils de Claroline Connect](../workspaces
 L'onglet "**Rôle**" permet **créer un nouveau rôle** auquel on attribue des droits spécifiques dans les paramètres de l'espace d'activité, ou dans les droits des ressources.
 Pour ce faire, cliquez sur le bouton "**Ajouter un rôle**".
 
-![1905.png](http://www.claroline.net/uploads/custom/images/1905.png)
+![](images/fig89.png)
 
-<p style="text-align: center; color: blue">Figure 89 - </p>
+<p style="text-align: center; color: blue">Figure 89 - Onglet "Rôles".</p>
 
 Vous avez également l'option de **créer un répertoire** dédié aux utilisateurs de ce groupe.
 
-![1906.png](http://www.claroline.net/uploads/custom/images/1906.png)
+![](images/fig90.png)
 
-<p style="text-align: center; color: blue">Figure 90 - </p>
+<p style="text-align: center; color: blue">Figure 90 - Création automatique d'un répertoire de ressources.</p>
 
 Ainsi, il a été créé le rôle: **Collègues du Master**.
 
-![1908.png](http://www.claroline.net/uploads/custom/images/1908.png)
+![](images/fig91.png)
 
-<p style="text-align: center; color: blue">Figure 91 - </p>
+<p style="text-align: center; color: blue">Figure 91 - Création de rôles.</p>
 
 **Modifier un rôle**
 
 Pour modifier un rôle prédéfini, cliquez sur "Modifier":
 
-![1909.png](http://www.claroline.net/uploads/custom/images/1909.png)
+![](images/fig92.png)
 
-<p style="text-align: center; color: blue">Figure 92 - </p>
+<p style="text-align: center; color: blue">Figure 92 - Modification d'un rôle.</p>
 
 Les rôles ont été modifiés.
 
 **Comparez**:
 
-![1910.png](http://www.claroline.net/uploads/custom/images/1910.png)
+![](images/fig93.png)
 
-<p style="text-align: center; color: blue">Figure 93 - </p>
+<p style="text-align: center; color: blue">Figure 93 - Résultat des modifications de rôles.</p>
 
