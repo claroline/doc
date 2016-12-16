@@ -8,15 +8,15 @@ Une page peut contenir plusieurs articles et être ajoutée comme entrée dans u
 
 Pour créer une page, cliquez sur l'icône suivante de la barre d'outils:
 
-![](images/menu_pages.png)
+![](images/fig160.png)
 
-<p style="text-align: center; color: blue">Figure 160 - </p>
+<p style="text-align: center; color: blue">Figure 160 - Ajouter une page.</p>
 
 Les pages de contenu apparaissent alors:
 
-![](images/pages_contenu.png)
+![](images/fig161.png)
 
-<p style="text-align: center; color: blue">Figure 161 - </p>
+<p style="text-align: center; color: blue">Figure 161 - Visualisation des pages existantes.</p>
 
 Dans l'exemple ci-dessus, une page "Claroline Connect" a été créée. Pour ajouter une nouvelle page, tapez un titre dans le champ indiquant "**Nouvelle page de contenu …**", puis cliquez sur **Créer**.
 
