@@ -9,6 +9,8 @@ Le dépôt ou le téléchargement de documents se fait dans le gestionnaire des 
 
 ![2035.png](http://www.claroline.net/uploads/custom/images/2035.png)
 
+<p style="text-align: center; color: blue">Figure 164 - </p>
+
 Didacticiel Claroline Connect - Gestions des fichiers
 
 1. Copiez des documents de votre ordinateur à Claroline Connect \("upload"\)
@@ -20,11 +22,19 @@ Pour transférer un fichier sur Claroline, positionnez vous préalablement :
 
 **2036.png**
 
+<p style="text-align: center; color: blue">Figure 165 - </p>
+
 **Solution par le menu**
 
-Cliquez sur Ajouter-&gt; Fichier pour appeler la fenêtre du sélecteur de ressources et sélectionner un fichier à l'aide de l'onglet "Parcourir". Cliquez sur Ok. Le fichier, après téléchargement, apparaîtra dans vos ressources.
+Cliquez sur Ajouter -&gt; Fichier pour appeler la fenêtre du sélecteur de ressources et sélectionner un fichier à l'aide de l'onglet "Parcourir". Cliquez sur Ok. Le fichier, après téléchargement, apparaîtra dans vos ressources.
 
-![2037.png](http://www.claroline.net/uploads/custom/images/2037.png) ![2038.png](http://www.claroline.net/uploads/custom/images/2038.png)
+![2037.png](http://www.claroline.net/uploads/custom/images/2037.png)
+
+<p style="text-align: center; color: blue">Figure 166 - </p>
+
+![2038.png](http://www.claroline.net/uploads/custom/images/2038.png)
+
+<p style="text-align: center; color: blue">Figure 167 - </p>
 
 **Solution Drag and Drop**
 
@@ -36,11 +46,15 @@ Transférez un fichier Zip \(contenant un ensemble de fichiers\) par une des mé
 
 ![2051.jpeg](http://www.claroline.net/uploads/custom/images/2051.jpeg)
 
+<p style="text-align: center; color: blue">Figure 168 - </p>
+
 1. Téléchargez un document de Claroline Connect sur votre ordinateur
 
 Pour télécharger un document de Claroline sur votre ordinateur, cliquez sur les "Options" du fichier \(flèche à droite du nom de fichier\), et sélectionnez "Télécharger".
 
 ![2039.png](http://www.claroline.net/uploads/custom/images/2039.png)
+
+<p style="text-align: center; color: blue">Figure 169 - </p>
 
 1. Créer un raccourci pour une ressource
 
@@ -48,7 +62,13 @@ Claroline Connect vous permet de créer des raccourcis afin de pointer sur une r
 
 Pour créer un raccourci, cliquez sur l'onglet "Ajouter" -&gt; "Raccourcis". Une fois créé le raccourci apparaît dans l'espace des ressources sous la forme d'une icône avec une flèche bleue.
 
-![2041.png](http://www.claroline.net/uploads/custom/images/2041.png) ![2045.png](http://www.claroline.net/uploads/custom/images/2045.png)
+![2041.png](http://www.claroline.net/uploads/custom/images/2041.png) 
+
+<p style="text-align: center; color: blue">Figure 170 - </p>
+
+![2045.png](http://www.claroline.net/uploads/custom/images/2045.png)
+
+<p style="text-align: center; color: blue">Figure 171 - </p>
 
 1. Importer des ressources
 
@@ -59,6 +79,8 @@ Attention : si le fichier d'origine est modifié, la copie ne sera pas modifiée
 Pour importer une ressource, cliquez sur l'icône 2034.png et sélectionnez le fichier souhaité grâce au sélecteur de ressources.
 
 ![2044.png](http://www.claroline.net/uploads/custom/images/2044.png)
+
+<p style="text-align: center; color: blue">Figure 172 - </p>
 
 Une fois la ressource importée, elle apparaîtra dans l'espace Ressources de l'espace d'activités souhaité.
 
@@ -72,9 +94,13 @@ Donnez un nom à votre répertoire dans la fenêtre "**Répertoir**e", puis cliq
 
 ![2047.png](http://www.claroline.net/uploads/custom/images/2047.png)
 
+<p style="text-align: center; color: blue">Figure 173 - </p>
+
 Le répertoire ainsi créé apparaîtra alors dans l'espace ressources de votre espace d'activités.
 
 ![2048.png](http://www.claroline.net/uploads/custom/images/2048.png)
+
+<p style="text-align: center; color: blue">Figure 174 - </p>
 
 Vous pouvez créer autant de répertoires et de sous-répertoires que vous le souhaitez.
 
