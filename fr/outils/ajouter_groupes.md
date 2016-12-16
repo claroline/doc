@@ -12,5 +12,5 @@ Pour ce faire, il faut cocher la case du groupe que l'on souhaite inscrire à so
 
 ![](images/fig88.png)
 
-<p style="text-align: center; color: blue">Figure 88 - </p>
+<p style="text-align: center; color: blue">Figure 88 - Choix des groupes à ajouter.</p>
 
