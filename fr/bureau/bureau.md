@@ -15,7 +15,7 @@ Il est également possible de personnaliser la couleur du fond du bureau pour le
 
 ![](images/fig7.png)
 
-<p style="text-align: center; color: blue">Figure 7: La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
+<p style="text-align: center; color: blue">Figure 7 - La barre d'outils du bureau (bandeau supérieur) et la barre d'outils d'un espace d'activités (menu de gauche et bandeau supérieur)</p>
 
 Le bureau personnel est composé:
 
@@ -34,7 +34,7 @@ Pour ce qui nous concerne, les widgets s'ajoutent sur les pages d'accueil des es
 
 ![](images/fig8.png)
 
-<p style="text-align: center; color: blue">Figure 8: La page d'accueil du bureau est composée d'onglets et de widgets.</p>
+<p style="text-align: center; color: blue">Figure 8 - La page d'accueil du bureau est composée d'onglets et de widgets.</p>
 
 ## Gestionnaire de ressources
 
@@ -42,5 +42,5 @@ Le **bureau**, comme chaque espace d'activités, est attaché à un répertoire 
 
 ![](images/fig9.png)
 
-<p style="text-align: center; color: blue">Figure 9: Le bureau est attaché à un répertoire de ressources des différents espaces.</p>
+<p style="text-align: center; color: blue">Figure 9 - Le bureau est attaché à un répertoire de ressources des différents espaces.</p>
 
