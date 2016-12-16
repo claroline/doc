@@ -11,7 +11,7 @@ Vous savez que vous êtes sur votre espace personnel grâce à:
 
 ![](images/fig16.png)
 
-<p style ="text-align: center; color: blue">Figure 16: La page d'accueil de l'espace personnel</p>
+<p style ="text-align: center; color: blue">Figure 16 - La page d'accueil de l'espace personnel</p>
 
 ** La barre de menu de gauche.**
 
@@ -19,7 +19,7 @@ En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre
 
 ![](images/fig17.png)
 
-<p style ="text-align: center; color: blue">Figure 17: La barre de menu de gauche</p>
+<p style ="text-align: center; color: blue">Figure 17 - La barre de menu de gauche</p>
 
   ** Voir en tant que** ![](images/1864.png) permet d'avoir un aperçu de l'espace d'activités tel que le voit un collaborateur (étudiant) ou un gestionnaire (enseignant ou le propriétaire de l'espace). Dès lors que l'on explore son espace d'activités en tant que collaborateur ou gestionnaire, l'en-tête de la page passe en couleur orange et indique "Vous êtes connecté en tant que … du workspace …".
 
@@ -27,7 +27,7 @@ En passant la souris sur la barre de menu de gauche, vous déployez une fenêtre
 
 Pour désactiver ce mode, il suffit de cliquer sur la **croix** en haut à droite du bandeau orange.
 
-<p style ="text-align: center; color: blue">Figure 18: Activer et désactiver "Voir en tant que ... "</p>
+<p style ="text-align: center; color: blue">Figure 18 - Activer et désactiver "Voir en tant que ... "</p>
 
 **Accueil** ![1866.png](http://www.claroline.net/uploads/custom/images/1866.png) permet de revenir à la page d'accueil de son espace personnel (qui est distincte de celle du bureau d'accueil, rappelons-le).
 
