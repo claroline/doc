@@ -10,9 +10,9 @@ Votre page d'accueil de votre plateforme apparaît en **mode édition**.
 
 Vous pouvez la modifier et ajouter des articles.
 
-![](images/admin_site_web.png)
+![](images/fig149.png)
 
-<p style="text-align: center; color: blue">Figure 149 - </p>
+<p style="text-align: center; color: blue">Figure 149 - Administration du contenu de la page d'accueil.</p>
 
 La barre des outils à gauche permet :
 
