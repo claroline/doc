@@ -30,4 +30,4 @@ On peut schématiser simplement l'interface de la façon suivante:
 
 ![](images/fig4.png)
 
-<p style="text-align: center; color: blue"> Figure 4: Structure de Claroline Connect.</p>
+<p style="text-align: center; color: blue"> Figure 4 - Structure de Claroline Connect.</p>
