@@ -52,8 +52,8 @@
         * [Créer des menus](ressources/créer-des-menus.md)
         * [Créer des articles](ressources/créer-des-articles.md)
         * [Créer des pages](ressources/créer-des-pages.md)
-    * [L'éditeur de texte](ressources/editeur_de_texte.md)
     * [Créer les rôles et les répertoires de ressources](ressources/creer_roles_et_repertoires_ressources.md)
     * [Les différents types de ressources](ressources/differents_types_ressources.md)
         * [La gestion et le dépôt de documents](ressources/gestion_depot_documents.md)
+    * [L'éditeur de texte](ressources/editeur_de_texte.md)
 
