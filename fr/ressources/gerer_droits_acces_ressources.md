@@ -22,6 +22,8 @@ Si vous souhaitez propager les droits dans les répertoires et sous-répertoires
 
 ![2717.png](http://www.claroline.net/uploads/custom/images/2717.png)
 
+<p style="text-align: center; color: blue">Figure 137 - </p>
+
 **Avancé**
 
 Vous permet de régler finement ces droits par type d'action (ouvrir, copier, exporter, éditer, supprimer) selon le profil.
@@ -29,6 +31,8 @@ Vous permet de régler finement ces droits par type d'action (ouvrir, copier, ex
 Dans l'exemple, le collaborateur peut ouvrir et exporter les ressources.
 
 ![2722.png](http://www.claroline.net/uploads/custom/images/2722.png)
+
+<p style="text-align: center; color: blue">Figure 138 - </p>
 
 **Par espace**
 
@@ -44,9 +48,13 @@ Cliquez sur l'espace d'activités A auquel sont inscrits vos utilisateurs (A-Esp
 
 ![2723.png](http://www.claroline.net/uploads/custom/images/2723.png)
 
+<p style="text-align: center; color: blue">Figure 139 - </p>
+
 A la fin de la page vous trouverez le tableau avec le type d'action (ouvrir, copier, exporter, éditer, supprimer) et le type de ressource (en cliquant sur "Options").
 
 ![2724.png](http://www.claroline.net/uploads/custom/images/2724.png)
+
+<p style="text-align: center; color: blue">Figure 140 - </p>
 
 **Par utilisateur**
 
@@ -56,13 +64,19 @@ Pour ajouter des utilisateurs il faut cliquer sur "**ajouter un utilisateur** ".
 
 ![2727.png](http://www.claroline.net/uploads/custom/images/2727.png)
 
+<p style="text-align: center; color: blue">Figure 141 - </p>
+
 Cochez l'utilisateur souhaité et cliquez sur **OK**.
 
 ![2726.png](http://www.claroline.net/uploads/custom/images/2726.png)
 
+<p style="text-align: center; color: blue">Figure 142 - </p>
+
 L'utilisateur a été ajouté à l'onglet afin de lui donner des droits particuliers.
 
 ![2728.png](http://www.claroline.net/uploads/custom/images/2728.png)
+
+<p style="text-align: center; color: blue">Figure 143 - </p>
 
 ### Gérer les droits d'accès depuis le répertoire des ressources
 ---
@@ -72,17 +86,27 @@ Cliquez sur la petite flèche à droite du nom de la ressource et choisissez « 
 
 ![2729.png](http://www.claroline.net/uploads/custom/images/2729.png)
 
- Sélectionnez les droits en fonction **des profils**,
+<p style="text-align: center; color: blue">Figure 144 - </p>
+
+Sélectionnez les droits en fonction **des profils**,
 
 ![2730.png](http://www.claroline.net/uploads/custom/images/2730.png)
 
+<p style="text-align: center; color: blue">Figure 145 - </p>
+
 ![2731.png](http://www.claroline.net/uploads/custom/images/2731.png)
+
+<p style="text-align: center; color: blue">Figure 146 - </p>
 
 **des espaces,**
 
 ![2732.png](http://www.claroline.net/uploads/custom/images/2732.png)
 
+<p style="text-align: center; color: blue">Figure 147 - </p>
+
 ou **des utilisateurs**.
 
 ![2733.png](http://www.claroline.net/uploads/custom/images/2733.png)
+
+<p style="text-align: center; color: blue">Figure 148 - </p>
 
