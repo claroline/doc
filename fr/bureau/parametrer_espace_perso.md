@@ -11,7 +11,7 @@ Cliquez sur l'icône "**paramètres**" du menu de gauche de votre espace personn
 
 ![](images/fig25.png)
 
-<p style ="text-align: center; color: blue">Figure 25: Paramètres de votre espace personnel</p>
+<p style ="text-align: center; color: blue">Figure 25 - Paramètres de votre espace personnel</p>
 
 ### a. Paramétrage général de l'espace personnel
 
@@ -19,7 +19,7 @@ Il permet de modifier les informations recueillies au moment de la création de 
 
 ![](images/fig26.png)
 
-<p style ="text-align: center; color: blue">Figure 26: Paramétrage général de l'espace personnel</p>
+<p style ="text-align: center; color: blue">Figure 26 - Paramétrage général de l'espace personnel</p>
 
 ** Rendre votre espace personnel public - Inscription publique**
 
@@ -39,13 +39,13 @@ Lors de l'inscription publique, l'anonyme accédera directement au formulaire d'
 
 ![](images/fig27.png)
 
-<p style ="text-align: center; color: blue">Figure 27: Inscription à un espace d'activités par un anonyme</p>
+<p style ="text-align: center; color: blue">Figure 27 - Inscription à un espace d'activités par un anonyme</p>
 
 Une fois que le formulaire est rempli le nouveau utilisateur accédera directement à votre espace personnel.
 
 ![](images/fig28.png)
 
-<p style ="text-align: center; color: blue">Figure 28: Le nouvel utilisateur accède à votre espace personnel</p>
+<p style ="text-align: center; color: blue">Figure 28 - Le nouvel utilisateur accède à votre espace personnel</p>
 
 ### b. Configurer les droits des outils
 
@@ -61,7 +61,7 @@ Dans l'exemple ci dessous, seuls l'**Accueil** et les **Ressources** sont visibl
 
 ![](images/fig29.png)
 
-<p style ="text-align: center; color: blue">Figure 29: L'Accueil et les Ressources sont visibles par le profil "Collaborateur"</p>
+<p style ="text-align: center; color: blue">Figure 29 - L'Accueil et les Ressources sont visibles par le profil "Collaborateur"</p>
 
 **Renommez les outils du menu de votre espace personnel.**
 
@@ -69,7 +69,7 @@ Il est possible de renommer chaque outil en cliquant sur le crayon bleu: ![1884.
 
 ![](images/fig30.png)
 
-<p style ="text-align: center; color: blue">Figure 30: Ajouter le nom souhaité pour l'outil sélectionné</p>
+<p style ="text-align: center; color: blue">Figure 30 - Ajouter le nom souhaité pour l'outil sélectionné</p>
 
 ### c. Créer un modèle d'espace d'activités \(Créateur d'espaces d'activités\)
 
