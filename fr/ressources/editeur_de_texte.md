@@ -6,7 +6,7 @@ L'éditeur **WYSIWYG** [1] est un élément central de Claroline Connect qui per
 
 ![](images/fig175.png)
 
-<p style="text-align: center; color: blue">Figure 175 - Exemples de l'édituer wysiwyg dans les différentes ressources de la plateforme.</p>
+<p style="text-align: center; color: blue">Figure 175 - Exemples de l'éditeur wysiwyg dans les différentes ressources de la plateforme.</p>
 
 La modification d'un texte dans les différentes ressources de la plateforme ouvre un éditeur de mise en forme intuitif.
 
