@@ -7,7 +7,7 @@ Pour organiser les utilisateurs de votre espace d'activités personnel de maniè
 * créer une équipe à la fois
 * créer plusieurs équipes en même temps
 
-![1913.png](http://www.claroline.net/uploads/custom/images/1913.png)
+![](images/fig100.png)
 
 <p style="text-align: center; color: blue">Figure 100 - Créer une ou plusieurs équipes.</p>
 
