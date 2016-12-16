@@ -12,7 +12,7 @@ Cliquez sur "Connexion", puis sur "Mot de passe oublié" sous le champ de saisie
 
 Vous êtes informés qu'un courriel vous a été envoyé :
 
-![](http://www.claroline.net/uploads/custom/images/2700.jpg)
+![](images/fig73.jpg)
 
 <p style="text-align: center; color: blue">Figure 73 : Notification d'envoi de courriel.</p>
 
