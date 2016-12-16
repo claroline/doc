@@ -11,7 +11,7 @@ Lors de la **création d'un widget**, Claroline Connect propose différentes pos
 
 ![](images/fig24.png)
 
-<p style ="text-align: center; color: blue">Figure 24: Créer un nouveau widget</p>
+<p style ="text-align: center; color: blue">Figure 24 - Créer un nouveau widget</p>
 
 **Aperçu des activités récentes**
 
