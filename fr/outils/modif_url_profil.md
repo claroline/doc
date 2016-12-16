@@ -11,17 +11,17 @@ Dans l'exemple ci dessus, l'URL est la suivante :
 
 ![](images/fig84.png)
 
-<p style="text-align: center; color: blue">Figure 84 : Exemple d'URL de profil public.</p>
+<p style="text-align: center; color: blue">Figure 84 - Exemple d'URL de profil public.</p>
 
 Il est donc possible de personnaliser l'URL de votre profil en cliquant sur le champ : /profile/
 
 ![](images/fig85.png)
 
-<p style="text-align: center; color: blue">Figure 85 : Choisir son profil.</p>
+<p style="text-align: center; color: blue">Figure 85 - Choisir son profil.</p>
 
 Tenez bien compte du message suivant :
 
 ![](images/fig86.png)
 
-<p style="text-align: center; color: blue">Figure 86 : Notification de personnalisation du profil public.</p>
+<p style="text-align: center; color: blue">Figure 86 - Notification de personnalisation du profil public.</p>
 

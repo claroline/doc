@@ -8,7 +8,7 @@ Pour faire cela, cliquez sur l'icône "**paramètres**" du menu à gauche.
 
 ![](images/fig62.png)
 
-<p style ="text-align: center; color: blue">Figure 62: Cliquer sur l'icône "paramètres" pour paramétrer l'accès à un espace d'activité</p>
+<p style ="text-align: center; color: blue">Figure 62 - Cliquer sur l'icône "paramètres" pour paramétrer l'accès à un espace d'activité</p>
 
 
 Quatre options vous sont proposées: Général, Outils, Modèles et Ressources.
@@ -17,7 +17,7 @@ Les options qui nous intéressent dans cette section sont: **Outils** et **Resso
 
 ![](images/fig63.png)
 
-<p style ="text-align: center; color: blue">Figure 63: Cliquer sur "outils"</p>
+<p style ="text-align: center; color: blue">Figure 63 - Cliquer sur "outils"</p>
 
 
 **Outils:**
@@ -34,4 +34,4 @@ Dans l'exemple ci-dessous, seuls l'**Accueil** et les **Ressources** sont visibl
 
 ![](images/fig64.png)
 
-<p style ="text-align: center; color: blue">Figure 64: Configurer des droits sur les outils</p>
+<p style ="text-align: center; color: blue">Figure 64 - Configurer des droits sur les outils</p>

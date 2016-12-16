@@ -8,11 +8,11 @@ Dans certains cas, il est également possible d'accéder aux espaces d'activité
 
 ![](images/fig70.png)
 
-<p style="text-align: center; color: blue">Figure 70 : Connexion à une plateforme</p>
+<p style="text-align: center; color: blue">Figure 70 - Connexion à une plateforme</p>
 
 Utilisez l'identifiant et le mot de passe fournis par l'administrateur et cliquez sur "Connexion".
 
 ![](images/fig71.png)
 
-<p style="text-align: center; color: blue">Figure 71 : Entrer nom d'utilisateur et mot de passe.</p>
+<p style="text-align: center; color: blue">Figure 71 - Entrer nom d'utilisateur et mot de passe.</p>
 
