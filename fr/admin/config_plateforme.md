@@ -6,7 +6,7 @@ Lorsqu'on est connecté avec le statut d'administrateur à la plateforme, l'ongl
 
 ![](images/fig32.png)
 
-<p style ="text-align: center; color: blue">Figure 32: L'onglet Administration</p>
+<p style ="text-align: center; color: blue">Figure 32 - L'onglet Administration</p>
 
 ### La barre d'outils d'administration
 
@@ -14,13 +14,13 @@ Lorsque l'espace d'administration est activé, la barre d'outils à gauche de la
 
 ![](images/fig33.png)
 
-<p style ="text-align: center; color: blue">Figure 33: La barre d'outils à gauche de la page</p>
+<p style ="text-align: center; color: blue">Figure 33 - La barre d'outils à gauche de la page</p>
 
 La barre d'outils latérale s'enrichit de plusieurs commandes.
 
 ![](images/fig34.png)
 
-<p style ="text-align: center; color: blue">Figure 34: La barre d'outils d'administration</p>
+<p style ="text-align: center; color: blue">Figure 34 - La barre d'outils d'administration</p>
 
 ### Aperçu de ce que vous pouvez réaliser en tant qu'administrateur
 
