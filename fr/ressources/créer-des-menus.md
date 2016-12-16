@@ -4,27 +4,27 @@
 
 Pour **créer un menu**, cliquez sur l'icône "**Menus**" de la barre latérale d'outils située à gauche de la page.
 
-![](https://claroline.gitbooks.io/claroline-connect-documentation/content/fr/images/menu.png)
+![](images/fig150.png)
 
-<p style="text-align: center; color: blue">Figure 150 - </p>
+<p style="text-align: center; color: blue">Figure 150 - Icône "Menu" de la bare latérale gauche.</p>
 
 Entrez ensuite un titre à l'emplacement "**Titre du menu**", puis cliquez sur "Créer" dans la fenêtre centrale.
 
-![](images/titre_menu.png)
+![](images/fig151.png)
 
-<p style="text-align: center; color: blue">Figure 151 - </p>
+<p style="text-align: center; color: blue">Figure 151 - Donner un titre au menu.</p>
 
 Votre nouveau menu est ajouté à la suite des autres.
 
-![](images/liste_menus.png)
+![](images/fig152.png)
 
-<p style="text-align: center; color: blue">Figure 152 - </p>
+<p style="text-align: center; color: blue">Figure 152 - Résultat de l'ajout d'un menu.</p>
 
 Vous pouvez désormais lui ajouter du contenu, c'est-à-dire des liens vers d'autres sites web ou vers les pages que vous allez créer sur votre plateforme ou qui y sont déjà présentes.
 
-![](/assets/menu_options.png)
+![](images/fig153.png)
 
-<p style="text-align: center; color: blue">Figure 153 - </p>
+<p style="text-align: center; color: blue">Figure 153 - Ajout de liens</p>
 
 Il vous faut alors:
 
@@ -46,19 +46,19 @@ Il est possible placer le menu :
 
 1\) Cliquez sur la flèche à côté du menu et ensuite sélectionnez "**zone**":
 
-![](images/zone_menu.png)
+![](images/fig154.png)
 
-<p style="text-align: center; color: blue">Figure 154 - </p>
+<p style="text-align: center; color: blue">Figure 154 - Sélection de la zone de menu.</p>
 
 2\) Choisissez la zone \(par exemple "**entête**"\) :
 
 ![](images/zone_contenu.png)
 
-<p style="text-align: center; color: blue">Figure 155 - </p>
+<p style="text-align: center; color: blue">Figure 155 - Sélection de la zone de menu.</p>
 
 Le menu apparaîtra en haut de la page:
 
-![](images/vue_menu.png)
+![](images/fig156.png)
 
-<p style="text-align: center; color: blue">Figure 156 - </p>
+<p style="text-align: center; color: blue">Figure 156 - Résultat du choix de la zone.</p>
 
