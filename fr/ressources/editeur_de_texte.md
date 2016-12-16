@@ -15,16 +15,22 @@ Attention: Dans sa présentation initiale, toutes les fonctionnalités ne sont p
 
 ![2-barre d'outils reduit.PNG](http://www.claroline.net/uploads/custom/images/1824.png) 
 
+<p style="text-align: center; color: blue">Figure 176 - Icônes visibles par défaut.</p>
+
 En cliquant sur les boutons de flèches (double-flèche, ou flèche vers le bas), de nouvelles fonctionnalités apparaissent, comme décrit ci-après:
 
 Cliquez sur le bouton "Tous les outils" pour faire apparaître de nouvelles fonctionnalités.
 
 ![3-barre d'outils.PNG](http://www.claroline.net/uploads/custom/images/1826.png)
 
-<p style="text-align: center; color: blue">Figure 176 - Bouton "Tous les outils"</p>
+<p style="text-align: center; color: blue">Figure 177 - Bouton "Tous les outils"</p>
 
-Cliquez sur le bouton "Plein écran" <img style="max-width: 100%;" src="http://www.claroline.net/uploads/custom/images/1827.png" alt="plein_ecran.png" width="49" height="44"> pour avoir plus de fonctionnalités et pour travailler de manière plus confortable en plein écran.
+Cliquez sur le bouton "Plein écran" pour avoir plus de fonctionnalités et pour travailler de manière plus confortable en plein écran.
 
 ![1828.png](http://www.claroline.net/uploads/custom/images/1828.png)
+
+<p style="text-align: center; color: blue">Figure 178 - Bouton "Plein écran"</p>
+
+
 
 
