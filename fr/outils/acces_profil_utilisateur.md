@@ -8,6 +8,6 @@ Ce menu déroulant peut être personnalisé par l'utilisateur.
 
 Vous trouverez plus d'informations dans "[Personnalisez votre bureau](../bureau/personnaliser_votre_bureau.md)" dans le manuel des utilisateurs.
 
-![profil.PNG](http://www.claroline.net/uploads/custom/images/1769.png)
+![](images/fig117.png)
 
 <p style="text-align: center; color: blue">Figure 117 - Accès au profil utilisateur</p>
