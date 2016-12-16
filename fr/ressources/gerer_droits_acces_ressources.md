@@ -20,9 +20,9 @@ Dans l'exemple ci-dessous, l'espace d'activités est accessible "aux membres de 
 
 Si vous souhaitez propager les droits dans les répertoires et sous-répertoires du gestionnaire de ressources, cochez la case "**Appliquer au contenu du répertoire et aux sous-répertoires**."
 
-![2717.png](http://www.claroline.net/uploads/custom/images/2717.png)
+![](images/fig137.png)
 
-<p style="text-align: center; color: blue">Figure 137 - </p>
+<p style="text-align: center; color: blue">Figure 137 - Gestion simple des droits sur les ressources.</p>
 
 **Avancé**
 
@@ -30,9 +30,9 @@ Vous permet de régler finement ces droits par type d'action (ouvrir, copier, ex
 
 Dans l'exemple, le collaborateur peut ouvrir et exporter les ressources.
 
-![2722.png](http://www.claroline.net/uploads/custom/images/2722.png)
+![](images/fig138.png)
 
-<p style="text-align: center; color: blue">Figure 138 - </p>
+<p style="text-align: center; color: blue">Figure 138 - Gestion avancée des droits sur les ressources.</p>
 
 **Par espace**
 
@@ -44,17 +44,17 @@ Vos utilisateurs sont inscrits dans l'espace d'activités A et vous souhaitez le
 
    Allez à l'espace d'activité B (dans l'exemple : MOOC FOFLE) o ù se trouve la ressource dont vous souhaitez donner l'accès et cliquez sur **paramètres**. Ensuite cliquez sur **ressources** et choisissez l'onglet "**Par espace**".
 
-Cliquez sur l'espace d'activités A auquel sont inscrits vos utilisateurs (A-Espace d'activités A (EAA) ). La liste des rôles de l'espace d'activités A se déroulera. **Sélectionnez le rôle** auquel vous souhaitez rendre la ressource accessible.
+Cliquez sur l'espace d'activités A auquel sont inscrits vos utilisateurs (A-Espace d'activités A (EAA) ). La liste des rôles de l'espace d'activités A se déroulera. **Sélectionnez le rôle** pour lequel vous souhaitez rendre la ressource accessible.
 
-![2723.png](http://www.claroline.net/uploads/custom/images/2723.png)
+![](images/fig139.png)
 
-<p style="text-align: center; color: blue">Figure 139 - </p>
+<p style="text-align: center; color: blue">Figure 139 - Gestion des droits par espace d'activités.</p>
 
 A la fin de la page vous trouverez le tableau avec le type d'action (ouvrir, copier, exporter, éditer, supprimer) et le type de ressource (en cliquant sur "Options").
 
-![2724.png](http://www.claroline.net/uploads/custom/images/2724.png)
+![](images/fig140.png)
 
-<p style="text-align: center; color: blue">Figure 140 - </p>
+<p style="text-align: center; color: blue">Figure 140 - Types d'action possible sur les droits.</p>
 
 **Par utilisateur**
 
@@ -62,21 +62,21 @@ Cet onglet sert également pour des cas particuliers. Il permet de donner les dr
 
 Pour ajouter des utilisateurs il faut cliquer sur "**ajouter un utilisateur** ".
 
-![2727.png](http://www.claroline.net/uploads/custom/images/2727.png)
+![](images/fig141.png)
 
-<p style="text-align: center; color: blue">Figure 141 - </p>
+<p style="text-align: center; color: blue">Figure 141 - Gestion des droits par utilisateur.</p>
 
 Cochez l'utilisateur souhaité et cliquez sur **OK**.
 
-![2726.png](http://www.claroline.net/uploads/custom/images/2726.png)
+![](images/fig142.png)
 
-<p style="text-align: center; color: blue">Figure 142 - </p>
+<p style="text-align: center; color: blue">Figure 142 - Sélection de l'utilisateur.</p>
 
 L'utilisateur a été ajouté à l'onglet afin de lui donner des droits particuliers.
 
-![2728.png](http://www.claroline.net/uploads/custom/images/2728.png)
+![](images/fig143.png)
 
-<p style="text-align: center; color: blue">Figure 143 - </p>
+<p style="text-align: center; color: blue">Figure 143 - Visualisation des droits donnés à un utilisateur.</p>
 
 ### Gérer les droits d'accès depuis le répertoire des ressources
 ---
@@ -84,29 +84,29 @@ Vous pouvez donner les droits d'accès depuis le répertoire de ressources.
 
 Cliquez sur la petite flèche à droite du nom de la ressource et choisissez « **éditer les droits** "
 
-![2729.png](http://www.claroline.net/uploads/custom/images/2729.png)
+![](images/fig144.png)
 
-<p style="text-align: center; color: blue">Figure 144 - </p>
+<p style="text-align: center; color: blue">Figure 144 - Éditer les droits depuis le répertoire des ressources.</p>
 
 Sélectionnez les droits en fonction **des profils**,
 
-![2730.png](http://www.claroline.net/uploads/custom/images/2730.png)
+![](images/fig145.png)
 
-<p style="text-align: center; color: blue">Figure 145 - </p>
+<p style="text-align: center; color: blue">Figure 145 - Sélection simple en fonction des profils.</p>
 
-![2731.png](http://www.claroline.net/uploads/custom/images/2731.png)
+![](images/fig146.png)
 
-<p style="text-align: center; color: blue">Figure 146 - </p>
+<p style="text-align: center; color: blue">Figure 146 - Sélection avancée en fonction des profils.</p>
 
 **des espaces,**
 
-![2732.png](http://www.claroline.net/uploads/custom/images/2732.png)
+![](images/fig147.png)
 
-<p style="text-align: center; color: blue">Figure 147 - </p>
+<p style="text-align: center; color: blue">Figure 147 - Sélection en fonction des espaces.</p>
 
 ou **des utilisateurs**.
 
-![2733.png](http://www.claroline.net/uploads/custom/images/2733.png)
+![](images/fig148.png)
 
-<p style="text-align: center; color: blue">Figure 148 - </p>
+<p style="text-align: center; color: blue">Figure 148 - Sélection en fonction des utilisateurs.</p>
 
