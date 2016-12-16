@@ -11,8 +11,8 @@ Il existe deux manières d'accéder au gestionnaire de ressources
 
 ![](http://www.claroline.net/uploads/custom/images/2035.png)
 
-<p style="text-align: center; color: blue">Figure 119 - </p>
+<p style="text-align: center; color: blue">Figure 119 - Accéder au répertoire de ressources d'un espace ou accéder à l'espace général des ressources de la plateforme</p>
 
 ![](http://www.claroline.net/uploads/custom/images/1620.png)
 
-<p style="text-align: center; color: blue">Figure 120 - </p>
+<p style="text-align: center; color: blue">Figure 120 - Espace général des ressources de la plateforme</p>
