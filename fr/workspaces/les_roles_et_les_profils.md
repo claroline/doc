@@ -13,7 +13,7 @@ Claroline Connect met à disposition de l'utilisateur huit rôles (profils) pré
 * Rôle Utilisateur: tous les utilisateurs qui sont inscrits à la plateforme.
 * Rôle de Créateur d'espace: l'utilisateur qui peut créer des espaces d'activités sans être l'administrateur de la plateforme. Cependant, c'est l'administrateur de la plateforme qui va donner aux utilisateurs les droits de création des espaces d'activités.
 * Rôle Administrateur: qui administre la plateforme.
-* Rôle anonyme: qui n'est pas inscrit à la plateforme (l'internaute). Claroline Connect permet de rendre "public" des ressources et/ou des espaces d'activités. L'anonyme a la possibilité d'y accéder à partir du lien publié (Voir [gestion des droits](/../ressources/gerer_droits_acces_ressources.md)).
+* Rôle anonyme: qui n'est pas inscrit à la plateforme (l'internaute). Claroline Connect permet de rendre "public" des ressources et/ou des espaces d'activités. L'anonyme a la possibilité d'y accéder à partir du lien publié (Voir [Gestion des droits](/../ressources/gerer_droits_acces_ressources.md)).
 * Rôle Gestionnaire de compétences: qui peut créer et gérer un référentiel de compétences.
 * Rôle Gestionnaire de l'accueil: qui peut créer et gérer le site web de la plateforme.
 
