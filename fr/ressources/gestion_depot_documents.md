@@ -5,11 +5,11 @@
 Sur la plateforme **Claroline Connect**, vous pouvez déposer ou télécharger différents types de documents ou de fichiers.
 
 Vous pouvez limiter les droits de diffusion de vos documents ou les mettre à disposition de vos étudiants.  
-Le dépôt ou le téléchargement de documents se fait dans le gestionnaire des Ressources qui est accessible à partir de l'icône "Ressources" 2034.png qui se trouve en haut à droite de la barre de propriété de votre bureau, ou à partir de la barre d'outils de votre espace d'activités.
+Le dépôt ou le téléchargement de documents se fait dans le gestionnaire des Ressources qui est accessible à partir de l'icône "Ressources" qui se trouve en haut à droite de la barre de propriété de votre bureau, ou à partir de la barre d'outils de votre espace d'activités.
 
-![2035.png](http://www.claroline.net/uploads/custom/images/2035.png)
+![](images/fig164.png)
 
-<p style="text-align: center; color: blue">Figure 164 - </p>
+<p style="text-align: center; color: blue">Figure 164 - Icône d'ouverture des ressources.</p>
 
 Didacticiel Claroline Connect - Gestions des fichiers
 
@@ -20,9 +20,9 @@ Pour transférer un fichier sur Claroline, positionnez vous préalablement :
 * dans l'espace d'activités souhaité , puis cliquez sur l'icône "ressources" de la barre de ressources,
 * dans le gestionnaire des ressources de votre bureau
 
-**2036.png**
+<iframe width="665" height="150" src="https://www.youtube.com/embed/RnGGKNB7F8k" frameborder="0" allowfullscreen></iframe>
 
-<p style="text-align: center; color: blue">Figure 165 - </p>
+<p style="text-align: center; color: blue">Figure 165 - Vidéo: Gestion des fichiers.</p>
 
 **Solution par le menu**
 
