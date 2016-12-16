@@ -6,4 +6,6 @@ Il permet d'afficher la liste des membres qui souhaitent s'inscrire à l'espace 
 
 ![1911.png](http://www.claroline.net/uploads/custom/images/1911.png)
 
+<p style="text-align: center; color: blue">Figure 116 - Acceptattion ou refus d'utilisateur.</p>
+
 Acceptez ou refusez une inscription : le nouveau membre ne pourra accéder aux ressources qu'à partir du moment où vous avez accepté son inscription.
