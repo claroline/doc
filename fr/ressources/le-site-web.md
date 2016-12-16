@@ -12,6 +12,8 @@ Vous pouvez la modifier et ajouter des articles.
 
 ![](images/admin_site_web.png)
 
+<p style="text-align: center; color: blue">Figure 149 - </p>
+
 La barre des outils à gauche permet :
 
 * de revenir à cette page d'accueil;
