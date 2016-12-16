@@ -6,7 +6,7 @@ Il existe une procédure classique d'envoi de mot de passe sur la messagerie per
 
 Cliquez sur "Connexion", puis sur "Mot de passe oublié" sous le champ de saisie de l'identifiant. Indiquez votre courriel et entrez le texte du contrôle Captcha. Ce dispositif de sécurité permet de s'assurer que ce n'est pas un robot qui tente une opération malveillante.
 
-![captcha 2.PNG](http://www.claroline.net/uploads/custom/images/1759.png)
+![](images/fig72.png)
 
 <p style="text-align: center; color: blue">Figure 72 : Captcha.</p>
 
