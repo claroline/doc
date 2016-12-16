@@ -11,7 +11,7 @@ Cliquez sur l'icône de la roue crantée pour éditer l'onglet.
 
 <p style="text-align: center; color: blue">Figure 5: Éditer un onglet sur la page d'accueil.</p>
 
-Cliquez ensuite sur "**paramètres avancés**" et **choisissez le rôle**.
+Cliquez ensuite sur "**Paramètres avancés**" et **choisissez le rôle**.
 
 ![](images/fig6.png)
 
