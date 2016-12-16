@@ -6,7 +6,7 @@ Claroline Connect propose des **rôles prédéfinis** pour la plateforme et pour
 
 ### Les rôles prédéfinis
 
-Claroline Connect met à disposition de l'utilisateur huit rôles (profils) prédéfinis, six au niveau de la plateforme et deux au niveau des espaces d'activités (Voir [gestion des droits](../ressources/gerer_droits_acces_ressources.md)).
+Claroline Connect met à disposition de l'utilisateur huit rôles (profils) prédéfinis, six au niveau de la plateforme et deux au niveau des espaces d'activités (Voir [Gestion des droits](../ressources/gerer_droits_acces_ressources.md)).
 
 **Au niveau de la plateforme**
 
