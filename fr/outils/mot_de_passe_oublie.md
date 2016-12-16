@@ -26,5 +26,5 @@ Vous recevez une notification de réussite de l'opération.
 
 ![mdp modifié.PNG](http://www.claroline.net/uploads/custom/images/1521.png)
 
-<p style="text-align: center; color: blue">Figure 75 - Notification de mot de passe modifié.</p>
+<p style="text-align: center; color: blue">Figure 75 - Notification du mot de passe modifié.</p>
 
