@@ -12,13 +12,13 @@ La barre de propriétés du gestionnaire de ressources permet:
 * d'**ajouter** de nombreuses ressources ![1631.png](http://www.claroline.net/uploads/custom/images/1631.png) ou d'en **importer** d'autres ![2034.png](http://www.claroline.net/uploads/custom/images/2034.png)à partir d'autres espaces d'activités :
 (Fichier - Répertoire - Texte - Raccourcis - Activité - Ressource Web - Page Wiki - Annonces - Forum - Scorm 1.2 - Scorm (2004) - Sondage - Blog - Cours - évaluation - Exercice - Parcours);
     
-   [ ![2036.png](http://www.claroline.net/uploads/custom/images/1947.png)](http://www.claroline.net/uploads/custom/images/2036.png)
+![](images/fig123.png)
    
 <p style="text-align: center; color: blue">Figure 123 - Créer ou importer des ressources</p>
   
 * de **rechercher** une ressource à l'aide du moteur de recherche ou de **définir automatiquement des dates de publication** pour une ressource (roue crantée) :
 
-![    1621.png](http://www.claroline.net/uploads/custom/images/1621.png)
+![](images/fig124.png)
 
 <p style="text-align: center; color: blue">Figure 124 - Rechercher une ressource ou définir des dates de publication pour une ressource</p>
 
