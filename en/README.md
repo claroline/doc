@@ -2,7 +2,7 @@
 
 # Claroline Connect
 
-Claroline Connect is a **Learning Management System**, i.e. a software meant to manage your learning, free and downloadable for free.
+Claroline Connect is a **Learning Management System**, i.e. a free downloadable software meant to manage your learning.
 
 Au contraire de la plupart des plateformes existantes aujourd'hui, Claroline Connect (re)met chaque personne au centre de sa formation en lui offrant la possibilité de créer, partager, choisir et organiser les éléments qui composent son apprentissage. La plateforme a aussi été pensée dans une **vision collaborative**, permettant à chacun d'interagir avec les autres utilisateurs dans le cadre d'un projet commun. Pourquoi avoir fait ces choix-là ? Parce qu'aujourd'hui plus que jamais, les plateformes doivent permettre de faire plus que donner un simple accès à du contenu que les apprenants peuvent déjà facilement trouver ailleurs.
 
