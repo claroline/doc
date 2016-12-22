@@ -8,7 +8,7 @@ La page d'accueil des espaces d'activités de la plateforme Claroline Connect es
 * the left bar
 
 
-<img src="images/fig1.png" width="100" height="100" />
+![]<img src="images/fig1.png" width="100" height="100" />
 
 <p style="text-align: center; color: blue">Figure 1 - Les barres d'outils de Claroline Connect.</p>
 
