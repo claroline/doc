@@ -28,7 +28,7 @@
     * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
     * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
     * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
-    * [Modification du mot de passe](outils/modification_du_mot_de_passe.md)
+    * [Modification du mot de passe](tools/edit-password.md)
     * [Votre compte](outils/votre_compte.md)
     * [Modifier votre profil utilisateur](outils/modifier_profil.md)
     * [Modifier l'URL de votre profil public](outils/modif_url_profil.md)
