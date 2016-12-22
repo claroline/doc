@@ -1,13 +1,14 @@
-# The home page
+## The home page
 
 ---
 
-La page d'accueil des espaces d'activités de la plateforme Claroline Connect est composée de deux barres d'outils:
+La page d'accueil des espaces d'activités de la plateforme Claroline Connect est composée de deux _barres_ d'outils:
 
 * the top bar
 * the left bar
 
-![](images/fig1.png)
+
+![](images/homepage-fig1.png)
 
 <p style="text-align: center; color: blue">Figure 1 - Les barres d'outils de Claroline Connect.</p>
 
