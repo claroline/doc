@@ -48,7 +48,6 @@
     * [Gérer les options d'une ressource](ressources/gerer_options_ressource.md)
         * [Aimer, commenter et partager des ressources](ressources/aimer_ressources.md)
     * [Gérer les droits d'accès aux ressources](ressources/gerer_droits_acces_ressources.md)
-    * [Le formulaire](ressources/le-formulaire.md)
     * [Le site web](ressources/le-site-web.md)
         * [Créer des menus](ressources/créer-des-menus.md)
         * [Créer des articles](ressources/créer-des-articles.md)
@@ -57,4 +56,5 @@
     * [Les différents types de ressources](ressources/differents_types_ressources.md)
         * [La gestion et le dépôt de documents](ressources/gestion_depot_documents.md)
     * [L'éditeur de texte](ressources/editeur_de_texte.md)
+    * [Le formulaire](ressources/le-formulaire.md)
 
