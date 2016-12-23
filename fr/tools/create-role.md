@@ -3,7 +3,7 @@
 
 #### L'onglet "Rôle"
 
-**Créer un rôle**
+##### Créer un rôle
 
 Comme expliqué dans la section [Les profils de Claroline Connect](../workspaces/les_roles_et_les_profils.md), la plateforme propose des rôles prédéfinis qui peuvent être personnalisés.
 
