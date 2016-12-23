@@ -9,7 +9,7 @@ Une fois votre formulaire ajouter dans vos ressources, cliquez dessus pour comme
 La page sur laquelle vous arrivez est également, par défaut, celle qui sera proposée aux collaborateurs de votre espace. La seule différence est que vous avez accès à un menu de configuration en haut à droite.
 
 
-<span style="border:1px black solid">![](images/clacoform-fig5.png)</span>
+![](images/clacoform-fig5.png)
 
 
 
