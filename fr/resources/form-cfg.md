@@ -14,5 +14,5 @@ La page sur laquelle vous arrivez est également, par défaut, celle qui sera pr
 
 C'est depuis ce menu que vous allez pouvoir piloter l'ensemble de la ressource.
 
-La première chose que vous devez faire c'est ajouter des champs à votre formulaire. Pour cela, rendez-vous dans le menu "gestion des champs"
+La première chose que vous devez faire, c'est ajouter des champs à votre formulaire. Pour cela, rendez-vous dans le menu **Gestion des champs**.
 
