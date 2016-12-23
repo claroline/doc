@@ -24,7 +24,7 @@
     * [Gérer ses espaces d'activités](workspaces/manage-workspaces.md)
     * [Les rôles et les profils](workspaces/roles-profiles.md)
     * [Paramétrer l'accès à un espace d'activités](workspaces/access-wksp-parameters.md)
-* [Les barres d'outils](outils/les_outils.md)
+* [Les barres d'outils](tools/tools.md)
     * [Inscription à une plateforme](outils/inscription_a_une_plateforme.md)
     * [Connexion à une plateforme](outils/connexion_a_une_plateforme.md)
     * [Mot de passe oublié](outils/mot_de_passe_oublie.md)
