@@ -1,7 +1,7 @@
 # Languages
 
 * [Français](fr/)
-* [Anglais](/en/README.md)
+* [Anglais](/README.md)
 
 
 
