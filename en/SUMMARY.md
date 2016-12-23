@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [La page d'accueil](home/homepage.md)
+* [Home page](home/homepage.md)
   * [L'interface Claroline Connect](home/cc-interface.md)
   * [Paramétrer les droits de la page d'accueil](home/homepage-rights.md)
 * [Le bureau](desktop/desktop.md)
