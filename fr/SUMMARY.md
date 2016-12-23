@@ -7,7 +7,7 @@
 * [Le bureau](desktop/desktop.md)
     * [Personnaliser votre bureau](desktop/customize-desktop.md)
     * [Votre espace personnel](desktop/pers-wksp.md)
-        * [La page d'accueil de votre espace personnel](bureau/accueil_espace_perso.md)
+        * [La page d'accueil de votre espace personnel](desktop/pers-wksp-homepage.md)
         * [Créer un onglet sur la page d'accueil](bureau/onglet_accueil.md)
         * [Créer un widget sur la page d'accueil](bureau/creer_widget.md)
         * [Paramétrer votre espace personnel](bureau/parametrer_espace_perso.md)
