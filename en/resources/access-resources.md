@@ -1,10 +1,10 @@
-## Accéder au gestionnaire des ressources
+## Access resources management
 
 ---
 
-Il existe deux manières d'accéder au gestionnaire de ressources
+There are two ways to access the management of resources
 
-* en cliquant sur l'icône **"ressources" **de la barre du menu à gauche d'un espace d'activités, vous accédez directement au **répertoire de ressources** de cet espace;
+* by clicking on the **"Resources" **icon in the left bar of a workspace, you get direct access to the **resources directory** of that workspace;
 
 
 * en cliquant sur l'icône **"ressources"** de la barre de propriétés de votre bureau (bandeau supérieur), vous accédez à l'espace général des** "Ressources" de la plateforme** (qui contient par défaut les répertoires de tous les espaces d'activités créés).
