@@ -57,9 +57,8 @@
         * [La gestion et le dépôt de documents](resources/manage-documents.md)
     * [L'éditeur de texte](resources/text-editor.md)
     * [Le formulaire](resources/form.md)
-        * [Créer des fiches](resources/create-files.md)
-        * [Gérer des fiches](resources/manage-files.md)
-        * [Configurer le formulaire des fiches
-        
-        ](resources/form-cfg.md)
+        * [Ajouter une fiche-réponse](resources/create-files.md)
+        * [Gérer des fiches-réponses](resources/manage-files.md)
+        * [Mise en place d'un formulaire](resources/form-cfg.md)
+        * [Configurations avancées d'un formulaire](resources/form-cfg2.md)
 
