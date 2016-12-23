@@ -23,7 +23,9 @@ Le second écran est [l'éditeur de la plateforme](/fr/resources/text-editor.md)
 C'est dans cet éditeur que vous allez pouvoir placer vos balises. Vous pouvez utiliser toutes les autres fonctions de l'éditeur pour ajouter des illustration, du texte, des tableaux...
 
 
->! Les champs que vous avez indiquez comme obligatoires lors de leur création **DOIVENT** être mis dans le template. 
+>Les champs que vous avez indiquez comme obligatoires lors de leur création **DOIVENT** être mis dans le template. 
+
+>Les champs indiqués comme étant des "données confidentielles" doivent être ajoutés dans le template. Ils seront remplissables à la création d'une fiche mais ne seront consultables par la suite que pour les rôles autorisés. 
 
 
 
