@@ -38,3 +38,10 @@ Vous pouvez constater qu'il existe différents types de champs.
 * Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/text-editor.md).
 
 
+
+##### Cas particuliers : les listes, les boutons radios et les checkboxes
+
+Quand vous choisissez ce type de champ
+
+
+
