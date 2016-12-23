@@ -2,14 +2,14 @@
 
 ---
 
-La page d'accueil des espaces d'activités de la plateforme Claroline Connect est composée de deux barres d'outils:
+The homepage of the workspaces in Claroline Connect is made up of two toolbars:
 
-* la barre d'outils du bandeau supérieur
-* la barre d'outils du menu de gauche
+* the top bar
+* the toolbar of the left menu
 
 ![](images/fig1.png)
 
-<p style="text-align: center; color: blue">Figure 1 - Les barres d'outils de Claroline Connect.</p>
+<p style="text-align: center; color: blue">Figure 1 - The toolbars in Claroline Connect.</p>
 
 La barre d'outils du bandeau supérieur permet l'accès aux principaux outils, ressources et espaces d'activités de la plateforme.
 Elle est identique, quelle que soit la page sur laquelle vous naviguez.
