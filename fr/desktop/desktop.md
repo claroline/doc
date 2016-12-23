@@ -2,7 +2,7 @@
 
 ---
 
-Lorsque vous vous connectez à la plateforme, vous ouvrez automatiquement votre bureau personnel, soit l'accueil. Vous pouvez, comme chaque utilisateur, personnaliser votre bureau et y organiser votre travail. Vous pouvez revenir à tout moment à ce bureau en cliquant sur l'icône de la  maison <img style="max-width: 100%; width=12 height=12" src="http://www.claroline.net/uploads/custom/images/1401.png" > dans la **barre de menu supérieure**.
+Lorsque vous vous connectez à la plateforme, vous ouvrez automatiquement votre bureau personnel, soit l'accueil. Vous pouvez, comme chaque utilisateur, personnaliser votre bureau et y organiser votre travail. Vous pouvez revenir à tout moment à ce bureau en cliquant sur l'icône de la  maison <img style="max-width: 100%; width:12px; height:12px" src="http://www.claroline.net/uploads/custom/images/1401.png" > dans la **barre de menu supérieure**.
 
 Le bureau vous permet **d'agréger les informations de la plateforme** à l'aide des onglets et widgets[1] **d'épingler les onglets** des pages d'accueil et **d'afficher les annonces** des différents espaces d'activités auxquels vous êtes inscrit. Il vous donne aussi la possibilité **d'afficher l'agenda**, les discussions des **forums** auxquels vous êtes inscrits, le fil de **twitter**, les **rss** des blogs, etc.
 Il donne **accès aux outils, aux espaces d'activités** et à toutes **les ressources** personnelles ou issues des espaces d'activités auxquels l'utilisateur est inscrit.
