@@ -1,4 +1,4 @@
-## Modifier votre profil
+## Modifier votre profil utilisateur
 ---
 
 Certaines informations du profil de l'utilisateur sont gérées par l'administrateur de la plateforme. C'est le cas, par exemple, pour les onglets "données privées" et "cours suivis". Vous pouvez effectuer vous-même d'autres modifications à partir du bouton "Actions".
