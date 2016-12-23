@@ -31,9 +31,10 @@ Vous pouvez constater qu'il existe différents types de champs.
 * Date: Ce champ permet d'afficher un calendrier dans lequel l'utilisateur peut choisir une date.
 * Bouton radio: Les boutons radios sont des petits ronds à cocher, un seul choix peut être sélectionné. 
 * Liste déroulante: Les listes déroulante permettent d'afficher des choix les uns en dessous des autres. 
-* Checkboxes: Elles sont basés sur le même principe que les boutons radio, mais dans ce cas plusieurs choix peuvent être selectionné en même temps.
-* Pays:
-* Courriel:
-* Texte riche:
+* Checkboxes: Elles sont basés sur le même principe que les boutons radio, mais dans ce cas plusieurs choix peuvent être sélectionné en même temps.
+* Pays: Il s'agit d'une liste déroulante pré-complétée avec les Pays. 
+* Courriel: Un champ texte qui n'accepte que des contenus structurés en adresse email. 
+    *  Exemple : monadresse@quelquechose.be
+* Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/text-editor.md).
 
 
