@@ -64,4 +64,19 @@
             * [Création d'un template](resources/form-templates.md)
             * [Création des catégories](resources/form-category.md)
         * [Configurations avancées d'un formulaire](resources/form-cfg2.md)
+            * [Général](resources/form-general.md)
+            * [Affichage](resources/form-display.md)
+            * [Fiches aléatoires](resources/form-random.md)
+            * [Liste des fiches](resources/form-listing.md)
+            * [Données confidentielles](resources/form-metadata.md)
+            * [Catégories](resources/form-categorys.md)
+            * [Commentaires](resources/form-comments.md)
+            * [Mots-clés](resources/form-keywords.md)
+
+
+
+
+
+
+
 
