@@ -60,5 +60,8 @@
         * [Ajouter une fiche-réponse](resources/create-files.md)
         * [Gérer des fiches-réponses](resources/manage-files.md)
         * [Mise en place d'un formulaire](resources/form-cfg.md)
+            * [Création des champs](resources/form-fild.md)
+            * [Création d'un template](resources/form-templates.md)
+            * [Création des catégories](resources/form-category.md)
         * [Configurations avancées d'un formulaire](resources/form-cfg2.md)
 

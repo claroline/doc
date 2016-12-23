@@ -24,7 +24,9 @@ En bas à gauche, vous trouverez un bouton bleu intitulé "créer un champ". En 
 
 ![](images/clacoform-fig4.png)
 
-Vous pouvez constater qu'il existe différents types de champs.
+Vous devez d'abord attribuer un nom a votre champ.(Sans accent et sans astrophe)
+
+Ensuite, vous devez choisir le type de champ. Vous pouvez constater qu'ils en existent de différents types.
 
 * Texte: Il s'agit d'un simple cadre dans lequel peut être encodé n'importe quel type d'information.
 * Nombre: Dans ce champ, ne seront accepter que les nombres.
@@ -37,11 +39,31 @@ Vous pouvez constater qu'il existe différents types de champs.
     *  Exemple : monadresse@quelquechose.be
 * Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/text-editor.md).
 
+Il vous reste encore 2 petites choses a régler:
 
+![](images/clacoform-fig36.png)
+
+L'attribut "obligatoire" obligera le collaborateur à remplir le champ.
+
+L'attribut "données confidentielles" permettra (par défaut) de ne rendre la réponse de ce champ visible que par les gestionnaires de la ressource. 
 
 ##### Cas particuliers : les listes, les boutons radios et les checkboxes
 
-Quand vous choisissez ce type de champ
+Quand vous choisissez ce type de champ vous devez encore encoder les choix qui seront proposés à vos utilisateurs.
+
+![](images/clacoform-fig19.png)
+
+Vous pouvez évidement ajouter autant de choix que vous le voulez. 
+
+Il vous est également possible d'associer une catégorie à un choix.  Cela aura pour effet, lors de la sélection du choix, d'automatiquement attribuer la catégorie associée à la fiche. 
+
+![](images/clacoform-fig20.png)
+
+Si vous souhaitez associer une catégorie, il vous suffit de cliquer sur les 3 petits traits noirs à côté de la corbeille. Une liste vous propose alors de sélectionner le catégorie souhaitée. Pour cela il faut avoir préalablement créé des catégories.
+
+Pour supprimer l'association, il suffit de cliquer sur les 3 traits blancs sur fond orange. 
+
+
 
 
 
