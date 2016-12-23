@@ -1,6 +1,6 @@
 # Les espaces d'activités
----
 
+---
 
 Un espace d'activités est systématiquement constitué :
 
