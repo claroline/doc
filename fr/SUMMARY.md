@@ -63,6 +63,7 @@
             * [Création des champs](resources/form-fild.md)
             * [Création d'un template](resources/form-templates.md)
             * [Création des catégories](resources/form-category.md)
+            * [Gestion des mots-clés](resources/form-keyword.md)
         * [Configurations avancées d'un formulaire](resources/form-cfg2.md)
             * [Général](resources/form-general.md)
             * [Affichage](resources/form-display.md)
