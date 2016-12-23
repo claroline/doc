@@ -73,10 +73,3 @@
             * [Commentaires](resources/form-comments.md)
             * [Mots-clés](resources/form-keywords.md)
 
-
-
-
-
-
-
-
