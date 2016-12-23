@@ -2,12 +2,13 @@
 
 # Claroline Connect
 
-Claroline Connect is a **Learning Management System**, i.e. a free downloadable software meant to manage your learning.
+---
 
-Au contraire de la plupart des plateformes existantes aujourd'hui, Claroline Connect (re)met chaque personne au centre de sa formation en lui offrant la possibilité de créer, partager, choisir et organiser les éléments qui composent son apprentissage. La plateforme a aussi été pensée dans une **vision collaborative**, permettant à chacun d'interagir avec les autres utilisateurs dans le cadre d'un projet commun. Pourquoi avoir fait ces choix-là ? Parce qu'aujourd'hui plus que jamais, les plateformes doivent permettre de faire plus que donner un simple accès à du contenu que les apprenants peuvent déjà facilement trouver ailleurs.
+Claroline Connect is a **Learning Management System**, i.e. a **free downloadable software** meant to manage your learning.
 
-La documentation du projet sur GitBook a démarré en novembre 2016 avec ce qui existait pour la version 5._x_ de la plateforme. Nous savons qu'elle est incomplète, mais elle a le mérite d'exister. Il n'existe qu'une version en français de cette documentation finalisée en décembre 2016.
+Unlike most of the existing platforms today, Claroline Connect puts every person (again) in the center of his/her training by offering him/her the possibility of creating, of sharing, of choosing and of organizing the elements which make up his or he learning. The platform was also thought in a collaborative vision, allowing everyone to interact with the other users within the framework of a common project. Why have we made these choices? Because today more than ever, platforms have to allow to make more than to give a simple access to the contents which the learners can already easily find elsewhere.
 
-Nous démarrons dès à présent la documentation de la **version 17.06** qui, comme son nom l'indique, comblera les manquements de la version 5._x_ et les nouveautés de la version 17.06. L'objectif est de rédiger une documentation complète qui sortira en même temps que la version du même nom du logiciel. Nous avons l'intention de faire appel à la communauté des utilisateurs pour la traduire par après dans différentes langues, à commencer par l'anglais.
+The documentation of the project on GitBook started in November, 2016 with what existed for version 5.x of the platform. We know that it's incomplete, but it exists. There is only a French version of this documentation finalized in December, 2016.
+We are busy now with the documentation of version 17.06 which, as its name indicates it, will fill the breaches of version 5.x and explain the new features of version 17.06. The objective is to write a complete documentation which will be published at the same time as the new version of the software. We intend to ask the help of the community of users to translate it later on into various languages, to begin with English.
 
 Enjoy your reading !
