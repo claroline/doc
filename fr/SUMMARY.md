@@ -57,13 +57,7 @@
         * [La gestion et le dépôt de documents](ressources/gestion_depot_documents.md)
     * [L'éditeur de texte](ressources/editeur_de_texte.md)
     * [Le formulaire](ressources/le-formulaire.md)
-        * [Créer des fiches](ressources/le-formulaire-creer.md)
-        * [Gérer des fiches](ressources/le-formulaire-gerer.md)
-        * [Configurer le formulaire des fiches](ressources/le-formulaire-configurer.md)
-
-
-
-
-
-    * [Ajouter des fiches](ressources/ajouter-des-fiches.md)
-
+        * [Ajouter une fiche-réponse](ressources/le-formulaire-creer.md)
+        * [Gérer des fiches-réponses](ressources/le-formulaire-gerer.md)
+        * [Mise en place d'un formulaire](ressources/le-formulaire-configurer.md)
+        * [Configuration avancée du formulaire](ressources/le-formulaire-configurer2.md)
