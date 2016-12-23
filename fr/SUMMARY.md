@@ -59,5 +59,7 @@
     * [Le formulaire](resources/form.md)
         * [Créer des fiches](resources/create-files.md)
         * [Gérer des fiches](resources/manage-files.md)
-        * [Configurer le formulaire des fiches](resources/form-cfg.md)
+        * [Configurer le formulaire des fiches
+        
+        ](resources/form-cfg.md)
 
