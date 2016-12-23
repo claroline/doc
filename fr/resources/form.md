@@ -4,7 +4,7 @@
 
 ![](images/clacoform-fig1.png)
 
-<p style="text-align: left; color:blue">ClacoForm Fig.1 - Icône de la ressource **Formulaire**.</p>
+<p style="text-align: center; color:blue">ClacoForm Fig.1 - Icône de la ressource **Formulaire**.</p>
 
 Le formulaire est une ressource destinée à récolter des données, les partager et interagir autour de ces informations. 
 
