@@ -7,7 +7,7 @@ There are two ways to access the management of resources
 * by clicking on the **"Resources" **icon in the left bar of a workspace, you get direct access to the **resources directory** of that workspace;
 
 
-* en cliquant sur l'icône **"ressources"** de la barre de propriétés de votre bureau (bandeau supérieur), vous accédez à l'espace général des** "Ressources" de la plateforme** (qui contient par défaut les répertoires de tous les espaces d'activités créés).
+* by clicking on the **"Resources" **icon of the property bar of your desktop (top bar), you get direct access to the general space of the** "Resources" of the plateform** (which contains by default the directories of all the created workspaces).
 
 ![](images/fig119.png)
 
