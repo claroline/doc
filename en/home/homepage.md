@@ -1,4 +1,4 @@
-# La page d'accueil
+# The homepage
 
 ---
 
