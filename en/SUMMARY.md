@@ -41,7 +41,7 @@
         * [Inscrire des utilisateurs](tools/subscribe-users.md)
         * [Valider une inscription](tools/validate-subscription.md)
     * [Accéder à votre profil utilisateur](tools/access-user-profile.md)
-* [Le gestionnaire de ressources](resources/resources.md)
+* [The resources manager](resources/resources.md)
     * [Accéder au gestionnaire de ressources](resources/access-resources.md)
     * [Modifier les options d'une ressource](resources/options-resources.md)
     * [La barre de propriétés](resources/property-bar.md)
