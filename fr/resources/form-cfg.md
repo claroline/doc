@@ -4,7 +4,7 @@
 
 La première étape consiste à vous rendre dans un espace d'activités, dans la partie **Ressources**. Il vous suffit ensuite de cliquer sur le bouton **Ajouter** et de sélectionner le formulaire.
 
-Une fois votre formulaire ajouter dans vos ressources, cliquez dessus pour commencer le paramétrage.
+Une fois votre formulaire ajouté dans vos ressources, cliquez dessus pour commencer le paramétrage.
 
 ![](images/clacoform-fig35.png)
 
