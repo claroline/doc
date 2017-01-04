@@ -73,5 +73,5 @@
             * [Catégories](resources/form-categorys.md)
             * [Commentaires](resources/form-comments.md)
             * [Mots-clés](resources/form-keywords.md)
-   * [Le questionnaire](quiz.md)
+   * [Le questionnaire](resources/quiz.md)
 
