@@ -73,8 +73,8 @@
       * [Catégories](resources/form-categorys.md)
       * [Commentaires](resources/form-comments.md)
       * [Mots-clés](resources/form-keywords.md)
-  * [Le questionnaire](/quiz.md)
-    * [Création d'un questionnaire](/fr/resources/quiz/create_quiz.md)
+  * [Le questionnaire](/resources/quiz/quiz.md)
+    * [Création d'un questionnaire](/resources/quiz/create_question.md)
 
 
 
