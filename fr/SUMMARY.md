@@ -74,7 +74,8 @@
       * [Commentaires](resources/form-comments.md)
       * [Mots-clés](resources/form-keywords.md)
   * [Le questionnaire](/resources/quiz/quiz.md)
-    * [Création d'un questionnaire](/resources/quiz/create_question.md)
+    * [Création d'un questionnaire](/resources/quiz/create_quiz.md)
+    * [Création d'une question](/resources/quiz/create_question.md)
 
 
 
