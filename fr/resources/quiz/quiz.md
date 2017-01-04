@@ -18,4 +18,4 @@ Les questions peuvent être de différent type :
 - **Mots clés** : rédiger une réponse avec un ou plusieurs mots clés attendus.
 - **Graphique** : Pointer une ou plusieurs zones sur une image de fond.
 
-
+Une fois une question créée, elle est stockée automatiquement dans la **banque de question**. Cet outil personnel vous permettra de réutiliser vos questions, de les partager, et de recevoir les questions qui vous ont été partagées.
