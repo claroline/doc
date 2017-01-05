@@ -20,3 +20,5 @@ Les différentes actions possibles sur les fiches sont indiquées dans la colonn
 ![](images/clacoform-fig30.png)
 
 L'oeil permet de publier ou d'archiver la fiche. L'archivage consiste simplement à rendre la fiche "invisible" pour les utilisateurs. 
+
+![](images/clacoform-fig39.png)
