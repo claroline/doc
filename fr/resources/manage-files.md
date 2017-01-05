@@ -15,6 +15,21 @@ Les trois tableaux possibles sont:
 * "Mes fiches" - Depuis ce tableau, vous pourrez toujours accéder aux fiches que vous avez complétées. Selon les autorisations accordées vous pourrez également les éditer ou les supprimer. 
 * "Les fiches dont je suis gestionnaire" - Ce tableau vous permet d’accéder aux fiches appartenant à [une ou des catégorie(s)](/fr/resources/form-category.md) dont vous êtes gestionnaire. Depuis cet affichage, vous pouvez publier, archiver éditer ou encore supprimer les fiches dont vous êtes responsables. 
 
+
+##### Trouver une fiche
+
+Chaque colonne du tableau correspond à un champ d'une fiche. Il vous suffit d'écrire la valeur que vous cherché dans la colonne adéquate. Ces champs sont cumulatifs, vous pouvez donc chercher par exemple toutes les fiches d'un utilisateur donné à une date donnée. 
+
+Par défaut, et par soucis de lisibilité, tous les champs ne sont pas affichés. Si vous souhaitez ajouter les champs manquants ils vous suffit de cliquer sur le bouton filtre en haut à droite du tableau. 
+
+![](images/clacoform-fig3.png)
+
+> Les champs de type "texte" ne sont pas accessible par soucis de lisibilité.
+
+> En fonction des configurations, certains champs peuvent ne pas être accessibles à tous les utilisateurs.
+
+##### Agir sur les fiches
+
 Les différentes actions possibles sur les fiches sont indiquées dans la colonne action en bout de ligne. 
 
 ![](images/clacoform-fig30.png)
@@ -31,7 +46,13 @@ Le crayon permet d'entrer en mode édition de la fiche. Selon vos droits les par
 
 * [Les mots-clés](/fr/resources/form-keyword.md) : Si le gestionnaire du formulaire en à autoriser l'usage, les mots-clés peuvent être supprimer ou ajouter dans cette partie. 
 
+![](images/clacoform-fig26.png)
+
 * [Les catégories](/fr/resources/form-category.md) : Si le gestionnaire du formulaire en à autoriser l'usage, les catégorie peuvent être supprimer ou ajouter dans cette partie. 
+
+![](images/clacoform-fig27.png)
+
+
 
 >Cette fonction n'est accessible qu'au gestionnaire de la ressource ou d'une catégorie.
 
