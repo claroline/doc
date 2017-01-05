@@ -7,3 +7,17 @@ Cliquez sur le bouton **Ajouter**, choisissez **questionnaire** et donnez un nom
 Une fois votre questionnaire créé dans vos ressources, cliquez dessus pour le paramétrer et y ajouter des questions. 
 
 Même si votre questionnaire est encore vide vous avez tout de même accès aux paramètres de ce dernier ainsi qu'à une étape.
+
+####Organisation générale
+
+#####Vue d'ensemble
+#####Modifier
+#####Question
+- import de questions
+- export des questions de l'exercice
+#####Publier/Dépublier
+#####Tester
+#####Résultats
+#####Sauvegarder
+
+####Les paramètres de l'exercice
