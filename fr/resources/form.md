@@ -12,4 +12,7 @@ Les usages sont nombreux et on peut en lister quelques-uns de manière non-exhau
 
 ![](images/clacoform-fig2.png)
 
+Quand vous entrez dans la ressource, vous aurez le choix, selon les configurations entre plusieurs fonctions:
 
+
+![](images/clacoform-fig41.png)
