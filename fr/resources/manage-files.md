@@ -46,6 +46,8 @@ Le crayon permet d'entrer en mode édition de la fiche. Selon vos droits les par
 
 * Le corps de la fiche : Cette partie contient tous les champs remplit de la fiche. 
 
+![](images/clacoform-fig45.png)
+
 * [Les mots-clés](/fr/resources/form-keyword.md) : Si le gestionnaire du formulaire en à autoriser l'usage, les mots-clés peuvent être supprimer ou ajouter dans cette partie. 
 
 ![](images/clacoform-fig26.png)
