@@ -54,11 +54,11 @@ Le crayon permet d'entrer en mode édition de la fiche. Selon vos droits les par
 
 >Cette fonction n'est accessible qu'au gestionnaire de la ressource ou d'une catégorie.
 
-* Les commentaires : Si le gestionnaire du formulaire en à autoriser l'usage, les personnes qui ont déposé des commentaires peuvent les éditer. Si vous êtes gestionnaire de la catégorie à laquelle appartient la fiche, vous pouvez également supprimer, publier ou bloquer les commentaires. 
+* [Les commentaires](/fr/resources/form-comments.md) : Si le gestionnaire du formulaire en à autoriser l'usage, les personnes qui ont déposé des commentaires peuvent les éditer. Si vous êtes gestionnaire de la catégorie à laquelle appartient la fiche, vous pouvez également supprimer, publier ou bloquer les commentaires. 
 
 > Un commentaire qui doit être modéré est affiché sur un fond orange. 
 ![](images/clacoform-fig43.png)
 
-> Un commentaire qui doit être modéré est affiché sur un fond orange.
+> Un nouveau commentaire qui doit être modéré est affiché sur un fond orange.
 
 
