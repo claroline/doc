@@ -1,4 +1,4 @@
-## Personnaliser votre espace
+## Personnaliser votre bureau
 
 ---
 
