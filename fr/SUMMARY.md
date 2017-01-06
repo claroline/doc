@@ -15,6 +15,13 @@
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
+  * Gestion des formations
+    * Les widgets "Formations"
+      * Widget "Catalogues des formations"
+      * Widget "Mon programme de formations"
+    * Gestion des inscriptions
+    * Organisation des formations
+    * Création de cursus
 * [Les espaces d'activités](workspaces/wksp.md)
   * [Le concept des espaces d'activités](workspaces/workspaces.md)
   * [Accéder à un espace d'activités](workspaces/access-workspace.md)
