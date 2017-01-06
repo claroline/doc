@@ -52,7 +52,7 @@ Il est possible placer le menu :
 
 2\) Choisissez la zone \(par exemple "**entête**"\) :
 
-![](images/zone_contenu.png)
+![](images/fig155.png)
 
 <p style="text-align: center; color: blue">Figure 155 - Sélection de la zone de menu.</p>
 

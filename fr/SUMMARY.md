@@ -6,7 +6,6 @@
     * [Créer des pages](home/create-pages.md)
     * [Créer des menus](home/create-menus.md)
     * [Créer et paramétrer des articles](home/create-articles.md)
-* [Paramétrer les droits de la page d'accueil](home/homepage-rights.md)
 * [Le bureau](desktop/desktop.md)
     * [Personnaliser votre bureau](desktop/customize-desktop.md)
     * [Votre espace personnel](desktop/pers-wksp.md)
