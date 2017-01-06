@@ -20,7 +20,12 @@
       * Widget "Catalogues des formations"
       * Widget "Mon programme de formations"
     * Gestion des inscriptions
+      * Inscription individuelle
+      * Inscription à des formations
+      * Inscriptions à des cursus
     * Organisation des formations
+      * Création de sessions de formation
+      * Organisation de séance
     * Création de cursus
 * [Les espaces d'activités](workspaces/wksp.md)
   * [Le concept des espaces d'activités](workspaces/workspaces.md)
