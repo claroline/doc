@@ -1,11 +1,12 @@
 ## Affichage
+
 ---
+
 ![](images/clacoform-fig10.png)
 
-**Le type d'accueil** permet de déterminer quelle page s'affichera lors de l'entrée dans le formulaire. Vous avez 4 options. Par défaut c'est le menu qui s'affiche.
+**Le type d'accueil** permet de déterminer quelle page s'affichera lors de l'entrée dans le formulaire. Vous avez 4 options. Par défaut, c'est le menu qui s'affiche.
 
 ![](images/clacoform-fig7.png)
-
 
 Mais vous pouvez très bien faire arriver l'utilisateur sur l'affichage d'une fiche au hasard, sur le tableau de toutes les fiches ou directement dans le formulaire à compléter.
 
@@ -14,6 +15,4 @@ Mais vous pouvez très bien faire arriver l'utilisateur sur l'affichage d'une fi
 ![](/assets/clacoform-fig38.png)
 
 **Position du menu** permet de déterminer ou se situe le menu de navigation.
-
-
 

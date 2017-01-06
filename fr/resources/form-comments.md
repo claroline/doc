@@ -16,9 +16,9 @@
 
 > Si vous n'affichez pas les commentaires, personne ne peut en déposer sur la fiche.
 
-**Ouvrir l'affichage par défaut** vous permet de déterminer si le panel, par défaut "Commentaires" est ouvert ou fermé lors de l'affichage d'une fiche.
+**Ouvrir l'affichage par défaut** vous permet de déterminer si le panel par défaut "Commentaires" est ouvert ou fermé lors de l'affichage d'une fiche.
 
 **Afficher l'auteur du commentaire **permet de rendre le nom de la personne qui a commenté visible par les autres utilisateurs.
 
-**Afficher la date du commentaire** permet de rendre la date de publication du commenatire visible par les autres utilisateurs.
+**Afficher la date du commentaire** permet de rendre la date de publication du commentaire visible par les autres utilisateurs.
 
