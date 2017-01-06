@@ -33,6 +33,7 @@
     * [Le concept des espaces d'activités](workspaces/workspaces.md)
     * [Accéder à un espace d'activités](workspaces/access-workspace.md)
     * [S'inscrire à un espace d'activités](workspaces/workspace-subscription.md)
+    * [La page d'accueil de l'espace d'activités](workspaces/ws-homepage.md)
     * [Se désinscrire d'un espace d'activités](workspaces/workspace-unsubscription.md)
     * [Ajouter un espace d'activités à ses favoris](workspaces/add-favorite.md)
     * [Gérer ses espaces d'activités](workspaces/manage-workspaces.md)
