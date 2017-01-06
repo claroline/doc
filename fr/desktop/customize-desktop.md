@@ -1,8 +1,8 @@
-## Personnaliser votre bureau
+## Personnaliser votre espace
 
 ---
 
-Vous pouvez personnaliser votre bureau à l'aide de l'outil **Préférences** ![1783.1782.png](http://www.claroline.net/uploads/custom/images/1782.png)
+Vous pouvez personnaliser votre espace à l'aide de l'outil **Préférences** ![1783.1782.png](http://www.claroline.net/uploads/custom/images/1782.png)
 
 ![](images/fig10.png)
 
