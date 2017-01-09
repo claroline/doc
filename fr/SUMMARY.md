@@ -29,7 +29,7 @@
         * [Organisation des formations](admin/organisation-des-formations.md)
             * [Création de sessions de formation](admin/création-de-sessions-de-formation.md)
             * [Organisation de séance](admin/organisation-de-séance.md)
-        * [Création de cursus](admin/création-de-cursus.md)
+        * [Création de cursus](admin/create-cursus.md)
 * [Les espaces d'activités](workspaces/wksp.md)
     * [Le concept des espaces d'activités](workspaces/workspaces.md)
     * [Accéder à un espace d'activités](workspaces/access-workspace.md)
