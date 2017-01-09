@@ -10,7 +10,10 @@ Deux modes d'affichages sont proposés :
 
 * L'affichage catalogue:
 
-![](images/CursusBundle/cursus-fig2.png)
+![](images/CursusBundle/cursus-fig.png)
 
 
 * L'affichage calendrier:
+
+
+![](images/CursusBundle/cursus-fig3.png)
