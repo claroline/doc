@@ -20,14 +20,14 @@
     * [Gestion des formations](admin/gestion-des-formations.md)
         * [Les widgets "Formations"](admin/les-widgets-formations.md)
             * [Widget "Catalogues des formations"](admin/widget-catalogues-des-formations.md)
-            * Widget "Mon programme de formations"
-        * Gestion des inscriptions
-            * Inscription individuelle
-            * Inscription à des formations
-            * Inscriptions à des cursus
-        * Organisation des formations
-            * Création de sessions de formation
-            * Organisation de séance
+            * [Widget "Mon programme de formations"](admin/widget-mon-programme-de-formations.md)
+        * [Gestion des inscriptions](admin/gestion-des-inscriptions.md)
+            * [Inscription individuelle](admin/inscription-individuelle.md)
+            * [Inscription à des formations](admin/inscription-à-des-formations.md)
+            * [Inscriptions à des cursus](admin/inscriptions-à-des-cursus.md)
+        * [Organisation des formations](admin/organisation-des-formations.md)
+            * [Création de sessions de formation](admin/création-de-sessions-de-formation.md)
+            * [Organisation de séance](admin/organisation-de-séance.md)
         * [Création de cursus](admin/création-de-cursus.md)
 * [Les espaces d'activités](workspaces/wksp.md)
     * [Le concept des espaces d'activités](workspaces/workspaces.md)
