@@ -10,7 +10,19 @@ Deux modes d'affichages sont proposés :
 
 * L'affichage catalogue:
 
-![](images/CursusBundle/cursus-fig.png)
+![](images/CursusBundle/cursus-fig9.png)
+
+Comme vous le constatez, il s'agit d'une simple liste reprenant les différentes formations. En cliquant sur un intitulé, vous pouvez avoir plus de détails.
+
+![](images/CursusBundle/cursus-fig5.png)
+
+Dans cette exemple, plusieurs formations sont organisées, si aucune formation n'est proposée mais que vous souhaitez malgré tout que vos utilisateurs puissent s'inscrire, c'est possible. Dans ce cas ils s'inscrivent dans l'attente de l'ouverture d'une session de formation.
+
+![](images/CursusBundle/cursus-fig6.png)
+
+
+
+
 
 
 * L'affichage calendrier:
