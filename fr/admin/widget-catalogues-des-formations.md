@@ -21,11 +21,12 @@ Dans cette exemple, plusieurs formations sont organisées, si aucune formation n
 ![](images/CursusBundle/cursus-fig6.png)
 
 
-
-
-
-
 * L'affichage calendrier:
 
 
 ![](images/CursusBundle/cursus-fig3.png)
+
+Pour avoir les détails d'une formation ou s'inscrire, il suffit de cliquer dessus dans le calendrier. 
+
+![](images/CursusBundle/cursus-fig8.png)
+
