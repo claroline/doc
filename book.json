@@ -20,6 +20,7 @@
     "plugin": [
         "foo"
     ],
-    "pluginsConfig"
+    "pluginsConfig": [
+    ]
   }
 }
