@@ -1,11 +1,12 @@
 # Summary
 
-* [Introduction](README.md)
-* [L'interface Claroline Connect](interface/cc-interface.md)
+* [Introduction](README.md)nterface Claroline Connect](interface/cc-interface.md)
 * [La page d'accueil](home/homepage.md)
     * [Créer des pages](home/create-pages.md)
     * [Créer des menus](home/create-menus.md)
     * [Créer et paramétrer des articles](home/create-articles.md)
+    
+    
 * [Le bureau](desktop/desktop.md)
     * [Personnaliser votre bureau](desktop/customize-desktop.md)
     * [Votre espace personnel](desktop/pers-wksp.md)
