@@ -20,4 +20,5 @@
     "plugin": [
         "foo"
     ],
-  }
+    "pluginsConfig": {}
+}
