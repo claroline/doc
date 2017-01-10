@@ -88,5 +88,5 @@
             * [Création de sessions de formation](admin/cursus/create-sessions.md)
             * [Organisation de séance](admin/cursus/admin-sessions-events.md)
         * [Création de cursus](admin/cursus/create-cursus.md)
-* [Ce qu'il reste à écrire](remaining-articles.md)
+* [Ce qu'il reste à écrire](remaining-articles/remaining-articles.md)
 
