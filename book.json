@@ -21,8 +21,6 @@
         "foo"
     ],
     "pluginsConfig": {}
-}
-{
   "gitbook": "3.1.0",
   "plugins": [ "scramble-mailto"],
   "scramble-mailto": {
