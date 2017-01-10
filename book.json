@@ -21,4 +21,9 @@
         "foo"
     ],
     "pluginsConfig": {}
+    
+    "plugins": [ "scramble-mailto"],
+    "scramble-mailto": {
+    "scrambleMethod": "htmlEncode" // optional, defaults to "jsFunction"
+  }
 }
