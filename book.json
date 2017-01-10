@@ -15,8 +15,7 @@
         "-editlink",
         "-githubcontributors",
         "hints",
-        "markdown-parse-add-br",
-        "scramble-mailto"
+        "markdown-parse-add-br"
     ],
     "plugin": [
         "foo"
