@@ -18,7 +18,7 @@ Vous constaterez rapidement deux choses:
 
 * La présence d'une balise %clacoform\_entry\_title% malgré que vous n'ayez créé aucun champ de ce genre. En effet, il s'agit d'un champ automatique et obligatoire qui correspond au titre de la fiche.
 
-Le second écran est [l'éditeur de la plateforme](/fr/resources/text-editor.md).
+Le second écran est [l'éditeur de la plateforme](/fr/resources/clacoForm/text-editor.md).
 
 ![](images/clacoform-fig22.png)
 

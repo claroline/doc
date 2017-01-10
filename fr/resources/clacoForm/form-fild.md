@@ -22,7 +22,7 @@ Ensuite, vous devez choisir le type de champ. Vous pouvez constater qu'il en exi
 * Checkboxes: Elles sont basées sur le même principe que les boutons radio, mais dans ce cas, plusieurs choix peuvent être sélectionné en même temps.
 * Pays: Il s'agit d'une liste déroulante pré-complétée avec les pays.
 * Courriel: Un champ texte qui n'accepte que des contenus structurés en adresse courriel. Exemple : monadresse@quelquechose.be
-* Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/text-editor.md).
+* Texte riche: Il s'agit d'un champ texte dans lequel vous avez [l'éditeur complet de la plateforme](/fr/resources/clacoForm/text-editor.md).
 
 Il vous reste encore 2 petites choses à régler:
 
@@ -40,11 +40,11 @@ Quand vous choisissez ce type de champ, vous devez encore encoder les choix qui 
 
 Vous pouvez évidement ajouter autant de choix que vous le voulez.
 
-Il vous est également possible d'associer une catégorie à un choix. Cela aura pour effet, lors de la sélection du choix, d'automatiquement attribuer [la catégorie](/fr/resources/form-category.md). associée à la fiche.
+Il vous est également possible d'associer une catégorie à un choix. Cela aura pour effet, lors de la sélection du choix, d'automatiquement attribuer [la catégorie](/fr/resources/clacoForm/form-category.md). associée à la fiche.
 
 ![](images/clacoform-fig20.png)
 
-Si vous souhaitez associer un choix à [une catégorie](/fr/resources/form-category.md), il vous suffit de cliquer sur les 3 petits traits noirs à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/form-category.md) souhaitée. Pour cela il faut avoir préalablement créé vos [catégories](/fr/resources/form-category.md).
+Si vous souhaitez associer un choix à [une catégorie](/fr/resources/clacoForm/form-category.md), il vous suffit de cliquer sur les 3 petits traits noirs à côté de la corbeille. Une liste vous propose alors de sélectionner [la catégorie](/fr/resources/clacoForm/form-category.md) souhaitée. Pour cela il faut avoir préalablement créé vos [catégories](/fr/resources/clacoForm/form-category.md).
 
 Pour supprimer l'association, il suffit de cliquer sur les 3 traits blancs sur fond orange.
 

@@ -10,5 +10,5 @@
 
 ![](images/clacoform-fig3.png)
 
-Pour plus de précision sur la recherche, rendez-vous dans la partie de ce manuel consacrée à la [gestion des fiches-réponses](/fr/resources/manage-files.md).
+Pour plus de précision sur la recherche, rendez-vous dans la partie de ce manuel consacrée à la [gestion des fiches-réponses](/fr/resources/clacoForm/manage-files.md).
 
