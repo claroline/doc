@@ -16,7 +16,8 @@
         "-editlink",
         "-githubcontributors",
         "hints",
-        "markdown-parse-add-br"
+        "markdown-parse-add-br",
+        "page-toc-button"
     ],
     "plugin": [
         "foo"
