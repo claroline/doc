@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [L'interface Claroline Connect](home/cc-interface.md)
+* [L'interface Claroline Connect](interface/cc-interface.md)
 * [La page d'accueil](home/homepage.md)
     * [Créer des pages](home/create-pages.md)
     * [Créer des menus](home/create-menus.md)
