@@ -15,10 +15,15 @@
         "-editlink",
         "-githubcontributors",
         "hints",
-        "markdown-parse-add-br"
+        "markdown-parse-add-br",
+        "scramble-mailto"
     ],
     "plugin": [
         "foo"
     ],
     "pluginsConfig": {}
+    
+    "scramble-mailto": {
+    "scrambleMethod": "htmlEncode" // optional, defaults to "jsFunction"
+  }
 }
