@@ -22,8 +22,4 @@
         "foo"
     ],
     "pluginsConfig": {},
-    
-    "scramble-mailto": {
-    "scrambleMethod": "htmlEncode" // optional, defaults to "jsFunction"
-  }
 }
