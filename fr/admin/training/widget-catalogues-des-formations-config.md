@@ -1,4 +1,4 @@
-# Widget "Catalogue des formations"
+### Widget "Catalogue des formations"
 
 ---
 
