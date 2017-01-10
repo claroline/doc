@@ -18,37 +18,37 @@ Ci-dessous, vous trouverez la liste des articles à rédiger.
 
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 2 : La page d'accueil
+### Chapitre 2 : La page d'accueil
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 3 : Interface Claroline Connect
+### Chapitre 3 : Interface Claroline Connect
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 4 : Le bureau
+### Chapitre 4 : Le bureau
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 5 : Les barres d'outils
+### Chapitre 5 : Les barres d'outils
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 6 : Le espaces d'activités
+### Chapitre 6 : Le espaces d'activités
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 7 : Le gestionnaire de ressources
+### Chapitre 7 : Le gestionnaire de ressources
 
 ---
 Etablissement de la liste d'articles en cours. 
 
-###Chapitre 8 : L'administration
+### Chapitre 8 : L'administration
 
 ---
 Etablissement de la liste d'articles en cours. 
