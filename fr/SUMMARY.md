@@ -67,8 +67,7 @@
     * [Créer les rôles et les répertoires de ressources](resources/create-roles-directories.md)
     * [Les différents types de ressources](resources/types-resources.md)
         * [La gestion et le dépôt de documents](resources/manage-documents.md)
-    * [L'éditeur de texte](resources/text-editor.md)
-        * [Le formulaire](resources/form.md)
+           * [Le formulaire](resources/form.md)
             * [Ajouter une fiche-réponse](resources/create-files.md)
             * [Gérer des fiches-réponses](resources/manage-files.md)
             * [Mise en place d'un formulaire](resources/form-cfg.md)
@@ -88,5 +87,8 @@
         * [Le questionnaire](resources/quiz/quiz.md)
             * [Création d'un questionnaire](resources/quiz/create_quiz.md)
             * [Création d'une question](resources/quiz/create_question.md)
+
+    * [L'éditeur de texte](resources/text-editor.md)
+     
     
     
