@@ -10,6 +10,8 @@ Si vous avez envie de participer, contactez-nous à l'adresse  <doc@claroline.co
 
 Grand merci déjà pour votre collaboration!
 
+Ci-dessous, vous trouverez la liste des articles à rédiger.
+
 ### Chapitre 1 : Introduction
 
 ---
