@@ -1,4 +1,4 @@
-### Widget "Catalogue des formations"
+### Configurer le Widget "Catalogue des formations"
 
 ---
 
