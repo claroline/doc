@@ -12,9 +12,13 @@ Pour ce widget, trois affichages différents sont possibles.
 
 ![](images/cursus-fig14.png)
 
-Cet affichage est en tout point semblable à celui du widget [catalogue de formations](/fr/admin/cursus/widget-formationslisting.md)
+Cet affichage est en tout point semblable à celui du widget [catalogue de formations](/fr/admin/cursus/widget-formationslisting.md) sauf qu'il n'affiche que les formations dans lesquelles l'utilisateur est inscrit.
 
 * L'affichage chronologique
+
+![](images/cursus-fig13.png)
+
+Cet affichage propose de classer les différents formations auxquelles l'utilisateurs est inscrit en fonction de leur status: terminées, en cours, ou à venir. L'affichage de ce mode là peut être légèrement différent selon la manière don [le widget est configuré](/fr/admin/cursus/widget-myformations-config.md)
 * L'affichage calendrier
 
 L'affichage dans le calendrier est 
