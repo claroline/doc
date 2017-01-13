@@ -15,4 +15,11 @@ J'ai ici volontaire fait l'impasse sur les premiers champs du formulaire qui per
 
 Vous avez ensuite la possibilité de paramétrer différents éléments propre à l'affichage "chronologique"
 
-Dans les trois cas le champ couleur vous permet de paramétrer la couleur dans l'encadré.
+Dans les trois cas le champ **"couleur"** vous permet de paramétrer la couleur dans l'encadré.
+
+![](images/cursus-fig19.png)
+
+Dans les cas des sessions terminées ou à venir, vous pouvez également décocher la case **"afficher"** si vous ne souhaitez pas que les session concernées ne soient visibles dans le widget.
+
+La dernière option qui vous est proposée **"Désactiver les liens vers l'espaces d'activités"** permet de cacher le bouton (ndrl livre bleu) d'accès aux espaces d'activités liés aux sessions concernées. 
+
