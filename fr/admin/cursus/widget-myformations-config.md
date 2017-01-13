@@ -1,0 +1,18 @@
+## Configurer le Widget "Mon programme"
+
+---
+
+Pour configurer \(si vous en avez les droits\) ce widget, c'est très simple. Il vous suffit de cliquer en haut à droite avec l'icône en forme de crayon. Vous vous retrouverez alors face à ce formulaire:
+
+![](images/cursus-fig18.png)
+
+J'ai ici volontaire fait l'impasse sur les premiers champs du formulaire qui permettent de paramétrer le nom et l'affichage du nom pour me concentrer sur les items plus spécifiques.
+
+* Cursus: Vous permet de choisir de quel [cursus](/fr/admin/create-cursus.md) vous souhaitez afficher les formations. Vous devez pour cela les avoirs créés au préalable. 
+* Mode par défaut: Vous permet de choisir si par défaut, le widget affichera la vue liste ou la vue calendrier. 
+
+> L'utilisateur aura toujours la possibilité de passer d'un affichage à l'autre.
+
+Vous avez ensuite la possibilité de paramétrer différents éléments propre à l'affichage "chronologique"
+
+Dans les trois cas le champ couleur vous permet de paramétrer la couleur dans l'encadré.
