@@ -6,7 +6,9 @@ A travers ce second widget l'utilisateur à la possibilité d'afficher son progr
 
 Si vous souhaitez ajouter le widget "Mon programme", il n'y a rien de plus simple: rendez-vous sur votre bureau ou dans un espace d'activités, suivez [la démarche habituelle](/fr/desktop/create-widget.md) et choisissez le type "mes formations".
 
-Pour ce widget, trois affichages différents sont possibles.
+Pour ce widget, trois affichages différents sont possibles. Les utilisateurs peuvent facilement passer d'un affichage à l'autre à l'aide des boutons situés en haut à droite.    
+
+![](images/cursus-fig11.png)
 
 * L'affichage alphabétique
 
@@ -29,3 +31,17 @@ L'affichage dans le calendrier est organisé selon un code couleur.
 * bleu : indique une séance
 
 > Pour les formateurs, certains éléments peuvent également apparaître en gris. Il s'agit de séances pour lesquelles l'utilisateur n'est pas explicitement indiqué comme formateur mais qui font partie d'une session pour laquelle il l'est. 
+
+Depuis la vue calendrier il suffit de cliquer sur une session ou une séance pour avoir tout le détail. 
+
+![](images/cursus-fig12.png)
+
+L'onglet "Formateurs" permet de prendre contact directement avec le ou les formateurs responsables de la séance.
+
+L'onglet "Informations" permet aux formateurs de laisser des commentaires ou des précisions pour la séance.
+
+![](images/cursus-fig17.png)
+
+
+
+
