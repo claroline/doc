@@ -11,3 +11,5 @@ Pour ce widget, trois affichages différents sont possibles.
 * L'affichage alphabétique
 * L'affichage chronologique
 * L'affichage calendrier
+
+L'affichage dans le calendrier est 
