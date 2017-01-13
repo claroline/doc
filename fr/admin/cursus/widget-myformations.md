@@ -21,4 +21,11 @@ Cet affichage est en tout point semblable à celui du widget [catalogue de forma
 Cet affichage propose de classer les différents formations auxquelles l'utilisateurs est inscrit en fonction de leur status: terminées, en cours, ou à venir. L'affichage de ce mode là peut être légèrement différent selon la manière don [le widget est configuré](/fr/admin/cursus/widget-myformations-config.md).
 * L'affichage calendrier
 
-L'affichage dans le calendrier est 
+![](images/cursus-fig10.png)
+
+L'affichage dans le calendrier est organisé selon un code couleur. 
+* vert: indique le début d'une session
+* rouge: indique la fin d'une session
+* bleu : indique une séance
+
+> Pour les formateurs, certains éléments peuvent également apparaître en gris. Il s'agit de séances pour lesquelles l'utilisateur n'est pas explicitement indiqué comme formateur mais qui font partie d'une session pour laquelle il l'est. 
