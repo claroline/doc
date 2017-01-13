@@ -1,9 +1,5 @@
-# Widget "Mon programme de formation"
+## Widget "Mon programme de formation"
 
 ---
 
-En cours de rédaction.
-
-<thomas.verniers@claroline.com>
-
-[This link](mailto:thomas.verniers@claroline.com) 
+A travers ce second widget l'utilisateur à la possibilité d'afficher son programme personnalisé. Il pourra ainsi retrouver facilement des informations telles que les dates et lieux de ces formations, les formateurs qui les animent ou encore accéder rapidement aux espaces d'activités en relation avec lesdites formations. 
