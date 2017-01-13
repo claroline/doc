@@ -42,6 +42,14 @@ L'onglet "Informations" permet aux formateurs de laisser des commentaires ou des
 
 ![](images/cursus-fig17.png)
 
+**Quelque soit l'affichage, il suffit de cliquer sur le lien illustré par un petit livre bleu pour accéder directement à l'espace d'activités lié.**
+
+
+
+
+
+
+
 
 
 
