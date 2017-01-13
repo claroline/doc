@@ -9,6 +9,11 @@ Si vous souhaitez ajouter le widget "Mon programme", il n'y a rien de plus simpl
 Pour ce widget, trois affichages différents sont possibles.
 
 * L'affichage alphabétique
+
+![](images/cursus-fig14.png)
+
+Cet affichage est en tout point semblable à celui du widget [catalogue de formations](/fr/admin/cursus/widget-formationslisting.md)
+
 * L'affichage chronologique
 * L'affichage calendrier
 
