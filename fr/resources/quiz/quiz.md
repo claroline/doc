@@ -5,9 +5,10 @@
 <p style="text-align: center; color: blue">Quiz Fig.1 - Icône de la ressource Questionnaire</p>
 
 Le questionnaire est une ressource qui permet de créer des questions et de les organiser.
-Il peut à la fois servir à l'entrainement et à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
+Il peut à la fois servir à l'entraînement et à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
 
 Le questionnaire est constitué d'étapes et ce sont ces dernières qui contiennent les questions. 
+
 Les questions peuvent être de différents types :
 - **Choix Multiple** : choisir une ou plusieurs réponses (texte, image, son, vidéo,...) dans une liste de choix prédéfinis.
 - **Association** : lier un élément (texte, image, son, vidéo,...) à un ou plusieurs autres éléments (texte, image, son, vidéo,...).
@@ -18,4 +19,4 @@ Les questions peuvent être de différents types :
 - **Mots clés** : rédiger une réponse avec un ou plusieurs mots clés attendus.
 - **Graphique** : Pointer une ou plusieurs zones sur une image de fond.
 
-Une fois une question créée, elle est stockée automatiquement dans la **banque de questions**. Cet outil personnel vous permettra de réutiliser vos questions, de les partager, et de recevoir les questions qui vous sont partagées.
+Une fois une question créée, elle est stockée automatiquement dans la **banque de questions**. Cet outil personnel vous permettra de réutiliser vos questions, de les partager et de recevoir les questions que d'autres partagent avec vous.
