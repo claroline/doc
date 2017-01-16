@@ -83,7 +83,7 @@
         * [Gestion des inscriptions](admin/cursus/admin-inscriptions.md)
             * [Inscription individuelle](admin/cursus/individual-inscriptions.md)
             * [Inscription à des formations](admin/cursus/formations-inscriptions.md)
-            * [Inscriptions à des cursus](admin/cursus/cursus-inscriptions.md)
+            * [Inscription à des cursus](admin/cursus/cursus-inscriptions.md)
         * [Organisation des formations](admin/cursus/admin-formations.md)
             * [Création de sessions de formation](admin/cursus/create-sessions.md)
             * [Organisation de séance](admin/cursus/admin-sessions-events.md)
