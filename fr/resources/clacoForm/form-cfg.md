@@ -2,7 +2,7 @@
 
 ---
 
-La première étape consiste à vous rendre dans un espace d'activités, dans la partie **Ressources**. Il vous suffit ensuite de cliquer sur le bouton **Ajouter** et de sélectionner le formulaire.
+La première étape consiste à vous rendre dans la partie **Ressources** d'un espace d'activités. Il vous suffit ensuite de cliquer sur le bouton **Ajouter** et de sélectionner le formulaire.
 
 Une fois votre formulaire ajouté dans vos ressources, cliquez dessus pour commencer le paramétrage.
 

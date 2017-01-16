@@ -6,13 +6,13 @@ Maintenant que vous avez créé des champs, vous souhaitez peut-être organiser 
 
 Cette étape n'est pas obligatoire. Si vous ne le faites pas, vos champs seront simplement affichés les uns à la suite des autres.
 
-En cliquant sur le menu "Gestion des templates" vous arrivez sur une page séparée en deux écrans.
+En cliquant sur le menu "Gestion des templates", vous arrivez sur une page séparée en deux écrans.
 
 Le premier écran \(jaune\) vous propose une liste comprenant l'ensemble des champs que vous avez créés.
 
 ![](images/clacoform-fig21.png)
 
-Vous constaterez rapidement deux choses:
+Vous constatez rapidement deux choses:
 
 * Le nom de chaque champ est entouré par le symbole "%". Il s'agit en fait de balises. Vous pouvez les positionner où vous le souhaitez dans le second écran. Cette balise sera remplacée par le champ en question lors de l'affichage du formulaire.
 
