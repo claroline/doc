@@ -16,7 +16,7 @@ Ci-dessous, vous trouverez la liste des articles à rédiger.
 
 ---
 
-Etablissement de la liste d'articles en cours. 
+OK. 
 
 ### Chapitre 2 : La page d'accueil
 
@@ -38,7 +38,7 @@ Etablissement de la liste d'articles en cours.
 ---
 Etablissement de la liste d'articles en cours. 
 
-### Chapitre 6 : Le espaces d'activités
+### Chapitre 6 : LeS espaces d'activités
 
 ---
 Etablissement de la liste d'articles en cours. 
