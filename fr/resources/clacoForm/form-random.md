@@ -8,7 +8,7 @@
 
 **Proposer les fiches des catégories suivantes** permet de restreindre les fiches sélectionnées par le mode aléatoire à une plusieurs [catégories](/fr/resources/clacoForm/form-category.md).
 
-**Afficher les fiches publiées entre les dates suivantes** permet de restreindre les fiches sélectionnées par le mode aléatoire à celle déposée sur une période déterminée.
+**Afficher les fiches publiées entre les dates suivantes** permet de restreindre les fiches sélectionnées par le mode aléatoire à celles déposées sur une période déterminée.
 
 Les deux "filtres" sont cumulables.
 
