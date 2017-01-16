@@ -12,13 +12,13 @@ Les usages sont nombreux et on peut en lister quelques-uns de manière non-exhau
 
 ![](images/clacoform-fig2.png)
 
-Quand vous entrez dans la ressource, vous aurez le choix, selon les configurations entre plusieurs fonctions:
+Quand vous entrez dans la ressource, vous avez le choix, selon les configurations, entre plusieurs fonctions:
 
 
 ![](images/clacoform-fig41.png)
 
 * [Ajouter une fiche](/fr/resources/clacoForm/create-files.md) vous permet de compléter le formulaire proposé.
-* [Trouver une fiche](/fr/resources/clacoForm/manage-files.md) vous permet d'afficher un tableau contenant toutes les fiches qui vous sont accessibles. Vous pouvez également effectuer des recherches dans cette liste.
+* [Trouver une fiche](/fr/resources/clacoForm/manage-files.md) vous permet d'afficher un tableau contenant toutes les fiches auxquelles vous avez accès. Vous pouvez également effectuer des recherches dans cette liste.
 * Fiche aléatoire, vous permet de sélectionner et d'afficher une fiche au hasard dans celles auxquelles vous avez accès. 
 
-> Il se peut, en fonction des choix du gestionnaire de la ressource, que ce menu ne vous soit pas proposé et que vous arriviez directement dans l'une des trois options présentée. s
+> Il se peut, en fonction des choix du gestionnaire de la ressource, que ce menu ne vous soit pas proposé et que vous arriviez directement dans l'une des trois options présentées.
