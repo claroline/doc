@@ -12,7 +12,7 @@ Les mots-clés permettent de faire des associations entre plusieurs fiches. De c
 
 **Autoriser les nouveaux mots-clés** permet aux utilisateurs, lorsqu'ils créent une fiche, d'ajouter de nouveaux mots-clés à leur fiche. Ces mots-clés sont ensuite disponibles pour tous les utilisateurs.
 
-**Afficher les mots-clés aux utilisateurs ** permet de déterminer si le panel "mots-clés" est disponible en bas des fiches.
+**Afficher les mots-clés aux utilisateurs** permet de déterminer si le panel "mots-clés" est disponible en bas des fiches.
 
 **Ouvrir l'affichage par défaut** permet de déterminer si le panel "mots-clés" est par défaut ouvert ou fermé.
 
