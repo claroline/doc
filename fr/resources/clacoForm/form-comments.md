@@ -10,7 +10,7 @@
 
 **Autoriser les commentaires anonymes** permet de donner l'autorisation aux anonymes \(non connectés à la plateforme\) de déposer des commentaires.
 
-**Modérer les commentaires** permet de déterminer si les commentaires peuvent s'afficher immédiatement ou si il est nécessaire qu'ils soient d'abord validés par un gestionnaire.
+**Modérer les commentaires** permet de déterminer si les commentaires peuvent s'afficher immédiatement ou s'il est nécessaire qu'ils soient d'abord validés par un gestionnaire.
 
 **Afficher les commentaires** permet d'ajouter un panel avec les commentaires à la fin de la fiche.
 
