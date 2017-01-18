@@ -11,14 +11,14 @@ The homepage of the workspaces in Claroline Connect is made up of two toolbars:
 
 <p style="text-align: center; color: blue">Fig.1 - The toolbars in Claroline Connect.</p>
 
-La barre d'outils du bandeau supérieur permet l'accès aux principaux outils, ressources et espaces d'activités de la plateforme.
-Elle est identique, quelle que soit la page sur laquelle vous naviguez.
+The top bar gives you access to the main tools, resources and workspaces of the platform.
+It's identical, whatever the page you're on.
 
 ![](images/fig2.png)
 
-<p style="text-align: center; color: blue">Figure 2 - Barre d'outils: bandeau supérieur</p>
+<p style="text-align: center; color: blue">Fig.2 - Top Bar</p>
 
-Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir "[Outils du bureau](../bureau/personnaliser_votre_bureau.md)".)
+The top bar can be edited and customized by the user. (See "[Desktop tools](../desktop/customize-desktop.md)".)
 
 La barre d'outils du menu de gauche permet l'**accès aux outils et ressources** de l'espace d'activités concerné. Elle varie selon l'espace d'activités et selon que l'utilisateur soit gestionnaire ou pas de l'espace d'activités.
 Le menu de gauche montre les outils dont dispose le **gestionnaire** d'un espace d'activités.
