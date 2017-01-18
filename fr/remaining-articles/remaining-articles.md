@@ -21,7 +21,11 @@ OK.
 ### Chapitre 2 : La page d'accueil
 
 ---
-Etablissement de la liste d'articles en cours. 
+Etablissement de la liste d'articles en cours.
+
+Ajouter accès aux espaces publics pour les anonymes depuis la page d'accueil.
+
+Semble complet. On pourrait ajouter un exemple de création de page d'accueil et en afficher le résultat.
 
 ### Chapitre 3 : Interface Claroline Connect
 
