@@ -17,7 +17,7 @@ Ci-dessous, vous trouverez la liste des articles à rédiger.
 
 ---
 
-OK. 
+OK, sauf si vous voyez quelque chose à changer dans le texte.
 
 ### Chapitre 2 : La page d'accueil
 
@@ -66,12 +66,17 @@ OK.
 ### Chapitre 8 : L'administration
 
 ---
-Établissement de la liste d'articles en cours. 
-
-À ajouter à l'existant:
 
     * [Administration](admin/admin.md)
        * [Installation](admin/install/install.md)
        * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
+         * [Facebook](admin/oauth/facebook.md)
+         * [Twitter](admin/oauth/twitter.md)
+         * [Google+](admin/oauth/google.md)
+         * [LinkedIn](admin/oauth/linkedin.md)
+         * [Office 365](admin/oauth/office.md)
+         * [Windows Live](admin/oauth/windows.md)
+
+         
 
 
