@@ -21,11 +21,15 @@ OK.
 ### Chapitre 2 : La page d'accueil
 
 ---
-Etablissement de la liste d'articles en cours.
+À ajouter à l'existant:
 
-Ajouter accès aux espaces publics pour les anonymes depuis la page d'accueil.
+* Accès aux espaces publics pour les anonymes depuis la page d'accueil.
 
-Semble complet. On pourrait ajouter un exemple de création de page d'accueil et en afficher le résultat.
+* Exemple de création de page d'accueil et en afficher le résultat.
+
+* Se connecter via ClaCo ou via les réseaux sociaux quand ces derniers accès sont configurés.
+
+
 
 ### Chapitre 3 : Interface Claroline Connect
 
@@ -56,5 +60,9 @@ Etablissement de la liste d'articles en cours.
 
 ---
 Etablissement de la liste d'articles en cours. 
+
+À ajouter à l'existant:
+
+* Configuration des connexions via les réseaux sociaux (voir doc de Panos sur GitHub).
 
 
