@@ -24,11 +24,11 @@ OK, sauf si vous voyez quelque chose à changer dans le texte.
 ---
 À ajouter à l'existant:
 
-* Accès aux espaces publics pour les anonymes depuis la page d'accueil.
+- Accès aux espaces publics pour les anonymes depuis la page d'accueil.
 
-* Exemple de création de page d'accueil et en afficher le résultat.
+- Exemple de création de page d'accueil et en afficher le résultat.
 
-* Se connecter via ClaCo ou via les réseaux sociaux quand ces derniers accès sont configurés.
+    * [Se connecter à ClaCo ou via les réseaux sociaux](homepage/social-connexion.md)
 
 
 
