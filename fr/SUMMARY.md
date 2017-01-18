@@ -88,5 +88,5 @@
             * [Création de sessions de formation](admin/cursus/create-sessions.md)
             * [Organisation de séance](admin/cursus/admin-sessions-events.md)
         * [Création de cursus](admin/cursus/create-cursus.md)
-    * [Se connecter via les réseaux sociaux](admin/oauth/oauth.md)
+    * [Se connecter via les réseaux sociaux](admin/ouath/ouath.md)
 
