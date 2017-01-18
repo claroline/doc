@@ -89,5 +89,5 @@
             * [Organisation de séance](admin/cursus/admin-sessions-events.md)
         * [Création de cursus](admin/cursus/create-cursus.md)
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
-* [Ce qu'il reste à écrire](remaing-articles/remaining-articles.md)
+* [Ce qu'il reste à écrire](remaining-articles/remaining-articles.md)
 
