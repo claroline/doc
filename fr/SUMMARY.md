@@ -24,6 +24,7 @@
       * [Modification du mot de passe](tools/edit-password.md)
       * [Modifier votre profil utilisateur](tools/edit-profile.md)
       * [Modifier l'URL de votre profil public](tools/edit-url.md)
+    * [Les outils](tools/tools.md)
 * [Les espaces d'activités](workspaces/wksp.md)
     * [Le concept des espaces d'activités](workspaces/workspaces.md)
     * [Accéder à un espace d'activités](workspaces/access-workspace.md)
