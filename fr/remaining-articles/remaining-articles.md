@@ -35,12 +35,12 @@ OK.
 ### Chapitre 3 : Interface Claroline Connect
 
 ---
-Etablissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours. 
 
 ### Chapitre 4 : Le bureau
 
 ---
-Etablissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours. 
 
 ### Chapitre 5 : Les barres d'outils
 
@@ -53,25 +53,25 @@ Etablissement de la liste d'articles en cours.
       * [Présences](tools/attendance.md)
       * [Mes badges](tools/my_badges.md)
 
-### Chapitre 6 : LeS espaces d'activités
+### Chapitre 6 : Les espaces d'activités
 
 ---
-Etablissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours. 
 
 ### Chapitre 7 : Le gestionnaire de ressources
 
 ---
-Etablissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours. 
 
 ### Chapitre 8 : L'administration
 
 ---
-Etablissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours. 
 
 À ajouter à l'existant:
 
-* ** Doc d'installation !**
-
-* Configuration des connexions via les **réseaux sociaux** (voir doc de Panos sur GitHub).
+    * [Administration](admin/admin.md)
+       * [Installation](admin/install/install.md)
+       * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
 
 
