@@ -1,8 +1,8 @@
 ## OAuth (Connexion via les réseaux sociaux)
 ---
 
+Le plugin OUath permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
 
-Provides a plugin for Claroline Connect platform that ennables users to connect through social login (facebook, twitter, google, linkedin, windows live, office 365)
 Plugin Activation
 
 Make sure the Oauth plugin is activated. In Administration -> Parameters -> Plugins make sure the IcapOAuthBundle plugin is checked.

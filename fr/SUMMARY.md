@@ -89,5 +89,4 @@
             * [Organisation de séance](admin/cursus/admin-sessions-events.md)
         * [Création de cursus](admin/cursus/create-cursus.md)
 * [Ouath](ouath.md)
-* [Ouath](ouath.md)
 
