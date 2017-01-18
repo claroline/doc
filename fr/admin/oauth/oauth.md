@@ -6,6 +6,7 @@ Le plugin OAuth permet aux utilisateurs de se connecter à une plateforme Clarol
 Plugin Activation
 
 Make sure the Oauth plugin is activated. In Administration -> Parameters -> Plugins make sure the IcapOAuthBundle plugin is checked.
+
 Configuration
 
 In order to enable 3rd party connection (social login) using the OAuth service you will need to generate a pair of App key + App Secret for every provider available (for the moment facebook, twitter, google, linkedin, windows live, office 365)
