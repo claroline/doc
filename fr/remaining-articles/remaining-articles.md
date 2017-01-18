@@ -24,7 +24,7 @@ OK, sauf si vous voyez quelque chose à changer dans le texte.
 ---
 À ajouter à l'existant:
 
-a. Accès aux espaces publics pour les anonymes depuis la page d'accueil.
+    * [Accès aux espaces publics pour les anonymes](homepage/unknown-connexion.md)
 
 b. Exemple de création de page d'accueil et en afficher le résultat.
 
