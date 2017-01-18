@@ -28,7 +28,7 @@ OK, sauf si vous voyez quelque chose à changer dans le texte.
 
 b. Exemple de création de page d'accueil et en afficher le résultat.
 
-    * [Se connecter à ClaCo ou via les réseaux sociaux](homepage/social-connexion.md)
+    * [Se connecter à ClaCo via les réseaux sociaux](homepage/social-connexion.md)
 
 
 
@@ -49,7 +49,7 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
       * [L'agenda](tools/agenda.md)
       * [L'agenda des réservations](tools/agenda_reservation.md)
       * [L'outil de support](tools/support_tool.md)
-      * [Ma banque de question](tools/bank_questions.md)
+      * [Ma banque de questions](tools/bank_questions.md)
       * [Présences](tools/attendance.md)
       * [Mes badges](tools/my_badges.md)
 
