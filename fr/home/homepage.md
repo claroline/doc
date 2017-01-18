@@ -1,29 +1,22 @@
-# La page d'accueil
+## La page d'accueil
 
 ---
 
-La page d'accueil des espaces d'activités de la plateforme Claroline Connect est composée de deux barres d'outils:
+Votre plateforme Claroline Connect peut diffuser des informations à la manière d'un site internet classique. Pour éditer du contenu (menus, articles) et le mettre en page, vous devez être **administrateur** ou **gestionnaire d'accueil** et cliquer sur l'icône de Claroline Connect dans la barre de menu supérieure.
 
-* la barre d'outils du bandeau supérieur
-* la barre d'outils du menu de gauche
+Vous accédez alors à la page d'**administration du contenu**.
 
-![](images/fig1.png)
+La page d'accueil de votre plateforme apparaît en **mode édition**.
 
-<p style="text-align: center; color: blue">Figure 1 - Les barres d'outils de Claroline Connect.</p>
+Vous pouvez la modifier et ajouter des articles.
 
-La barre d'outils du bandeau supérieur permet l'accès aux principaux outils, ressources et espaces d'activités de la plateforme.
-Elle est identique, quelle que soit la page sur laquelle vous naviguez.
+![](images/fig149.png)
 
-![](images/fig2.png)
+<p style="text-align: center; color: blue">Fig. 1 - Page d'accueil - Administration du contenu de la page d'accueil.</p>
 
-<p style="text-align: center; color: blue">Figure 2 - Barre d'outils: bandeau supérieur</p>
+La barre des outils à gauche permet :
 
-Cette barre peut être modifiée et personnalisée par l'utilisateur. (Voir "[Outils du bureau](../bureau/personnaliser_votre_bureau.md)".)
+* de revenir à cette page d'accueil;
+* de gérer les menus;
+* de créer différentes pages qui peuvent contenir un ou plusieurs articles et/ou menus.
 
-La barre d'outils du menu de gauche permet l'**accès aux outils et ressources** de l'espace d'activités concerné. Elle varie selon l'espace d'activités et selon que l'utilisateur soit gestionnaire ou pas de l'espace d'activités.
-Le menu de gauche montre les outils dont dispose le **gestionnaire** d'un espace d'activités.
-Le menu de droite montre un exemple de menu dont dispose un simple **utilisateur** d'un espace d'activités.
-
-![](images/fig3.png)
-
-<p style="text-align: center; color: blue">Figure 3 - Comparaison des menus de gauche des pages d'accueil des espaces d'activités.</p>

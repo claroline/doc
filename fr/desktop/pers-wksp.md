@@ -1,4 +1,4 @@
-## Votre espace personnel
+## Votre espace d'activités personnel
 
 ---
 
