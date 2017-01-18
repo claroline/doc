@@ -13,9 +13,6 @@ Grand merci déjà pour votre collaboration!
 Ci-dessous, vous trouverez la liste des articles à rédiger.
 
 
-** Doc d'installation !**
-
-
 ### Chapitre 1 : Introduction
 
 ---
@@ -67,6 +64,8 @@ Etablissement de la liste d'articles en cours.
 
 À ajouter à l'existant:
 
-* Configuration des connexions via les réseaux sociaux (voir doc de Panos sur GitHub).
+* ** Doc d'installation !**
+
+* Configuration des connexions via les **réseaux sociaux** (voir doc de Panos sur GitHub).
 
 
