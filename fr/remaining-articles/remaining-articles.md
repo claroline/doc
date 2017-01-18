@@ -12,6 +12,10 @@ Grand merci déjà pour votre collaboration!
 
 Ci-dessous, vous trouverez la liste des articles à rédiger.
 
+
+** Doc d'installation !**
+
+
 ### Chapitre 1 : Introduction
 
 ---
