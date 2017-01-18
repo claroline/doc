@@ -45,7 +45,13 @@ Etablissement de la liste d'articles en cours.
 ### Chapitre 5 : Les barres d'outils
 
 ---
-Etablissement de la liste d'articles en cours. 
+    * [Les outils](tools/tools.md)
+      * [L'agenda](tools/agenda.md)
+      * [L'agenda des réservations](tools/agenda_reservation.md)
+      * [L'outil de support](tools/support_tool.md)
+      * [Ma banque de question](tools/bank_questions.md)
+      * [Présences](tools/attendance.md)
+      * [Mes badges](tools/my_badges.md)
 
 ### Chapitre 6 : LeS espaces d'activités
 
