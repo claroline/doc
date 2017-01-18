@@ -1,7 +1,7 @@
-## OAuth (Connexion via les réseaux sociaux)
+## Configurer les connexions via les réseaux sociaux
 ---
 
-Le plugin OUath permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
+Le plugin OAuth permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
 
 Plugin Activation
 
