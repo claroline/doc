@@ -45,6 +45,9 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ### Chapitre 5 : Les barres d'outils
 
 ---
+
+A ajouter à l'existant :
+
     * [Les outils](tools/tools.md)
       * [L'agenda](tools/agenda.md)
       * [L'agenda des réservations](tools/agenda_reservation.md)
@@ -61,7 +64,11 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ### Chapitre 7 : Le gestionnaire de ressources
 
 ---
-Établissement de la liste d'articles en cours.
+
+A ajouter à l'existant dans les différents types de ressources:
+
+    * [Annonces](resources/annoucement/annoucement.md)
+    * [Blog](resources/blog/blog.md
 
 ### Chapitre 8 : L'administration
 
