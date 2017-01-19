@@ -13,21 +13,22 @@ Pour permettre la connexion par un tiers (réseaux sociaux) en utilisant le serv
 
 Pour savoir comment générer les App pour chaque fournisseur et récupérer les clef et secret, cliquez sur les liens suivants:
 
-    [Facebook](facebook.md "Connexion via Facebook")
+[Facebook](facebook.md "Connexion via Facebook")
+
     Twitter
     Google
     LinkedIn
     Windows Live
     Office 365
 
-Once you've created your App and got your keys, it's time to enable login to your Claroline platform.
+Une fois que vous avez créé votre App et obtenus vos clefs, vous pouvez permttre la connexion à votre plateforme Claroline via un fournisseur tiers.
 
-To enable your social login, let's say facebook login for example:
+Pour permettre une connexion via réseau social, par exemple Facebook:
 
-    Head over to Administration -> Platform parameters
-    Click on Oauth option
-    Choose the provider you wish to enable/configure (e.g. facebook)
-    Fill in the form with your application id (App key) and your secret (App secret), check activate and then save
+* Aller sur Administration -> Paramètres de la plateforme
+* Cliquer sur l'option OAuth
+* Choisissez le fournisseur que vous voulez configurer (par exemple Facebook)
+* Remplissez le formulaire avec votre identifiant (clef de l'App) et votre secret (secret de l'App), sélectionnez **Activer** et **Sauvegarder**.
 
 NB: If available you can check the force re-authentication option to ask from users to verify their identity every time they connect through this provider
 
