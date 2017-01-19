@@ -94,4 +94,3 @@
             * [Exemple de structure pour une société](admin/cursus/example-business.md)* [Exemple de structure pour un centre de formations](admin/cursus/example-formations.md)
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
 * [Ce qu'il reste à écrire](remaining-articles/remaining-articles.md)
-
