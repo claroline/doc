@@ -30,11 +30,11 @@ Pour permettre une connexion via réseau social, par exemple Facebook:
 * Choisissez le fournisseur que vous voulez configurer (par exemple Facebook)
 * Remplissez le formulaire avec votre identifiant (clef de l'App) et votre secret (secret de l'App), sélectionnez **Activer** et **Sauvegarder**.
 
-NB: If available you can check the force re-authentication option to ask from users to verify their identity every time they connect through this provider
+NB: Si disponible, vous pouvez sélectionner la réauthentification de force pour demander aux utilisateurs de vérifier leur identité chaque fois qu'ils se connectent via ce fournisseur.
 
-Your social login is now enabled. You can test it on your login page.
-ATTENTION! You need to have administration priviledges in order to set any platform parameters
+Votre connexion via les réseaux sociaux est à présent activée. Vous pouvez la tester sur votre par de connexion.
+ATTENTION! Vous devez posséder les droits administrateur pour configurer les paramètres de la plateforme.
 
-If your App configuration is correct then you should be able to connect using the external login. If you encounter any issues please verify your configuration both in the App and in the platform.
+Si la configuration de votre App est correcte, vous devriez pouvoir vous connecter en utilisant la connexion tierce. Si ce n'est pas le cas, vérifiez la configuration de votre App et de la plateforme.
 
-If you are still having difficulty connecting through your App do not hesitate to contact us.
+Si vous avez encore des difficultés, n'hésitez pas à nous contacter.
