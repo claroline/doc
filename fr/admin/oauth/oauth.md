@@ -3,17 +3,17 @@
 
 Le plugin OAuth permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
 
-Plugin Activation
+### Activation du plugin
 
-Make sure the Oauth plugin is activated. In Administration -> Parameters -> Plugins make sure the IcapOAuthBundle plugin is checked.
+Assurez-vous que le plugin OAuth est activaté. Dans Administration -> Parameters -> Plugins assurez-vous que IcapOAuthBundle est sélectionné.
 
-Configuration
+### Configuration
 
-In order to enable 3rd party connection (social login) using the OAuth service you will need to generate a pair of App key + App Secret for every provider available (for the moment facebook, twitter, google, linkedin, windows live, office 365)
+Pour permettre la connexion par un tiers (réseaux sociaux) en utilisant le service OAuth , vous devez générer une cléf d'App et un secret d'App pour chaque fournisseur disponible. Pour l'instant, le service fonctionne avec Faccebook, Twitter, Google+, LinkedIn, Windows Live et Office 365.
 
-Click on the following links to learn how to configure your App for every provider and eventually retrieve your App key & secret
+Pour savoir comment générer les App pour chaque fournisseur et récupérer les clef et secret, cliquez sur les liens suivants:
 
-    Facebook
+    [Facebook](facebook.md "Connexion via Facebook")
     Twitter
     Google
     LinkedIn
