@@ -13,7 +13,7 @@ Pour permettre la connexion par un tiers (réseaux sociaux) en utilisant le serv
 
 Pour savoir comment générer les App pour chaque fournisseur et récupérer les clef et secret, cliquez sur les liens suivants:
 
-[Facebook](/facebook.md)
+[Facebook](facebook.md)
 
 [Twitter](twitter.md "Connexion via Twitter")
 
