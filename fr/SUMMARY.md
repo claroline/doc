@@ -89,7 +89,7 @@
             * [Création de formations](admin/cursus/create-cursus.md)
             * [Création de sessions de formation](admin/cursus/create-sessions.md)
             * [Création de séances](admin/cursus/admin-sessions-events.md)
-     * [Exemple de structures](admin/cursus/examples.md)   
+        * [Exemple de structures](admin/cursus/examples.md)   
             * [Exemple de structure pour une école](admin/cursus/example-school.md)
             * [Exemple de structure pour une société](admin/cursus/example-business.md)* [Exemple de structure pour un centre de formations](admin/cursus/example-formations.md)
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
