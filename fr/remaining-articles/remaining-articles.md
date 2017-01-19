@@ -35,12 +35,12 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ### Chapitre 3 : Interface Claroline Connect
 
 ---
-Établissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours.
 
 ### Chapitre 4 : Le bureau
 
 ---
-Établissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours.
 
 ### Chapitre 5 : Les barres d'outils
 
@@ -61,7 +61,7 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ### Chapitre 7 : Le gestionnaire de ressources
 
 ---
-Établissement de la liste d'articles en cours. 
+Établissement de la liste d'articles en cours.
 
 ### Chapitre 8 : L'administration
 
