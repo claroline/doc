@@ -1,4 +1,4 @@
-[](/facebook.md)## Configurer les connexions via les réseaux sociaux
+## Configurer les connexions via les réseaux sociaux
 ---
 
 Le plugin OAuth permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
@@ -13,7 +13,7 @@ Pour permettre la connexion par un tiers (réseaux sociaux) en utilisant le serv
 
 Pour savoir comment générer les App pour chaque fournisseur et récupérer les clef et secret, cliquez sur les liens suivants:
 
-[Facebook](facebook.md "Connexion via Facebook")
+[Facebook](/facebook.md)
 
 [Twitter](twitter.md "Connexion via Twitter")
 
