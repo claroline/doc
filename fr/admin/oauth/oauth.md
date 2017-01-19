@@ -15,11 +15,16 @@ Pour savoir comment générer les App pour chaque fournisseur et récupérer les
 
 [Facebook](facebook.md "Connexion via Facebook")
 
-    Twitter
-    Google
-    LinkedIn
-    Windows Live
-    Office 365
+[Twitter](twitter.md "Connexion via Twitter")
+
+[Google+](google.md "Connexion via Google+")
+
+[LinkedIn](linkedin.md "Connexion via LinkedIn")
+
+[Windows Live](windows.md "Connexion via Windows Live")
+
+[Office 365](office.md "Connexion via Office 365")
+
 
 Une fois que vous avez créé votre App et obtenus vos clefs, vous pouvez permttre la connexion à votre plateforme Claroline via un fournisseur tiers.
 
