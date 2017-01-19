@@ -93,6 +93,6 @@
             * [Exemple de structure pour une école](admin/cursus/example-school.md)
             * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
-        * [Facebook](fr/admin/oauth/facebook.md)
+        * [Facebook](admin/oauth/facebook.md)
 * [Ce qu'il reste à écrire](remaining-articles/remaining-articles.md)
 
