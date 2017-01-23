@@ -94,7 +94,7 @@
             * [Exemple de structure pour une société](admin/cursus/example-business.md)
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
         * [Facebook](admin/oauth/facebook.md)
-* [Installation](admin/installation.md)
+* [Installation](fr/install/installation.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
     * [Ce qu'il reste à écrire](doc/remaining-articles.md)
     * [Procédures à suivre](doc/process.md)
