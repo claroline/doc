@@ -42,6 +42,8 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ---
 Établissement de la liste d'articles en cours.
 
+Pas grand-chose à ajouter vu qu'il faut le configurer soi-même. Fait-on simplement un lien vers la création des widgets du bureau ?
+
 ### Chapitre 5 : Les barres d'outils
 
 ---
