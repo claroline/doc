@@ -5,7 +5,7 @@
     * [Créer des pages](home/create-pages.md)
     * [Créer des menus](home/create-menus.md)
     * [Créer et paramétrer des articles](home/create-articles.md)
-    * [Inscription à une plateforme](home/platform-subscription.md)
+    * [Inscription à une plateforme](platform-subscription.md)
     * [Connexion à une plateforme](home/platform-connexion.md)
     * [Votre compte](home/your-account.md)
     * [Mot de passe oublié](home/forgotten-password.md)
