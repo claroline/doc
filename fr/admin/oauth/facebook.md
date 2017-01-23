@@ -23,6 +23,8 @@ Allez dans l'onglet **Advanced** et sélectionnez **Client OAuth Settings**. Cho
 
 _Exemple: http://3l.claroline.com/login/check-facebook_
 
+![](/fr/admin/oauth/images/fb_app_enable_browser_add_redirect.jpg)
+
 Allez sur **App Review** et à la question _"Do you want to make this app and all its live features available to the general public?"_, répondez **Yes* de façon à publier votre App.
 
 Félicitations! Vous avez configuré votre App Facebook!
