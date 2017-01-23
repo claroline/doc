@@ -75,7 +75,7 @@
 * [L'administration](admin/administration.md)
     * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
     * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
-    * [Gestion des formations](admin/cursus/formations.md)
+    * [Gérer des formations](admin/cursus/formations.md)
         * [Widget "Catalogues des formations"](admin/cursus/widget-formationslisting.md)
             * [Configurer le Widget "Catalogues des formations"](admin/cursus/widget-formationlisting-config.md)
         * [Widget "Mon programme de formations"](admin/cursus/widget-myformations.md)
