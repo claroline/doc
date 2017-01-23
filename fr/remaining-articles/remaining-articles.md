@@ -68,8 +68,29 @@ A ajouter à l'existant :
 A ajouter à l'existant dans les différents types de ressources:
 
     * [Annonces](resources/annoucement/annoucement.md)
-    * [Blog](resources/blog/blog.md
-
+    * [Blog](resources/blog/blog.md)
+    * [Enregistreur audio] (resources/audiorecorder/audiorecorder.md)
+    * [Enregistreur vidéo] (resources/videorecorder/videorecorder.md)
+    * [Chat Room] (resources/chatroom/chatroom.md)
+    * [Evaluation] (resources/evaluation/evaluation.md)
+    * [Carte mémoire] (resources/flashcards/flashcards.md)
+    * [Forum] (resources/forum/forum.md)
+    * [Leçon] (resources/lessons/lessons.md)
+    * [Collectitiel] (resources/groupeware/groupeware.md)
+    * [Parcours] (resources/path/path.md)
+    * [Resultats] (resources/results/results.md)
+    * [Scorm 1.2 et Scorm 2004] (resources/Scorm/scorm.md)
+    * [Ressource Web] (resources/web_resource/results.md)
+    * [Site web] (resources/website/website.md)
+    * [Wiki] (resources/wikipage/wikipage.md)
+    * [Ecoute active enrichie] (resources/enriched_active_listening/enriched_active_listening.md)
+    * [Texte] (resources/basics/text.md)
+    * [Répertoire] (resources/basics/directory.md)
+    * [URL] (resources/basics/url.md)
+    * [Texte] (resources/basics/text.md)
+    * [Raccourcis] (resources/basics/shortcut.md)
+    
+    
 ### Chapitre 8 : L'administration
 
 ---
