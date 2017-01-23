@@ -30,7 +30,7 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 
     * [Se connecter à ClaCo via les réseaux sociaux](homepage/social-connexion.md)
 
-
+Attention changer certaines captures d'écran comme dans pages : platform-subscription.md
 
 ### Chapitre 3 : Interface Claroline Connect
 
