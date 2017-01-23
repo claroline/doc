@@ -1,4 +1,4 @@
-## Modification du mot de passe
+## Modifier votre mot de passe
 ---
 
 Pour modifier votre mot de passe, cliquez sur "Mon profil"

@@ -1,4 +1,4 @@
-# 2.3. Mot de passe oublié
+## Récupérer un mot de passe oublié
 
 ---
 
