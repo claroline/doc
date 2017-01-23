@@ -42,7 +42,7 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ---
 Établissement de la liste d'articles en cours.
 
-Pas grand-chose à ajouter vu qu'il faut le configurer soi-même. Fait-on simplement un lien vers la création des widgets du bureau ?
+D'après moi, il n'y a rien à ajouter à l'existant.
 
 ### Chapitre 5 : Les barres d'outils
 
