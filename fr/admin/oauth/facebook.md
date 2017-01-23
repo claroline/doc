@@ -17,10 +17,10 @@ Votre App est créée à présent! Copiez l'ID de l'App et le Secret de l'App du
 
 Configurez à présent votre App. Allez dans les **Paramètres", donnez un courriel valide dans l'onglet "Basic" et cliquez sur "Save".
 
-o to Settings and in the Basic tab provide a valid Contact Email and click on Save Changes Fill contact email Go to the Advanced tab and scroll down to Client OAuth Settings. Enable the option Embedded Browser OAuth Login and in the Valid OAuth redirect URIs et écrivez votre URL sous la forme suivante: _http://YOUR_DOMAIN_NAME/login/check-facebook_
+Allez dans l'onglet **Advanced** et sélectionnez **Client OAuth Settings**. Choisissez l'option **Embedded Browser OAuth Login** et pour le **Valid OAuth redirect URL**, écrivez votre URL sous la forme suivante: _http://YOUR_DOMAIN_NAME/login/check-facebook_
 
 _Exemple: http://3l.claroline.com/login/check-facebook_
 
-Last, got to App Review and set Do you want to make this app and all its live features available to the general public? option to Yes in order to publish your App Publish App
+Allez sur **App Review** et à la question _"Do you want to make this app and all its live features available to the general public?"_, répondez **Yes* de façon à publier votre App.
 
-Congratulations you have now registered and configured your Facebook App!
+Félicitations! Vous avez configuré votre App Facebook!
