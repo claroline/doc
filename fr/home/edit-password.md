@@ -1,4 +1,4 @@
-# 2.4. Modification du mot de passe
+## Modifier votre mot de passe
 ---
 
 
