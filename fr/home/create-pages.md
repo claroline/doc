@@ -33,7 +33,7 @@ En cliquant sur le titre de la page (ici, Claroline Connect), vous ouvrez cette 
 
 Si vous ne créez pas de nouvelle page, vous n'aurez qu'une page d'accueil \(home\) qui affichera les différents articles et menus contenant des liens externes.
 
-Pour ajouter une page contenant un ou plusieurs articles à l'un des menus, vous devez connaître son adresse (URL). Vous avez en effet remarqué que l'ajout d'entrée aux menus se faisait par la commande "Ajouter un lien". Mais où trouver l'adresse d'une page? Il vous suffit de cliquer sur le nom de la page depuis "Pages de contenu" (cf. image précédente). La page concernée s'affiche alors. Vous pouvez récupérer l'URL dans la barre d'adresse du navigateur. Mais il n'est pas utile de tout recopier lorsque vous ajoutez un lien au menu. Vous pouvez vous contenter de coller le texte après "type/" comme indiqué en gras ci-après:
+Pour ajouter une page contenant un ou plusieurs articles à l'un des menus, vous devez connaître son adresse (URL). Vous avez en effet remarqué que l'ajout d'entrée aux menus se faisait par la commande **Ajouter un lien**. Mais où trouver l'adresse d'une page? Il vous suffit de cliquer sur le nom de la page depuis "Pages de contenu" (cf. image précédente). La page concernée s'affiche alors. Vous pouvez récupérer l'URL dans la barre d'adresse du navigateur. Mais il n'est pas utile de tout recopier lorsque vous ajoutez un lien au menu. Vous pouvez vous contenter de coller le texte qui se trouve après "type/" comme indiqué en gras dans l'exemple qui suit:
 
 .../claroline-connect/web/app.php/type/**Claroline%20Connect**
 

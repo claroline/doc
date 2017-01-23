@@ -3,37 +3,43 @@
 
 Le plugin OAuth permet aux utilisateurs de se connecter à une plateforme Claroline Connect via les réseaux sociaux (Facebook, Twitter, Google+, LinkedIn, Windows Live et Office 365).
 
-Plugin Activation
+### Activation du plugin
 
-Make sure the Oauth plugin is activated. In Administration -> Parameters -> Plugins make sure the IcapOAuthBundle plugin is checked.
+Assurez-vous que le plugin OAuth est activaté. Dans Administration -> Parameters -> Plugins assurez-vous que IcapOAuthBundle est sélectionné.
 
-Configuration
+### Configuration
 
-In order to enable 3rd party connection (social login) using the OAuth service you will need to generate a pair of App key + App Secret for every provider available (for the moment facebook, twitter, google, linkedin, windows live, office 365)
+Pour permettre la connexion par un tiers (réseaux sociaux) en utilisant le service OAuth , vous devez générer une cléf d'App et un secret d'App pour chaque fournisseur disponible. Pour l'instant, le service fonctionne avec Faccebook, Twitter, Google+, LinkedIn, Windows Live et Office 365.
 
-Click on the following links to learn how to configure your App for every provider and eventually retrieve your App key & secret
+Pour savoir comment générer les App pour chaque fournisseur et récupérer les clef et secret, cliquez sur les liens suivants:
 
-    Facebook
-    Twitter
-    Google
-    LinkedIn
-    Windows Live
-    Office 365
+[Facebook](facebook.md)
 
-Once you've created your App and got your keys, it's time to enable login to your Claroline platform.
+[Twitter](twitter.md "Connexion via Twitter")
 
-To enable your social login, let's say facebook login for example:
+[Google+](google.md "Connexion via Google+")
 
-    Head over to Administration -> Platform parameters
-    Click on Oauth option
-    Choose the provider you wish to enable/configure (e.g. facebook)
-    Fill in the form with your application id (App key) and your secret (App secret), check activate and then save
+[LinkedIn](linkedin.md "Connexion via LinkedIn")
 
-NB: If available you can check the force re-authentication option to ask from users to verify their identity every time they connect through this provider
+[Windows Live](windows.md "Connexion via Windows Live")
 
-Your social login is now enabled. You can test it on your login page.
-ATTENTION! You need to have administration priviledges in order to set any platform parameters
+[Office 365](office.md "Connexion via Office 365")
 
-If your App configuration is correct then you should be able to connect using the external login. If you encounter any issues please verify your configuration both in the App and in the platform.
 
-If you are still having difficulty connecting through your App do not hesitate to contact us.
+Une fois que vous avez créé votre App et obtenus vos clefs, vous pouvez permttre la connexion à votre plateforme Claroline via un fournisseur tiers.
+
+Pour permettre une connexion via réseau social, par exemple Facebook:
+
+* Aller sur Administration -> Paramètres de la plateforme
+* Cliquer sur l'option OAuth
+* Choisissez le fournisseur que vous voulez configurer (par exemple Facebook)
+* Remplissez le formulaire avec votre identifiant (clef de l'App) et votre secret (secret de l'App), sélectionnez **Activer** et **Sauvegarder**.
+
+NB: Si disponible, vous pouvez sélectionner la réauthentification de force pour demander aux utilisateurs de vérifier leur identité chaque fois qu'ils se connectent via ce fournisseur.
+
+Votre connexion via les réseaux sociaux est à présent activée. Vous pouvez la tester sur votre par de connexion.
+ATTENTION! Vous devez posséder les droits administrateur pour configurer les paramètres de la plateforme.
+
+Si la configuration de votre App est correcte, vous devriez pouvoir vous connecter en utilisant la connexion tierce. Si ce n'est pas le cas, vérifiez la configuration de votre App et de la plateforme.
+
+Si vous avez encore des difficultés, n'hésitez pas à nous contacter.
