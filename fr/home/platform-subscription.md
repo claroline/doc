@@ -1,4 +1,4 @@
-## 2.1. Inscription à une plateforme
+## S'inscrire à une plateforme
 
 ---
 

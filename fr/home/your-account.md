@@ -1,4 +1,4 @@
-## Votre compte
+## Gérer votre compte
 ---
 
 Dès votre première connexion, personnalisez votre mot de passe en veillant aux règles habituelles de sécurité (mot de passe suffisamment long avec des caractères alphanumériques).
