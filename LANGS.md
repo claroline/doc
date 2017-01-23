@@ -1,7 +1,7 @@
 # Languages
 
 * [Français](fr/)
-* [Anglais](en/)
 
+* [English](en/)
 
 
