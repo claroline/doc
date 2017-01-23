@@ -21,17 +21,11 @@
     * [Personnaliser votre bureau](desktop/customize-desktop.md)
 * [Les barres d'outils](tools/toolbars.md)
     * [Accéder à votre profil utilisateur](tools/access-user-profile.md)
-<<<<<<< HEAD
       * [Modification du mot de passe](tools/edit-password.md)
       * [Modifier votre profil utilisateur](tools/edit-profile.md)
       * [Modifier l'URL de votre profil public](tools/edit-url.md)
     * [Les outils](tools/tools.md)
-      * [Ma banque de question](tools/bank_questions.md)
-=======
-        * [Modification du mot de passe](tools/edit-password.md)
-        * [Modifier votre profil utilisateur](tools/edit-profile.md)
-        * [Modifier l'URL de votre profil public](tools/edit-url.md)
->>>>>>> 883d80513245ec1b608719db01f614747966b312
+      * [Ma banque de questions](tools/bank_questions.md)
 * [Les espaces d'activités](workspaces/wksp.md)
     * [Le concept des espaces d'activités](workspaces/workspaces.md)
     * [Accéder à un espace d'activités](workspaces/access-workspace.md)
