@@ -20,7 +20,6 @@
 * [Le bureau](desktop/desktop.md)
     * [Personnaliser votre bureau](desktop/customize-desktop.md)
 * [Les barres d'outils](tools/toolbars.md)
-
     * [Accéder à votre profil utilisateur](tools/access-user-profile.md)
         * [Modification du mot de passe](tools/edit-password.md)
         * [Modifier votre profil utilisateur](tools/edit-profile.md)
