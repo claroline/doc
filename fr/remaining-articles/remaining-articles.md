@@ -59,6 +59,9 @@ A ajouter à l'existant :
       * [Ma banque de questions](tools/bank_questions.md)
       * [Présences](tools/attendance.md)
       * [Mes badges](tools/my_badges.md)
+      * [Mes contacts](tools/mycontacts.md)
+      * [Portfolio](tools/portfolio.md)
+      * [Messagerie](tools/mailbox.md)
 
 ### Chapitre 6 : Les espaces d'activités
 
@@ -73,16 +76,16 @@ A ajouter à l'existant dans les différents types de ressources:
 
     * [Annonces](resources/annoucement/annoucement.md)
     * [Blog](resources/blog/blog.md)
-    * [Enregistreur audio] (resources/audiorecorder/audiorecorder.md)
-    * [Enregistreur vidéo] (resources/videorecorder/videorecorder.md)
+    * [Enregistreur audio] (resources/recorder/audiorecorder.md)
+    * [Enregistreur vidéo] (resources/recorder/videorecorder.md)
     * [Chat Room] (resources/chatroom/chatroom.md)
     * [Evaluation] (resources/evaluation/evaluation.md)
     * [Carte mémoire] (resources/flashcards/flashcards.md)
     * [Forum] (resources/forum/forum.md)
-    * [Leçon] (resources/lessons/lessons.md)
-    * [Collectitiel] (resources/groupeware/groupeware.md)
+    * [Cours] (resources/basics/lessons.md)
+    * [Collecticiel] (resources/groupeware/groupeware.md)
     * [Parcours] (resources/path/path.md)
-    * [Resultats] (resources/results/results.md)
+    * [Resultats] (resources/basics/results.md)
     * [Scorm 1.2 et Scorm 2004] (resources/Scorm/scorm.md)
     * [Ressource Web] (resources/web_resource/results.md)
     * [Site web] (resources/website/website.md)
