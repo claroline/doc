@@ -5,21 +5,21 @@ Connectez-vous à Facebook
 
 Aller à Facebook Developers Apps. Vous avez besoin d'un compte Facebook Développeur pour démarrer. Si vous n'en avez pas, mettez votre compte Facebook personnel à jour vers un compte Facebook Développeur.
 
-Click the Create a New App button Create App using button or via the dropdown menu My Apps choose Add a new App Create App using dropdown menu
+Cliquez sur le bouton ou utilisez le menu déroulant et choisissez **Create a New App**.
 
-When asked to choose a platform, select Basic setup Choose basic setup
+Choisissez **Basic setup** lorsqu'on vous demande de choisir une plateforme.
 
-Provide a Display Name for your app, choose Apps for pages Category, and click Create App ID App display name and category
+Donnez un nom à votre app, choisissez Apps comme **Catégorie** et cliquez pour créer un ID d'App.
 
 Complétez le **Security Check**.
 
-Votre App est créée à présent! Copy the App ID and App Secret from the Dashboard page You can paste them to Claroline: Administration -> Platform Settings -> Oauth -> Facebook App ID and Secret
+Votre App est créée à présent! Copiez l'ID de l'App et le Secret de l'App du tableau de bord et copiez-les dans Claroline: Administration -> Paramètres de la platforme -> Oauth -> Facebook. Remplissez les champs **ID de l'application" et "Secret de l'application".
 
-Now you need to configure your app. Go to Settings and in the Basic tab provide a valid Contact Email and click on Save Changes Fill contact email Go to the Advanced tab and scroll down to Client OAuth Settings. Enable the option Embedded Browser OAuth Login and in the Valid OAuth redirect URIs enter the following URL:
+Configurez à présent votre App. Allez dans les **Paramètres", donnez un courriel valide dans l'onglet "Basic" et cliquez sur "Save".
 
-http://YOUR_DOMAIN_NAME/login/check-facebook
+o to Settings and in the Basic tab provide a valid Contact Email and click on Save Changes Fill contact email Go to the Advanced tab and scroll down to Client OAuth Settings. Enable the option Embedded Browser OAuth Login and in the Valid OAuth redirect URIs et écrivez votre URL sous la forme suivante: _http://YOUR_DOMAIN_NAME/login/check-facebook_
 
-Exemple: http://myclaroline.univ-lyon.fr/login/check-facebook
+_Exemple: http://3l.claroline.com/login/check-facebook_
 
 Last, got to App Review and set Do you want to make this app and all its live features available to the general public? option to Yes in order to publish your App Publish App
 
