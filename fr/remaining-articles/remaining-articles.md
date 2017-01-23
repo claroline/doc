@@ -35,7 +35,9 @@ b. Exemple de création de page d'accueil et en afficher le résultat.
 ### Chapitre 3 : Interface Claroline Connect
 
 ---
-Établissement de la liste d'articles en cours.
+Tout ce qui est transversal:
+
+Recherche dans un tableau
 
 ### Chapitre 4 : Le bureau
 
