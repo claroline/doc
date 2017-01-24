@@ -1,4 +1,4 @@
-## Widget "Mon programme de formation"
+### Widget "Mon programme de formation"
 
 ---
 

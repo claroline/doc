@@ -1,4 +1,4 @@
-## Configurer le Widget "Mon programme"
+#### Configurer le Widget "Mon programme"
 
 ---
 

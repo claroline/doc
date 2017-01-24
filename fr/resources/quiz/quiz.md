@@ -1,4 +1,4 @@
-## Le questionnaire
+### Le questionnaire
 ---
 ![](https://github.com/claroline/doc/blob/master/fr/resources/images/quiz_fig1.png)
 
