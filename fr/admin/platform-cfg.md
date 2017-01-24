@@ -1,4 +1,4 @@
-## Paramétrer la plateforme
+## Accéder aux paramètres de la plateforme
 
 ---
 

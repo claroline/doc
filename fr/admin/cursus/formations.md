@@ -1,4 +1,4 @@
-## Gestion des formations
+## Gérer des formations
 
 ---
 
