@@ -10,10 +10,10 @@
     * [Gérer votre compte](home/your-account.md)
     * [Récupérer un mot de passe oublié](home/forgotten-password.md)
     * [Changer la langue de la plateforme](change-language.md)
-* [Votre espace personnel](desktop/pers-wksp.md)
+* [Votre espace d'activités personnel](desktop/pers-wksp.md)
     * [La page d'accueil de votre espace personnel](desktop/pers-wksp-homepage.md)
-    * [Créer un onglet sur la page d'accueil](desktop/home-tab.md)
-    * [Créer un widget sur la page d'accueil](desktop/create-widget.md)
+    * [Gérer les onglets de la page d'accueil](desktop/home-tab.md)
+    * [Gérer les widgets de la page d'accueil](desktop/create-widget.md)
     * [Paramétrer votre espace personnel](desktop/pers-wksp-parameters.md)
     * [Organiser vos ressources dans votre espace personnel](desktop/organize-resources.md)
 * [Interface Claroline Connect](interface/cc-interface.md)
@@ -101,3 +101,4 @@
     * [Ce qu'il reste à écrire](doc/remaining-articles.md)
     * [Procédures à suivre](doc/process.md)
 * [Installer Claroline Connect](fr/install/installation.md)
+

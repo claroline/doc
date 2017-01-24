@@ -1,4 +1,4 @@
-## Créer un widget sur la page d'accueil
+## Gérer les widgets de la page d'accueil
 
 ---
 

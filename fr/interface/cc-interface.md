@@ -8,7 +8,7 @@ Claroline Connect est fondée sur **trois piliers**:<br/>
 
 <img style="max-width: 100%" src="http://www.claroline.net/uploads/custom/images/1522.jpeg" style="text-align: center" alt="Se repérer" width="40" height="40">
 
-### Se repérer sur Claroline Connect
+### Se repérer dans Claroline Connect
 
 La plateforme Claroline Connect met à la disposition de l'utilisateur:
 

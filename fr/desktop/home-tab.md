@@ -1,7 +1,6 @@
-## Créer un onglet sur la page d'accueil
+## Gérer les onglets de la page d'accueil
 
 ---
-
 
 ### Créer un onglet
 
@@ -29,6 +28,7 @@ Il faut faire attention aux instructions suivantes:
 
 
 ### Modifier un onglet
+
 Pour modifier un onglet, il suffit de cliquer sur la petite roue crantée ![1940.png](http://www.claroline.net/uploads/custom/images/1940.png).
 
 ![1936.png](http://www.claroline.net/uploads/custom/images/1936.png)
@@ -40,6 +40,7 @@ Cela permet de modifier les informations (dont le nom de l'onglet).
 <p style ="text-align: center; color: blue">Figure 21 - Editer un onglet</p>
 
 ### Epingler un onglet au bureau
+
 L'icône ![1937.png](http://www.claroline.net/uploads/custom/images/1937.png) permet d'épingler l'onglet d'un espace d'activités au bureau personnel.
 
 1- Cliquez sur l'épingle,
@@ -51,6 +52,7 @@ L'icône ![1937.png](http://www.claroline.net/uploads/custom/images/1937.png) pe
 <p style ="text-align: center; color: blue">Figure 22 - Epingler un onglet au bureau</p>
 
 ### Supprimer un onglet
+
 Pour supprimer un onglet, il suffit de cliquer sur **la croix** ![1941.png](http://www.claroline.net/uploads/custom/images/1941.png)
 
 ![](images/fig23.png)
