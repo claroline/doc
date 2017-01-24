@@ -57,7 +57,7 @@
         * [Gérer et déposer des documents](resources/manage-documents.md)
         * [Le formulaire](resources/clacoForm/form.md)
             * [Ajouter une fiche-réponse](resources/clacoForm/create-files.md)
-            * [Gérer des fiches-réponses](resources/clacoForm/manage-files.md)
+            * [Gérer les fiches-réponses](resources/clacoForm/manage-files.md)
             * [Mettre un formulaire en place](resources/clacoForm/form-cfg.md)
                 * [Créer des champs](resources/clacoForm/form-fild.md)
                 * [Créer un template](resources/clacoForm/form-templates.md)

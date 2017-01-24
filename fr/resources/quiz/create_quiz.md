@@ -1,4 +1,4 @@
-### Création d'un questionnaire
+### Créer un questionnaire
 
 ---
 

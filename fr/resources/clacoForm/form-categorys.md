@@ -1,4 +1,4 @@
-## Catégories
+##### Catégories
 ---
 
 ![](images/clacoform-fig14.png)

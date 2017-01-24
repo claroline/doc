@@ -1,4 +1,4 @@
-### Mise en place d'un formulaire
+### Mettre un formulaire en place
 
 ---
 

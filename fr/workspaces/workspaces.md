@@ -1,4 +1,4 @@
-# Le concept des espaces d'activités
+## Le concept des espaces d'activités
 
 ---
 La plateforme Claroline Connect propose la notion d'**espace d'activités**, plus souple et adaptée aux contextes actuels.

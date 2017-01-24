@@ -1,4 +1,4 @@
-## Configurations avancées
+#### Configurations avancées
 
 ---
 

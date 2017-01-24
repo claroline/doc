@@ -1,4 +1,4 @@
-# La page d'accueil de l'espace d'activités
+## La page d'accueil de l'espace d'activités
 
 ---
 

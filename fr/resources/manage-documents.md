@@ -1,4 +1,4 @@
-### La gestion et le dépôt de documents
+### Gérer et déposer des documents
 
 ---
 

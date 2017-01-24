@@ -1,5 +1,6 @@
 
-## Les barres d'outils
+# Les barres d'outils
+
 ---
 
 Les pages d'accueil des espaces d'activité de la plateforme Claroline Connect sont composées de deux barres d'outils:

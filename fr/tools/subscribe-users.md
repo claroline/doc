@@ -1,8 +1,8 @@
-#### Inscrire des utilisateurs
+### Inscrire des utilisateurs
 
 ---
 
-**a. Auto-inscription**
+#### Auto-inscription
 
 Les collaborateurs d'un espace d'activités peuvent s'inscrire aux équipes de manière autonome.
 Dans l'exemple ci-après, les **icônes vertes** indiquent que le collaborateur peut **s'inscrire de manière autonome** à l'équipe.
@@ -17,7 +17,7 @@ En revanche, dans l'exemple suivant, les **icônes rouges** indiquent que l'**in
 
 <p style="text-align: center; color: blue">Figure 111 - Inscription réservée au gestionnaire d'équipe.</p>
 
-**b. Inscription par le gestionnaire de l'espace d'activités**
+#### Inscription par le gestionnaire de l'espace d'activités
 
 Pour inscrire les utilisateurs dans une équipe, il y a 2 options:
 
