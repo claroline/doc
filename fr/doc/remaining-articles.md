@@ -51,7 +51,6 @@ D'après moi, il n'y a rien à ajouter à l'existant.
 
 ---
 
-<<<<<<< HEAD
 À ajouter dans le sous-chapitre "les outils"  :
 
 - Mes contacts
@@ -61,7 +60,8 @@ D'après moi, il n'y a rien à ajouter à l'existant.
 - L'outil de support
 - Présences
 - Mes badges
-=======
+
+
 A ajouter à l'existant :
 
     * [Les outils](tools/tools.md)
@@ -74,7 +74,7 @@ A ajouter à l'existant :
       * [Mes contacts](tools/mycontacts.md)
       * [Portfolio](tools/portfolio.md)
       * [Messagerie](tools/mailbox.md)
->>>>>>> 883d80513245ec1b608719db01f614747966b312
+
 
 ### Chapitre 6 : Les espaces d'activités
 
