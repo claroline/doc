@@ -24,11 +24,12 @@ OK, sauf si vous voyez quelque chose à changer dans le texte.
 ---
 À ajouter à l'existant:
 
-    * [Accès aux espaces publics pour les anonymes](homepage/unknown-connexion.md)
+    * [Accès aux espaces publics pour les anonymes](home/unknown-connexion.md)
 
 b. Exemple de création de page d'accueil et en afficher le résultat.
 
-    * [Se connecter à ClaCo via les réseaux sociaux](homepage/social-connexion.md)
+    * [Se connecter à ClaCo via les réseaux sociaux](home/social-connexion.md)
+    * [Changer la langue de la plateforme](home/change-language.md)
 
 Attention changer certaines captures d'écran comme dans pages : platform-subscription.md
 

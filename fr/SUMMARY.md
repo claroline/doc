@@ -9,6 +9,7 @@
     * [Se connecter à une plateforme](home/platform-connexion.md)
     * [Gérer votre compte](home/your-account.md)
     * [Récupérer un mot de passe oublié](home/forgotten-password.md)
+    * [Changer la langue de la plateforme](change-language.md)
 * [Votre espace personnel](desktop/pers-wksp.md)
     * [La page d'accueil de votre espace personnel](desktop/pers-wksp-homepage.md)
     * [Créer un onglet sur la page d'accueil](desktop/home-tab.md)
