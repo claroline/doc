@@ -89,7 +89,7 @@
             * [Inscription à des cursus](admin/cursus/cursus-inscriptions.md)
         * [Organiser des formations](admin/cursus/admin-formations.md)
             * [Créer un cursus](admin/cursus/create-cursus.md)
-            * [Créer des formations](admin/cursus/create-cursus.md)
+            * [Créer des formations](admin/cursus/create-trainings.md)
             * [Créer des sessions de formation](admin/cursus/create-sessions.md)
             * [Créer des séances](admin/cursus/admin-sessions-events.md)
         * [Exemple de structures](admin/cursus/examples.md)
@@ -100,5 +100,5 @@
 * [Participer à l'écriture de la documentation](doc/doc.md)
     * [Ce qu'il reste à écrire](doc/remaining-articles.md)
     * [Procédures à suivre](doc/process.md)
-* [Installer Claroline Connect](fr/install/installation.md)
+* [Installer Claroline Connect](install/installation.md)
 

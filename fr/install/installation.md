@@ -1,7 +1,7 @@
 ## Installation  ##
 ---
 
-Rejoignez-nous sur le chat à l'adresse [https://gitter.im/claroline/Claroline](https://gitter.im/claroline/Claroline) .
+Rejoignez-nous sur le chat à l'adresse [https://gitter.im/claroline/Claroline](https://gitter.im/claroline/Claroline).
 
 This repository provides the basic application structure of the Claroline platform. It doesn't contain the sources nor the third-party libraries required to make the application fully functional. Those sources have to be installed following one of the procedures described below.
 

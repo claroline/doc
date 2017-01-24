@@ -1,4 +1,4 @@
-## Enregistrer et configurer une App Facebook
+### Enregistrer et configurer une App Facebook
 ---
 
 <p style="color: red">Ajouter les captures d'écran !!!</p>
