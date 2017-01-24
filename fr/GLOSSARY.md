@@ -1,5 +1,7 @@
 # Glossary
+
 ---
+
 ## Espace d'activités
 
 Il faut comprendre l'**espace d'activités** comme une valise contenant:
