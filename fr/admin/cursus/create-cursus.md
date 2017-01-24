@@ -1,3 +1,3 @@
-##### Créer un cursus
+##### Créer des cursus
 ---
 En cours de rédaction.

@@ -88,7 +88,7 @@
             * [Inscription à des formations](admin/cursus/formations-inscriptions.md)
             * [Inscription à des cursus](admin/cursus/cursus-inscriptions.md)
         * [Organiser des formations](admin/cursus/admin-formations.md)
-            * [Créer un cursus](admin/cursus/create-cursus.md)
+            * [Créer des cursus](admin/cursus/create-cursus.md)
             * [Créer des formations](admin/cursus/create-trainings.md)
             * [Créer des sessions de formation](admin/cursus/create-sessions.md)
             * [Créer des séances](admin/cursus/admin-sessions-events.md)
