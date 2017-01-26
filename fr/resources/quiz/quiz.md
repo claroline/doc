@@ -1,6 +1,6 @@
 ### Le questionnaire
 ---
-![](https://github.com/claroline/doc/blob/master/fr/resources/images/quiz_fig1.png)
+![](https://github.com/claroline/doc/blob/master/fr/resources/quiz/images/quiz_fig1.png)
 
 <p style="text-align: center; color: blue">Quiz Fig.1 - Icône de la ressource Questionnaire</p>
 
