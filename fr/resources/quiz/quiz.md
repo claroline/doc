@@ -6,7 +6,7 @@
 
 Quiz Fig.1 - Icône de la ressource Questionnaire
 
-Le questionnaire est une ressource qui permet de créer des questions et de les organiser.
+Le questionnaire est une ressource qui permet de créer, organiser et lire des questions.
 Il peut à la fois servir à l'entraînement et à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
 
 Le questionnaire est constitué d'étapes et ce sont ces dernières qui contiennent les questions. 
