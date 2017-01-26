@@ -23,9 +23,18 @@ A côté des noms se trouve une série d'actions possibles.
 "L'oeil" permet de consulter rapidement la structure complète d'un cursus. 
 
 ![](images/cursus-fig30.png)
+
 "Le crayon avec la feuille" permet d'éditer les paramètres du cursus. 
 
 "La corbeille quant à elle permet de supprimer complètement le cursus.
+
+Au dessus de cette liste de cursus se trouve le menu principal.
+
+![](images/cursus-fig39.png)
+
+
+
+
 
 
 
