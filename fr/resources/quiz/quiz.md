@@ -2,7 +2,7 @@
 ---
 ![](https://github.com/claroline/doc/blob/master/fr/resources/quiz/images/quiz_fig1.png)
 
-<p style="text-align: center; color: blue">Quiz Fig.1 - Icône de la ressource Questionnaire</p>
+<p style="text-align:center;">Quiz Fig.1 - Icône de la ressource Questionnaire</p>
 
 Le questionnaire est une ressource qui permet de créer des questions et de les organiser.
 Il peut à la fois servir à l'entraînement et à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
