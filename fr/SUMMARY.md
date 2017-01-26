@@ -78,6 +78,7 @@
         * [Propriétés du questionnaire](resources/quiz/quiz_parameters_properties.md)
         * [Tirage des étapes](resources/quiz/quiz_parameters_step_picking.md)
         * [Passation](resources/quiz/quiz_parameters_signing.md)
+        * [Correction](resources/quiz/quiz_parameters_correction.md)
       * [Créer une question](resources/quiz/create_question.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
