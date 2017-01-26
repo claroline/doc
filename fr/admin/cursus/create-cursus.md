@@ -8,6 +8,6 @@ Vous arriverez alors sur la page suivante:
 
 ![](images/cursus-fig23.png)
 
-Il s'agit de la page d'accueil depuis laquelle vous pouvez [créer mais surtout gérer les formations](create-trainings.md).
+Il s'agit de la page d'accueil depuis laquelle vous pouvez [créer mais surtout gérer vos formations](create-trainings.md). Nous y reviendrons dans la prochaine partie de ce manuel. 
 
 
