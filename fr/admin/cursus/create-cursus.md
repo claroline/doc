@@ -15,4 +15,19 @@ Cliquez sur le 3ème bouton (illustré en vert ci-dessous) pour accéder aux cur
 
 ![](images/cursus-fig27.png)
 
+Vous arrivez alors sur une page qui liste tous les cursus (NDLR: "catalogues") que vous avez sur votre plateforme. 
+![](images/cursus-fig29.png)
+
+A côté des noms se trouve une série d'actions possibles.
+
+"L'oeil" permet de consulter rapidement la structure complète d'un cursus. 
+
+![](images/cursus-fig30.png)
+"Le crayon avec la feuille" permet d'éditer les paramètres du cursus. 
+
+"La corbeille quant à elle permet de supprimer complètement le cursus.
+
+
+
+
 

@@ -1,4 +1,4 @@
-#### Organiser des formations
+#### Structurer ses formations
 
 ---
 
