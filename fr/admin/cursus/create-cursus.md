@@ -10,4 +10,9 @@ Vous arriverez alors sur la page suivante:
 
 Il s'agit de la page d'accueil depuis laquelle vous pouvez [créer mais surtout gérer vos formations](create-trainings.md). Nous y reviendrons dans la prochaine partie de ce manuel. 
 
+En haut à droit de cette page, vous avez un menu composé de 4 icônes.
+Cliquez sur le 3ème bouton (illustré en vert ci-dessous) pour accéder aux cursus. 
+
+![](images/cursus-fig27.png)
+
 
