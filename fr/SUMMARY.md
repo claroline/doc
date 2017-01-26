@@ -95,6 +95,8 @@
         * [Exemple de structures](admin/cursus/examples.md)
             * [Exemple de structure pour une école](admin/cursus/example-school.md)
             * [Exemple de structure pour une société](admin/cursus/example-business.md)
+        * [Configurer le gestionnaire de formations](admin/cursus/general-config.md)
+        
     * [Configurer les connexions via les réseaux sociaux](admin/oauth/oauth.md)
         * [Facebook](admin/oauth/facebook.md)
 * [Participer à l'écriture de la documentation](doc/doc.md)
