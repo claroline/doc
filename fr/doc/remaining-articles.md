@@ -2,8 +2,6 @@
 
 ---
 
-
-
 Ci-dessous, vous trouverez la liste des articles à rédiger.
 
 ### Chapitre 1 : Introduction
