@@ -108,7 +108,13 @@ A ajouter à l'existant dans les différents types de ressources:
 ---
 
 * [Administration](admin/admin.md)
-  * [Installation](admin/install/install.md)
+  * [Gérer les utilisateurs](admin/users/users-general.md)
+    * [Créer des utilisateurs](admin/users/users-create.md)
+    * [Modifier des utilisateurs](admin/users/users-change.md)
+    * [Gérer des groupes](admin/users/users-groups.md)
+    * [Gérer des organisations](admin/users/users-organizations.md)  
+    * [Gérer des rôles](admin/users/users-roles.md)
+    * [Personnaliser les profils](admin/users/users-profiles.md)
   * [Configuration des connexions via les réseaux sociaux](admin/oauth/oauth.md)
     * [Facebook](admin/oauth/facebook.md)
     * [Twitter](admin/oauth/twitter.md)
@@ -116,6 +122,12 @@ A ajouter à l'existant dans les différents types de ressources:
     * [LinkedIn](admin/oauth/linkedin.md)
     * [Office 365](admin/oauth/office.md)
     * [Windows Live](admin/oauth/windows.md)
+  * [Gérer l'outil de présence](admin/presences.md)  
+  * [Gérer l'outil de support](admin/support.md)  
 
+### Chapitre 9 : L'installation
+
+---
+[Installation](admin/install/install.md)
 
 
