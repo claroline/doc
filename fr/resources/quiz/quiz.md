@@ -1,16 +1,14 @@
 ## Le questionnaire
 
 ---
-<p align="center">
 
 ![](images/quiz_fig1.png)
 
-</p>
 <p align="center">
 Quiz Fig.1 - Icône de la ressource Questionnaire
 </p>
 Le questionnaire est une ressource qui permet de créer, organiser et lire des questions.
-Il peut à la fois servir à l'entraînement et à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
+Il peut à la fois servir à l'entraînement, à l'acquisition de connaissances, à la passation d'un examen ou à recueillir différents avis au sein d'un groupe de personnes.
 
 Le questionnaire est constitué d'étapes et ce sont ces dernières qui contiennent les questions. 
 
