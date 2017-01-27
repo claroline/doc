@@ -29,8 +29,11 @@ Deux option s'offrent alors à vous:
 *    [Créer une formation](create-trainings.md)
 *    Ajouter une formation (déjà existante dans la plateforme)
 
+Si vous travaillé avec des formations déjà présentes dans la plateforme, vous ouvrir une liste des formations existantes. Vous pouvez filtrer la liste sur base du titre ou du code, il suffit de cliquer sur ajouter pour "ranger" la formation dans le cursus. Une même formation peut tout à fait être associé à deux endroits d'un même cursus. Pour plus de clarté à ce sujet, je vous invite une nouvelle fois à consulter [les exemples](examples.md)en fin de chapitre. 
+
 {% center %}![](images/cursus-fig38.png){% endcenter %}
 
+Au bout du compte, vous arriverez à un affichage ressemblant à ceci.
 
 {% center %}![](images/cursus-fig40.png){% endcenter %}
 
