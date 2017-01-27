@@ -44,6 +44,8 @@ Vous avez ensuite la possibilité d'associer une **description** et une **icône
 
 Vous avez la possibilité d'associer **un espace d'activités** existant à votre cursus. Cela aura pour conséquence que tous les étudiants inscrits dans ce cursus seront également inscrits dans cet espace d'activités. Selon vos besoins cet espace en particulier peut être un lieu d'échange ou de contenus administratifs...
 
+Le fait de rendre votre cursus **bloquant** limitera l'inscription à ce niveau précis du catalogue. Nous y reviendrons plus en détail par la suite. 
 
+Il vous reste encore la possibilité de choisir une **couleur** qui sera associée à ce cursus. 
 
 
