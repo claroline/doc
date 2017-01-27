@@ -32,3 +32,6 @@ Deux option s'offrent alors à vous:
 {% center %}![](images/cursus-fig38.png){% endcenter %}
 
 
+{% center %}![](images/cursus-fig40.png){% endcenter %}
+
+
