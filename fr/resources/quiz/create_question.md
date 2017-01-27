@@ -2,7 +2,6 @@
 
 ---
 
-Une question est un sous-élément d'une étape. Il faut donc cliquer sur l'étape pour créer une question.   
 Une fois dans l'étape, vous pouvez choisir entre créer une question ou en importer depuis votre banque de questions.
 
 ##### Créer une nouvelle question
