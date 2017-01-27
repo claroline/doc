@@ -7,7 +7,7 @@ Vous pouvez modifier le titre original de votre questionnaire, mais ce champ ne 
 
 #####Description
 
-La description de l'exercice que vous ferrez dans ce champ sera visible par tous les utilisateurs dans la vue d'ensemble au dessus du tableau contenant les informations concernant votre questionnaire.
+La description de l'exercice que vous ferez dans ce champ sera visible par tous les utilisateurs dans la vue d'ensemble au-dessus du tableau contenant les informations concernant votre questionnaire.
 ![](images/quiz-fig8.png)
 
 #####Afficher les informations
