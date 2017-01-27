@@ -47,11 +47,4 @@ Il s'agit bien évidement de l'action la plus importante. En cliquant sur ce bou
 {% center %} This **will be** centered. {% endcenter %}
 
 
-<div class="test"><p>This <strong>will be</strong> aligned left.</p></div>
- 
-<div class="ba-right"><p>This <strong>will be</strong> aligned right.</p></div>
- 
-<div class="ba-center"><p>This <strong>will be</strong> centered.</p></div>
-
-
 
