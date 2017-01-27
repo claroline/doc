@@ -18,11 +18,10 @@
         "hints",
         "markdown-parse-add-br",
         "page-toc-button",
-        "gitbook-plugin-block-align"
+        "gitbook-plugin-block-align",
+        "block-align"
     ],
     "plugin": [
         "foo"
-    ],
-    "pluginsConfig": {}
-    
+    ]
 }
