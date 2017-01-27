@@ -20,7 +20,7 @@ En cliquant sur "Paramètres" vous pourrez accéder aux paramètres de l'étape.
 Vous pouvez donner un nom à votre étape. Il sera directement changé dans la vignette de gauche (comme ci-dessus avec le titre "intro") et sera visible lors de la passation de l'exercice par les utilisateurs.
 
 ##### La description
-La description sera aussi visible lors de la passation.
+La description sera aussi visible lors de la passation comme vous pouvez le voir au dessus de la question ci-dessous.
 ![](images/quiz-fig9.png)
 
 ##### Le nombre d'essais maximum
