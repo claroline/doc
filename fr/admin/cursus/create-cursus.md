@@ -37,4 +37,6 @@ Au bout du compte, vous arriverez à un affichage ressemblant à ceci.
 
 {% center %}![](images/cursus-fig40.png){% endcenter %}
 
+Concernant les cadenas, ils ont une influence sur le mécanisme d'inscription. Je vous invite donc à consulter la partie sur la [gestion des inscriptions](examples.md)pour bien comprendre leur fonction. 
+
 
