@@ -9,6 +9,7 @@ Lorsque vous arrivez pour la première fois dans votre questionnaire, vous avez 
 
 #### Créer une étape
 Si vous souhaitez créer d'autres étapes il suffit de cliquer sur le "+" se trouvant sous l'étape existante : 
+
 ![](images/quiz-fig6.png)
 
 #### Paramétrer une étape
@@ -16,12 +17,17 @@ Si vous souhaitez créer d'autres étapes il suffit de cliquer sur le "+" se tro
 En cliquant sur "Paramètres" vous pourrez accéder aux paramètres de l'étape.
 
 ![](images/quiz-fig7.png)
-##### Le titre 
+
+* Le titre 
+
 Vous pouvez donner un nom à votre étape. Il sera directement changé dans la vignette de gauche (comme ci-dessus avec le titre "intro") et sera visible lors de la passation de l'exercice par les utilisateurs.
 
-##### La description
+* La description
+
 La description sera aussi visible lors de la passation comme vous pouvez le voir au dessus de la question ci-dessous.
+
 ![](images/quiz-fig9.png)
 
-##### Le nombre d'essais maximum
+* Le nombre d'essais maximum
+
 Ici, vous pouvez configurer le nombre maximum d'essais que l'utilisateur aura pour cette étape. 
