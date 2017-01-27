@@ -48,4 +48,9 @@ Le fait de rendre votre cursus **bloquant** limitera l'inscription à ce niveau 
 
 Il vous reste encore la possibilité de choisir une **couleur** qui sera associée à ce cursus. 
 
+Une fois validé avec le bouton "ok", votre cursus est créé et vous revenez à la liste des cursus. 
+
+{% center %}![](images/cursus-fig29.png){% endcenter %}
+
+Avant de passer à la suite de la création du cursus, il est temps de donner un mot d'explication sur les fonctions **importer** et **exporter**. Avec le premier bouton vous pourrez sauvegarder votre cursus sur votre ordinateur au format ".json", c'est une norme technique. Le second bouton permet de restaurer sur votre plateforme un cursus toujours au format ".json". Vous aurez dès lors compris que ces fonctions ont essentiellement des viser d'archivage ou de transfert entre plateformes.
 
