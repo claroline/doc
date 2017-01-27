@@ -32,6 +32,13 @@ Au dessus de cette liste de cursus se trouve le menu principal.
 
 ![](images/cursus-fig39.png)
 
+* Créer un cursus:
+
+Il s'agit bien évidement de l'action la plus importante. En cliquant sur ce bouton, vous ouvrez un formulaire de création.
+
+![](images/cursus-fig31.png)
+
+
 
 
 
