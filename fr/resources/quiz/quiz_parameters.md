@@ -1,4 +1,4 @@
-### Configurer les paramètres du questionnaire
+### Paramétrer votre questionnaire
 
 ---
 
