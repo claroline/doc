@@ -6,23 +6,23 @@ Pour créer votre cursus, rendez-vous dans le menu d'administration et cliquez s
 
 Vous arriverez alors sur la page suivante:
 
-![](images/cursus-fig23.png)
+{% center %}![](images/cursus-fig23.png){% endcenter %}
 
 Il s'agit de la page d'accueil depuis laquelle vous pouvez [créer mais surtout gérer vos formations](create-trainings.md). Nous y reviendrons dans la prochaine partie de ce manuel. 
 
 En haut à droit de cette page, vous avez un menu composé de 4 icônes.
 Cliquez sur le 3ème bouton (illustré en vert ci-dessous) pour accéder aux cursus. 
 
-![](images/cursus-fig27.png)
+{% center %}![](images/cursus-fig27.png){% endcenter %}
 
 Vous arrivez alors sur une page qui liste tous les cursus (NDLR: "catalogues") que vous avez sur votre plateforme. 
-![](images/cursus-fig29.png)
+{% center %}![](images/cursus-fig29.png){% endcenter %}
 
 A côté des noms se trouve une série d'actions possibles.
 
 "L'oeil" permet de consulter rapidement la structure complète d'un cursus. 
 
-![](images/cursus-fig30.png)
+![](images/cursus-fig30.png){% endcenter %}
 
 "Le crayon avec la feuille" permet d'éditer les paramètres du cursus. 
 
@@ -30,21 +30,16 @@ A côté des noms se trouve une série d'actions possibles.
 
 Au dessus de cette liste de cursus se trouve le menu principal.
 
-![](images/cursus-fig39.png)
+{% center %}![](images/cursus-fig39.png){% endcenter %}
 
 * Créer un cursus:
 
 Il s'agit bien évidement de l'action la plus importante. En cliquant sur ce bouton, vous ouvrez un formulaire de création.
 
-![](images/cursus-fig31.png)
+{% center %}![](images/cursus-fig31.png){% endcenter %}
 
 
 
-{% left %} This **will be** aligned left. {% endleft %}
- 
-{% right %} This **will be** aligned right. {% endright %}
- 
-{% center %} This **will be** centered. {% endcenter %}
 
 
 
