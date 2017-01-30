@@ -1,8 +1,10 @@
 /* CSS for website */
 img{
-color:red;
+
 border:1px solid black;
 
 }
 
-
+p{
+color:red;
+}
