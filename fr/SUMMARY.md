@@ -96,7 +96,7 @@
       * [Inscription individuelle](admin/cursus/individual-inscriptions.md)
       * [Inscription à des formations](admin/cursus/formations-inscriptions.md)
       * [Inscription à des cursus](admin/cursus/cursus-inscriptions.md)
-    * [Organiser des formations](admin/cursus/admin-formations.md)
+    * [Structurer ses formations](admin/cursus/admin-formations.md)
       * [Gérer des cursus](admin/cursus/admin-cursus.md)
         * [Créer des cursus](admin/cursus/create-cursus.md)
       * [Gérer des formations](admin/cursus/admin-trainings.md)
