@@ -3,13 +3,6 @@
 ---
 
 Une fois dans l'étape, vous pouvez choisir entre créer une question ou en importer depuis votre banque de questions.
+Pour créer une question cliquez sur "Créer une nouvelle question". Cliquez sur la flèche du même bouton pour afficher le bouton "importer une/des questions(s)".
 
-##### Créer une nouvelle question
-
-En cliquant sur **Créer une nouvelle question**, la liste des différents types de questions qu'il est possible de créer s'affiche.   
-Cliquez alors sur le type de question qui vous intéresse.
-
-##### Importer une ou plusieurs question(s)
-
-
-
+![](images/quiz-fig11.png)
