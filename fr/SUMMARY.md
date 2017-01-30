@@ -82,6 +82,7 @@
         * [Correction](resources/quiz/quiz_parameters_correction.md)
       * [Créer et paramétrer une étape](resources/quiz/create_step.md)
       * [Créer une question](resources/quiz/create_question.md)
+        * [Créer une nouvelle question](resources/quiz/create_new_question.md)
 * [L'administration](admin/administration.md)
   * [Accéder aux paramètres de la plateforme](admin/platform-cfg.md)
   * [Aperçu des paramètres modifiables sur la plateforme](admin/platform-parameters.md)
