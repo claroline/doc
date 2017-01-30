@@ -24,7 +24,7 @@ Maintenant que vous avez créé le squelette de votre cursus, vous allez pouvoir
 
 {% center %}![](images/cursus-fig33.png){% endcenter %}
 
-Deux option s'offrent alors à vous:
+Deux options s'offrent alors à vous:
 
 *    [Créer une formation](create-trainings.md)
 *    Ajouter une formation (déjà existante dans la plateforme)
