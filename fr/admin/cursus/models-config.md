@@ -72,5 +72,3 @@ Avant l'expédition, vous pourrez avoir un aperçu du courrier complété.
 ![](images/cursus-fig48.png)
 
 >Les balises %first_name% et %last_name% ne sont pas remplacées dans l'aperçu. Pas d'inquiétudes, c'est normal. Etant donné que plusieurs personnes peuvent être inscrites à une session/séance, la plateforme n'ajoute le nom qu'au moment de l'expédition. Donc, même si vous ne le voyez pas, votre utilisateur aura  bien son nom et son prénom dans la version qu'il recevra par Email.
-
-test
