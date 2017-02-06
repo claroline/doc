@@ -14,7 +14,7 @@ Pour créer une page, cliquez sur l'icône suivante de la barre d'outils:
 
 Les pages de contenu apparaissent alors:
 
-![](images/fig161.png)
+![](images/home-fig2.png)
 
 <p style="text-align: center; color: blue">Figure 161 - Visualisation des pages existantes.</p>
 
