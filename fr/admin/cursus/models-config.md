@@ -2,7 +2,7 @@
 ---
 
 Comme nous l'avons expliquer précédemment, il est possible d'envoyer, par mail, aux participants des invitations ou des attestations de présence. Ces documents sont entièrement personnalisable, et vous pouvez créer autant de variante que nécessaire.
-Pour cela, vous allez créer des modèles qui seront automatiquement complétés avec les informations précises de chaque utilisateur et de chaque formation.+
+Pour cela, vous allez créer des modèles qui seront automatiquement complétés avec les informations précises de chaque utilisateur et de chaque formation.
 
 Vous pouvez crééer quatre types différents de documents :
 * Invitation à une séance
