@@ -48,12 +48,10 @@ Cette action aura pour effet de vous ouvrir un formulaire découper en deux part
 La première partie se présente sous le forme d'un encadré jaune qui vous propose des balises utilisables dans votre document. Ces balises seront remplacées dans le texte par la valeur correspondante à l'utilisateur ou à la formation adéquat.
 
 ![](images/cursus-fig44.png)
-*Balises pour les invitations/certificats à des sessions*
 
 Comme expliqué précédemment, en fonction du type du modèle, que vous pouvez choisir dans la seconde partie du formulaire, les balises proposées ne seront pas les mêmes.
 
-![test](images/cursus-fig45.png "test2")
-*Balises pour les invitations/certificats à des séances*
+![](images/cursus-fig45.png "test2")
 
 A vous maintenant de créer votre modèle en utilisant une ou plusieurs des balises proposées.
 
