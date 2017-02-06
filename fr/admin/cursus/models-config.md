@@ -52,7 +52,7 @@ La première partie se présente sous le forme d'un encadré jaune qui vous prop
 
 Comme expliqué précédemment, en fonction du type du modèle, que vous pouvez choisir dans la seconde partie du formulaire, les balises proposées ne seront pas les mêmes.
 
-![](images/cursus-fig45.png)
+![test](images/cursus-fig45.png "test2")
 *Balises pour les invitations/certificats à des séances*
 
 A vous maintenant de créer votre modèle en utilisant une ou plusieurs des balises proposées.
