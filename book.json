@@ -17,11 +17,10 @@
         "-githubcontributors",
         "hints",
         "markdown-parse-add-br",
-        "page-toc-button"
+        "page-toc-button",
+        "block-align"
     ],
     "plugin": [
         "foo"
-    ],
-    "pluginsConfig": {}
-    
+    ]
 }

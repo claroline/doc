@@ -1,8 +1,8 @@
-#### Organiser des formations
+#### Structurer ses formations
 
 ---
 
-Au sein de la plateforme, les formations vont se structurer en partant d'un niveau trés général et abstrait (le cursus) vers des éléments de plus en plus précis pour aboutir finalement à des séances. La manière dont vous aller apréhender et utiliser l'outil va induire l'organisation de votre plateforme.
+Au sein de la plateforme, les formations vont se structurer en partant d'un niveau très général et abstrait (le cursus) vers des éléments de plus en plus précis pour aboutir finalement à des séances. La manière dont vous aller appréhender et utiliser l'outil va induire l'organisation de votre plateforme.
 
 Avant de rentrer du l'utilisation concrète du gestionnaire de formations, il est intéressant de faire un petit point lexicale, car si certains mots que nous utilisons au sein de la plateforme sont les mêmes que dans votre organisme, ils ne recouvrent pas nécessairement le même sens.
 
@@ -29,6 +29,6 @@ A ce niveau-ci nous rentrons réellement dans le concret, il ne s'agit plus simp
 
 * **Séance:**
 
-Les séances sont des évènements organisés durant une session. Là où la session définit une période plus ou moins longue, la séance indique un moment et un lieu précis. Typiquement il peut s'agir de l'organisation d'un moment en présentiel ou d'un rendez-vous sous forme de wébinaire. A travers l'utilisation des séances, la plateforme peut construire pour chaque apprenant ou chaque formateur son horaire personnalisé. 
+Les séances sont des événements organisés durant une session. Là où la session définit une période plus ou moins longue, la séance indique un moment et un lieu précis. Typiquement il peut s'agir de l'organisation d'un moment en présentiel ou d'un rendez-vous sous forme de wébinaire. A travers l'utilisation des séances, la plateforme peut construire pour chaque apprenant ou chaque formateur son horaire personnalisé. 
 
 ![](images/cursus-fig22.png)
