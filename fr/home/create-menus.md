@@ -4,7 +4,7 @@
 
 Pour **créer un menu**, cliquez sur l'icône "**Menus**" de la barre latérale d'outils située à gauche de la page.
 
-![](images/fig150.png)
+![](images/home-create-menu.png)
 
 <p style="text-align: center; color: blue">Figure 150 - Icône "Menu" de la bare latérale gauche.</p>
 
